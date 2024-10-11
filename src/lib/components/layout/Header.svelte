@@ -20,7 +20,7 @@
 	<div class="flex items-center text-base leading-5">
 		<div class="hidden sm:block">
 			{#each navLinks as link}
-				<a href={link.href} class="p-1 font-medium text-gray-900 dark:text-gray-100 sm:p-4"
+				<a href={link.href} class="p-1 font-medium text-gray-900 dark:text-gray-100 sm:p-4 dark:hover:text-green-300 hover:text-amber-950"
 					>{link.title}</a
 				>
 			{/each}
