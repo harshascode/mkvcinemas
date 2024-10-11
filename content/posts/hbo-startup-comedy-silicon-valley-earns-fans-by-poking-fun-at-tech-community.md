@@ -1,14 +1,14 @@
 ---
 title: HBO Startup Comedy 'Silicon Valley' Earns Fans By Poking Fun At Tech Community
 date: '2024-06-02'
-draft: true
+draft: false
 summary: 'When HBO rolled out a TV series poking fun at high tech this spring, Silicon Valley checked it out.'
 image: https://cdn.vox-cdn.com/uploads/chorus_asset/file/14788550/siliconvalley_promotionalstills2_1020.0.1412635415.jpg
 tags:
   - FirstPost
   - HBO
   - Community
-author: Dinesh Chugtai
+author: Harsha
 ---
 
 By [Firstpost](https://www.firstpost.com/tech/news-analysis/hbos-mockumentary-silicon-valley-finds-fans-tech-3652309.html)

@@ -92,28 +92,23 @@
 	{#if !currentPosts.length}
 		No post found.
 	{:else}
-		<ul class="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+		<ul class="grid grid-cols-2 gap-6 sm:grid-cols-3 lg:grid-cols-5">
 			{#each currentPosts as post}
-				<li class="py-12">
-					<article class="h-full border p-4 rounded-lg shadow-md bg-white dark:bg-gray-800">
+				<li class="py-1">
+					<article class="h-full border p-1 rounded-lg shadow-md bg-white dark:bg-gray-800">
 						<div class="space-y-2">
-							<Author author={post.author} postDate={post.date} />
+							<!-- <Author author={post.author} postDate={post.date} /> -->
 							<div class="space-y-5">
 								<div class="space-y-6">
 									<div>
+										<div class="w-full">
+											<img src={post.image} alt="">
+										</div>
 										<h2 class="text-2xl font-bold leading-8 tracking-tight">
 											<a href={`/${post.slug}`} class="text-gray-900 dark:text-gray-100">
 												{post.title}
 											</a>
 										</h2>
-										<div class="flex flex-wrap">
-											{#each post.tags as tag}
-												<Tag text={tag} />
-											{/each}
-										</div>
-									</div>
-									<div class="prose max-w-none text-gray-500 dark:text-gray-400">
-										{post.summary}
 									</div>
 								</div>
 								{#if more}
