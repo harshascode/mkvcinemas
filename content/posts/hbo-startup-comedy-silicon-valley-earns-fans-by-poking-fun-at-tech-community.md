@@ -4,6 +4,7 @@ date: '2024-06-02'
 draft: false
 summary: 'When HBO rolled out a TV series poking fun at high tech this spring, Silicon Valley checked it out.'
 image: https://cdn.vox-cdn.com/uploads/chorus_asset/file/14788550/siliconvalley_promotionalstills2_1020.0.1412635415.jpg
+cardimg: /card.webp
 tags:
   - FirstPost
   - HBO

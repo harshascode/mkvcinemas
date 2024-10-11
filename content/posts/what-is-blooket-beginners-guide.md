@@ -4,6 +4,7 @@ date: '2024-09-22'
 draft: false
 summary: 'Learn how Blooket turns classroom learning into fun, competitive games with engaging quizzes. boosts student motivation and keeps them excited to learn'
 image: https://utfs.io/f/IHKlPQwXJ4N67GMQ1gor1RpCJqLV9GsPIUo4vdBxabgyeAjF
+cardimg: /card.webp
 tags:
   - Blooket
 author: Harsha
