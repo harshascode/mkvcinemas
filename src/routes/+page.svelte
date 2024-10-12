@@ -17,10 +17,7 @@
 		Welcome to Mkvcinemas
 	</h1> -->
 	<p class="text-base prose-base text-gray-800 dark:text-gray-100">
-		Looking for the latest Mkv cinemas in HD quality? MkvCinemas offers a wide range of options to
-		stream or download movies, TV shows, and web series for free or through popular paid platforms.
-		You can enjoy the newest content in multiple languages, including Tamil, Telugu, Hindi, English,
-		Malayalam, Kannada, Marathi, and Odia, all conveniently available on the Mkvcinemas web app.
+		Looking for the latest HD-quality Mkv cinemas? MkvCinemas provides information on where to stream or download movies, TV shows, and web series through free or popular paid platforms. You can access content in multiple languages, including Tamil, Telugu, Hindi, English, Malayalam, Kannada, Marathi, and Odia, all conveniently available through the Mkvcinemas web app.
 	</p>
 </div>
 
@@ -33,7 +30,7 @@
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Kalinga" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Kalinga</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Kalinga</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
@@ -41,7 +38,7 @@
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Aho Vikramaarka" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Aho Vikramaarka</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Aho Vikramaarka</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
@@ -49,7 +46,7 @@
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Maharaja" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Maharaja</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Maharaja</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
@@ -57,7 +54,7 @@
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Manamey" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Manamey</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Manamey</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
@@ -65,56 +62,56 @@
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
@@ -142,7 +139,7 @@
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Kalinga" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Kalinga</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Kalinga</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
@@ -150,7 +147,7 @@
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Aho Vikramaarka" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Aho Vikramaarka</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Aho Vikramaarka</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
@@ -158,7 +155,7 @@
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Maharaja" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Maharaja</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Maharaja</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
@@ -166,7 +163,7 @@
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Manamey" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Manamey</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Manamey</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
@@ -174,56 +171,56 @@
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
@@ -279,7 +276,7 @@
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Kalinga" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Kalinga</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Kalinga</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
@@ -287,7 +284,7 @@
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Aho Vikramaarka" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Aho Vikramaarka</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Aho Vikramaarka</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
@@ -295,7 +292,7 @@
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Maharaja" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Maharaja</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Maharaja</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
@@ -303,7 +300,7 @@
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Manamey" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Manamey</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Manamey</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
@@ -311,56 +308,56 @@
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
@@ -395,7 +392,7 @@
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Kalinga" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Kalinga</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Kalinga</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
@@ -403,7 +400,7 @@
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Aho Vikramaarka" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Aho Vikramaarka</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Aho Vikramaarka</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
@@ -411,7 +408,7 @@
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Maharaja" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Maharaja</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Maharaja</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
@@ -419,7 +416,7 @@
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Manamey" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Manamey</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Manamey</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
@@ -427,56 +424,56 @@
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 		<div class="p-0 m-auto rounded hover:scale-105 transition-transform mb-10 cursor-pointer">
 			<a href="/">
 				<img src="/card.webp" alt="Mr. Bachchan" class="rounded mb-4" />
-				<p class="text-sm lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>

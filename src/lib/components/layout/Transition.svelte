@@ -4,7 +4,7 @@
 </script>
 
 {#key pathname}
-	<div in:fly={{ x: -5, duration: 500, delay: 500 }}>
+	<div in:fly={{ x: -5, duration: 300, delay: 300 }}>
 		<slot />
 	</div>
 {/key}

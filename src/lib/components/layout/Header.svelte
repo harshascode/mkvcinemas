@@ -4,7 +4,7 @@
 	import MobileMenu from '$lib/components/MobileMenu.svelte';
 </script>
 
-<header class="flex items-center justify-between py-10">
+<header class="flex items-center justify-between py-6 lg:py-10 md:py-10">
 	<div>
 		<a href="/" aria-label={config.headerTitle}>
 			<div class="flex items-center justify-between">
