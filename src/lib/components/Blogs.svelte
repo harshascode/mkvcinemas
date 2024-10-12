@@ -62,7 +62,7 @@
 					<article class="h-full p-1 rounded-lg shadow-md bg-white dark:bg-transparent">
 						<div class="space-y-2">
 							<!-- <Author author={post.author} postDate={post.date} /> -->
-							<div class="space-y-5">
+							<div class="space-y-2">
 								<div class="space-y-6">
 									<div>
 										<div class="w-full">
@@ -70,7 +70,7 @@
 												<img src={post.cardimg} alt={post.title} />
 											</a>
 										</div>
-										<h2 class="text-2xl font-bold leading-8 tracking-tight">
+										<h2 class="text-base mt-2 font-bold leading-6 tracking-tight">
 											<a href={`/${post.slug}`} class="text-gray-900 dark:text-gray-100">
 												{post.title}
 											</a>
@@ -78,7 +78,7 @@
 									</div>
 								</div>
 								{#if more}
-									<div class="text-base font-medium leading-6">
+									<div class="text-base font-medium">
 										<a
 											href={`/${post.slug}`}
 											class="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"

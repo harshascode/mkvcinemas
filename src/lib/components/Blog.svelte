@@ -7,7 +7,7 @@
 	// export let author;
 </script>
 
-<div class="mx-auto max-w-5xl px-4 sm:px-6 xl:max-w-5xl xl:px-0">
+<div class="mx-auto max-w-5xl px-4 sm:px-4 xl:max-w-5xl xl:px-0">
 	<article>
 		<div class="xl:divide-y xl:divide-gray-200 xl:dark:divide-gray-700">
 			<header class="pt-6 xl:pb-6">
@@ -46,7 +46,7 @@
 				</div>
 			</header>
 			<div
-				class="divide-y divide-gray-200 pb-8 dark:divide-gray-700 xl:grid xl:grid-cols-4 xl:gap-x-7 xl:divide-y-0"
+				class="divide-y divide-gray-200 pb-8 pt-4 dark:divide-gray-700 xl:grid xl:grid-cols-4 xl:gap-x-7 xl:divide-y-0"
 				style="grid-template-rows: auto 1fr;"
 			>
 				<!-- <dl class="pt-6 pb-10 xl:border-b xl:border-gray-200 xl:pt-11 xl:dark:border-gray-700">
@@ -64,9 +64,9 @@
 				<div
 					class="divide-y divide-gray-200 dark:divide-gray-700 xl:col-span-3 xl:row-span-2 xl:pb-0"
 				>
-					<div class="prose text-lg text-justify max-w-none pt-1 pb-8 dark:prose-dark">
+					<div class="prose text-base text-justify max-w-none pt-1 pb-8 dark:prose-dark">
 						{#if post.image}
-							<div class=" w-full">
+							<div class="w-full">
 								<img
 									alt={post.title}
 									src={post.image}
