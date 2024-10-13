@@ -4,32 +4,32 @@ import { getEntries } from '$utils/entries.js';
 
 /** @type {import('@sveltejs/kit').RequestHandler} */
 export async function GET() {
-    try {
-        const feed = new RSS({
-            title: config.title + ' - RSS Feed',
-            site_url: config.siteUrl,
-            feed_url: config.siteUrl + '/feed.xml'  // Ensure correct URL
-        });
+	try {
+		const feed = new RSS({
+			title: config.title + ' - RSS Feed',
+			site_url: config.siteUrl,
+			feed_url: config.siteUrl + '/feed.xml' // Ensure correct URL
+		});
 
-        const posts = getEntries('posts');
-        posts.forEach((post) => {
-            feed.item({
-                title: post.title,
-                url: config.siteUrl + `/${post.slug}`,
-                date: post.date,
-                description: post.summary
-            });
-        });
+		const posts = getEntries('posts');
+		posts.forEach((post) => {
+			feed.item({
+				title: post.title,
+				url: config.siteUrl + `/${post.slug}`,
+				date: post.date,
+				description: post.summary
+			});
+		});
 
-        return new Response(feed.xml({ indent: true }), {
-            headers: {
-                'Cache-Control': `max-age=0, s-maxage=${600}`, // 10 minutes
-                'Content-Type': 'application/rss+xml'
-            }
-        });
-    } catch (err) {
-        return new Response('Error generating RSS feed', {
-            status: 500
-        });
-    }
+		return new Response(feed.xml({ indent: true }), {
+			headers: {
+				'Cache-Control': `max-age=0, s-maxage=${600}`, // 10 minutes
+				'Content-Type': 'application/rss+xml'
+			}
+		});
+	} catch (err) {
+		return new Response('Error generating RSS feed', {
+			status: 500
+		});
+	}
 }

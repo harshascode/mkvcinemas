@@ -15,15 +15,16 @@ Get excited for "Double iSmart," the new film directed by the famous Puri Jagann
 With "Double iSmart," the spotlight is on India as it aims to capture the hearts of moviegoers everywhere. Fans can expect an unforgettable experience that will leave them eager for more. Get ready for an adventure like no other!
 
 ## Cast Overview of Double iSmart
+
 "Double iSmart" boasts an impressive cast that adds depth and excitement to the film.
 
-* Ram Pothineni returns as the lead, bringing back his charismatic charm and action skills that made him a standout in the first movie, "iSmart Shankar." Fans are eager to see his character's journey continue.
+- Ram Pothineni returns as the lead, bringing back his charismatic charm and action skills that made him a standout in the first movie, "iSmart Shankar." Fans are eager to see his character's journey continue.
 
-* Sanjay Dutt, a true icon of Indian cinema, adds even more star power to the film. There's a lot of buzz and anticipation around his role, making his participation a highlight for many fans.
+- Sanjay Dutt, a true icon of Indian cinema, adds even more star power to the film. There's a lot of buzz and anticipation around his role, making his participation a highlight for many fans.
 
-* Kavya Thapar, known for her captivating performances, takes on a lead role, showcasing her amazing talent once again.
+- Kavya Thapar, known for her captivating performances, takes on a lead role, showcasing her amazing talent once again.
 
-* Bani J, a versatile actress, also plays a significant role, enriching the ensemble cast with her skills.
+- Bani J, a versatile actress, also plays a significant role, enriching the ensemble cast with her skills.
 
 The supporting cast is equally impressive:
 
@@ -32,25 +33,25 @@ The supporting cast is equally impressive:
 - Sayaji Shinde, a veteran actor, lends his experience to the project, enhancing its overall quality.
 - Makrand Deshpande contributes with his intense performances, taking on another key supporting character.
 - Temper Vamsi plays a significant role in driving the storyline forward.
-With such a talented lineup, "Double iSmart" is set to be an engaging and entertaining cinematic experience!
+  With such a talented lineup, "Double iSmart" is set to be an engaging and entertaining cinematic experience!
 
 ## Double iSmart: Details
 
-| **Movie**             | Double iSmart                                                                                       |
-|-----------------------|-----------------------------------------------------------------------------------------------------|
-| **Language**          | Telugu, Malayalam, Kannada, Tamil, Hindi                                                           |
-| **Screen**            | 2D                                                                                                 |
-| **Release Date**      | 15 August 2024                                                                                     |
-| **Star Cast**         | Ram Pothineni, Sanjay Dutt, Kavya Thapar, Bani J., Bodupalli Srinu, Sayaji Shinde, Makarand Deshpande, Temper Vamshi |
-| **Country**           | India                                                                                               |
-| **Genres**            | Action, Sci-Fi, Thriller                                                                            |
-| **Director**          | Puri Jagannadh                                                                                     |
-| **Producer**          | Puri Jagannadh, Charmy Kaur                                                                        |
-| **Writer**            | Puri Jagannadh                                                                                     |
-| **Music**             | Mani Sharma                                                                                         |
-| **Cinematographer**   | Sam K Naidu, Gianni Giannelli                                                                      |
-| **Editor**            | Karthika Sreenivas                                                                                 |
-| **Production company** | Puri Connects                                                                                     |
+| **Movie**              | Double iSmart                                                                                                        |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| **Language**           | Telugu, Malayalam, Kannada, Tamil, Hindi                                                                             |
+| **Screen**             | 2D                                                                                                                   |
+| **Release Date**       | 15 August 2024                                                                                                       |
+| **Star Cast**          | Ram Pothineni, Sanjay Dutt, Kavya Thapar, Bani J., Bodupalli Srinu, Sayaji Shinde, Makarand Deshpande, Temper Vamshi |
+| **Country**            | India                                                                                                                |
+| **Genres**             | Action, Sci-Fi, Thriller                                                                                             |
+| **Director**           | Puri Jagannadh                                                                                                       |
+| **Producer**           | Puri Jagannadh, Charmy Kaur                                                                                          |
+| **Writer**             | Puri Jagannadh                                                                                                       |
+| **Music**              | Mani Sharma                                                                                                          |
+| **Cinematographer**    | Sam K Naidu, Gianni Giannelli                                                                                        |
+| **Editor**             | Karthika Sreenivas                                                                                                   |
+| **Production company** | Puri Connects                                                                                                        |
 
 ## Review of Double iSmart
 

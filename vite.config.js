@@ -11,7 +11,7 @@ const config = {
 			$utils: path.resolve('./src/utils')
 		}
 	},
-	plugins: [sveltekit(), svg(svgPluginOptions), rawFonts(['.ttf'])],
+	plugins: [sveltekit(), svg(svgPluginOptions), rawFonts(['.ttf'])]
 };
 
 function rawFonts(ext) {
@@ -43,8 +43,6 @@ const svgPluginOptions = {
 };
 
 export default config;
-
-
 
 // import path from 'path';
 // import { sveltekit } from '@sveltejs/kit/vite';

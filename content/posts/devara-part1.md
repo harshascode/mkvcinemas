@@ -17,27 +17,28 @@ The talented Koratala Siva is both the writer and director, while Sudhakar Mikki
 Featuring a star-studded cast that includes Jr NTR, Janhvi Kapoor, Saif Ali Khan, and Prakash Raj, "Devara" is expected to leave a lasting impression. Get ready for a cinematic experience that blends love and adventure in a way you won't forget!
 
 ## Plot Summary of Devara
+
 In "Devara," the story unfolds in Darkwood, a hauntingly beautiful forest that serves as the backdrop for the drama. This mysterious setting is filled with both charm and danger.
 
 Within Darkwood resides a tribe that has harmoniously adapted to its surroundings, living in peace with nature. However, their tranquility is often disrupted by enemies seeking to invade the forest and exploit its valuable resources. The clash between the tribe and these intruders sets the stage for an intense and emotional journey.
 
 ## Devara Part-1: Details
 
-| Category         | Details                                                                                      |
-|------------------|----------------------------------------------------------------------------------------------|
-| **Release Date**  | 27 September 2024                                                                            |
-| **Language**      | Telugu                                                                                       |
-| **Dubbed In**     | Hindi, Tamil, Malayalam, Kannada                                                            |
-| **Genre**         | Action, Drama, Thriller                                                                       |
-| **Duration**      | 2h 57min                                                                                     |
-| **Cast**          | N. T. Rama Rao Jr, Janhvi Kapoor, Saif Ali Khan, Srikanth, Prakash Raj, Mandava Sai Kumar, Tarak Ponnappa |
-| **Director**      | Koratala Siva                                                                                |
-| **Writer**        | Koratala Siva                                                                                |
-| **Cinematography**| R. Rathnavelu                                                                                |
-| **Music**         | Anirudh Ravichander                                                                          |
-| **Producer**      | Mikkilineni Sudhakar, Kosaraju Hari Krishna                                                 |
-| **Production**    | MSK Films, NTR Arts, Yuvasudha Arts                                                         |
-| **Certificate**   | U/A                                                                                          |
+| Category           | Details                                                                                                   |
+| ------------------ | --------------------------------------------------------------------------------------------------------- |
+| **Release Date**   | 27 September 2024                                                                                         |
+| **Language**       | Telugu                                                                                                    |
+| **Dubbed In**      | Hindi, Tamil, Malayalam, Kannada                                                                          |
+| **Genre**          | Action, Drama, Thriller                                                                                   |
+| **Duration**       | 2h 57min                                                                                                  |
+| **Cast**           | N. T. Rama Rao Jr, Janhvi Kapoor, Saif Ali Khan, Srikanth, Prakash Raj, Mandava Sai Kumar, Tarak Ponnappa |
+| **Director**       | Koratala Siva                                                                                             |
+| **Writer**         | Koratala Siva                                                                                             |
+| **Cinematography** | R. Rathnavelu                                                                                             |
+| **Music**          | Anirudh Ravichander                                                                                       |
+| **Producer**       | Mikkilineni Sudhakar, Kosaraju Hari Krishna                                                               |
+| **Production**     | MSK Films, NTR Arts, Yuvasudha Arts                                                                       |
+| **Certificate**    | U/A                                                                                                       |
 
 ## Review of Devara Part 1
 

@@ -9,7 +9,7 @@
 </script>
 
 <div class="mx-auto max-w-7xl px-4 sm:px-6 xl:max-w-7xl xl:px-0">
-<!-- <div class="mx-auto px-4 sm:px-6 xl:px-6"> -->
+	<!-- <div class="mx-auto px-4 sm:px-6 xl:px-6"> -->
 	<div class="flex h-screen flex-col justify-between">
 		<Header />
 		<main class="mb-auto">

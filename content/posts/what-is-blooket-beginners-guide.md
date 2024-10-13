@@ -17,6 +17,7 @@ So, what is Blooket, how does it work, and why should you care?
 Let’s dive in.
 
 ## What is Blooket?
+
 To put it simply, Blooket is an online platform that takes quiz based learning and turns it into fun games. Instead of students just answering questions and moving on, Blooket takes them into interactive games where learning happens through play.
 
 The best part? Blooket uses competitive game mechanics to keep students hooked, transforming the learning process into something fun and engaging.
@@ -26,6 +27,7 @@ The best part? Blooket uses competitive game mechanics to keep students hooked, 
 ![Blooket-Home](/post-img/Blooket-homepage.webp)
 
 ## How Does Blooket Work?
+
 Here’s how Blooket operates, and trust me, it’s straightforward.
 
 First, you start with a question set (you can choose from a variety of pre-made sets or create your own). Then, you pick one of the many fun game modes, where students compete by answering those questions. But here’s the kicker: they’re not just earning points they’re playing Blooket’s games, which makes the entire experience more engaging.
@@ -45,33 +47,34 @@ First, you start with a question set (you can choose from a variety of pre-made 
 ![Blooket-Create](/post-img/Blooket-Create.webp)
 
 ## The Game Modes That Make Blooket Special
+
 Blooket offers a variety of game modes, each designed to make learning not just effective, but actually fun.
 
-* Pirate's Voyage: Navigate the seas, answer questions, and uncover treasures as you race to complete your journey.
+- Pirate's Voyage: Navigate the seas, answer questions, and uncover treasures as you race to complete your journey.
 
-* Gold Quest: Answer questions to collect gold, but beware—players can steal gold from one another, adding a layer of strategy and excitement.
+- Gold Quest: Answer questions to collect gold, but beware—players can steal gold from one another, adding a layer of strategy and excitement.
 
-* Crypto Hack: Decode and answer to steal cryptocurrencies from other players in this fast-paced digital heist.
+- Crypto Hack: Decode and answer to steal cryptocurrencies from other players in this fast-paced digital heist.
 
-* Fishing Frenzy: Reel in big catches by answering questions correctly, and climb the leaderboard.
+- Fishing Frenzy: Reel in big catches by answering questions correctly, and climb the leaderboard.
 
-* Tower Defense & Tower Defense 2: Build towers to defend your base, with every correct answer bringing new defensive resources.
+- Tower Defense & Tower Defense 2: Build towers to defend your base, with every correct answer bringing new defensive resources.
 
-* Monster Brawl: Fight monsters by answering questions, unlocking new power-ups with each correct response.
+- Monster Brawl: Fight monsters by answering questions, unlocking new power-ups with each correct response.
 
-* Deceptive Dinos: Outwit your opponents by answering correctly, but beware of hidden tricks in this dino-filled adventure.
+- Deceptive Dinos: Outwit your opponents by answering correctly, but beware of hidden tricks in this dino-filled adventure.
 
-* Battle Royale: Compete in a head-to-head quiz, eliminating opponents to be the last one standing.
+- Battle Royale: Compete in a head-to-head quiz, eliminating opponents to be the last one standing.
 
-* Café: Run a virtual café by answering questions quickly to serve food and keep customers happy.
+- Café: Run a virtual café by answering questions quickly to serve food and keep customers happy.
 
-* Factory: Manage a factory by producing goods with each correct answer to become the most successful player.
+- Factory: Manage a factory by producing goods with each correct answer to become the most successful player.
 
-* Racing: Speed through the competition by answering questions and reaching the finish line first.
+- Racing: Speed through the competition by answering questions and reaching the finish line first.
 
-* Blook Rush: Build your blook army by answering questions, and compete to dominate the board.
+- Blook Rush: Build your blook army by answering questions, and compete to dominate the board.
 
-* Classic: The original Blooket game mode—answer questions, score points, and see who comes out on top.
+- Classic: The original Blooket game mode—answer questions, score points, and see who comes out on top.
 
 ![Blooket-Game-Modes](/post-img/Blooket-Game-Modes.webp)
 
@@ -80,23 +83,25 @@ These games aren’t just about playing; they’re designed to teach. Students l
 ![Blooket-Game-Modes-Live](/post-img/Blooket-Game-Modes-live.webp)
 
 ### Features That Make Blooket a Must-Have
+
 So, what makes Blooket a must-have in every classroom? Let’s break down the top features:
 
-* Pre-made Question Sets: Don’t waste hours building quizzes from scratch. Blooket has tons of ready-to-use sets across all subjects.
+- Pre-made Question Sets: Don’t waste hours building quizzes from scratch. Blooket has tons of ready-to-use sets across all subjects.
 
-* Customizable Sets: Want something specific? You can build your own question sets in minutes.
+- Customizable Sets: Want something specific? You can build your own question sets in minutes.
 
-* Engaging Game Modes: The variety of game modes makes learning fun and keeps students engaged.
+- Engaging Game Modes: The variety of game modes makes learning fun and keeps students engaged.
 
-* Progress Tracking: Teachers can track performance, helping identify who needs extra help.
+- Progress Tracking: Teachers can track performance, helping identify who needs extra help.
 
-* Easy-to-Use Interface: Even if you’re not tech-savvy, Blooket is simple to set up and use.
+- Easy-to-Use Interface: Even if you’re not tech-savvy, Blooket is simple to set up and use.
 
 ## Why Blooket Should Be in Every Classroom
 
 Here’s the deal: Blooket works because it taps into something fundamental students love games, and they love winning.
 
 ### Here’s why Blooket makes learning better:
+
 1. Engagement: Students get hooked by the fun game mechanics. When they’re having fun, they learn more.
 
 2. Motivation: The competitive element of Blooket pushes students to answer questions faster and more accurately.
@@ -108,6 +113,7 @@ Here’s the deal: Blooket works because it taps into something fundamental stud
 5. Mastery through Fun: By repeating material in a fun way, students retain more.
 
 ## How to Get Started with Blooket
+
 Ready to jump in? Here’s how to get started:
 
 1. Sign Up: It’s free, and getting started with Blooket is as easy as it gets.
@@ -126,11 +132,11 @@ Ready to jump in? Here’s how to get started:
 
 Blooket offers a variety of pricing plans to cater to different needs:
 
-* Starter Plan (Free Forever): This plan is perfect for users just getting started. It includes the ability to create or discover question sets, access unique game modes, and host games for up to 60 players.
+- Starter Plan (Free Forever): This plan is perfect for users just getting started. It includes the ability to create or discover question sets, access unique game modes, and host games for up to 60 players.
 
-* Plus Plan ($4.99/month, charged annually): This plan includes all the Starter features plus exclusive game modes, enhanced game reports, question set folders, a verified curriculum, and the ability to copy and duplicate sets. It also increases the player limit to 300.
+- Plus Plan ($4.99/month, charged annually): This plan includes all the Starter features plus exclusive game modes, enhanced game reports, question set folders, a verified curriculum, and the ability to copy and duplicate sets. It also increases the player limit to 300.
 
-* Plus Flex Plan ($9.99/month, cancel anytime): Ideal for those who prefer flexibility, this plan includes all the Plus features but allows users to pay monthly and cancel whenever they choose.
+- Plus Flex Plan ($9.99/month, cancel anytime): Ideal for those who prefer flexibility, this plan includes all the Plus features but allows users to pay monthly and cancel whenever they choose.
 
 ![Blooket-priceing](/post-img/Blooket-priceing.webp)
 

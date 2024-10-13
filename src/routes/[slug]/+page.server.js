@@ -30,9 +30,6 @@ export async function load({ params }) {
 	};
 }
 
-
-
-
 // import { error } from '@sveltejs/kit';
 // import { getEntries } from '$utils/entries.js';
 

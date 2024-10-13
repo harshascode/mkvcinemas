@@ -18,33 +18,33 @@
 
 	// Reactive JSON-LD object
 	$: jsonLd = JSON.stringify({
-		"@context": "https://schema.org",
-		"@type": "BlogPosting",
-		"mainEntityOfPage": {
-			"@type": "WebPage",
-			"@id": currentUrl
+		'@context': 'https://schema.org',
+		'@type': 'BlogPosting',
+		mainEntityOfPage: {
+			'@type': 'WebPage',
+			'@id': currentUrl
 		},
-		"headline": title,
-		"description": description,
-		"image": img,
-		"author": {
-			"@type": "Person",
-			"name": author.name || 'Harsha',
-			"url": author.url || "https://bloketo.com/Harsha"
+		headline: title,
+		description: description,
+		image: img,
+		author: {
+			'@type': 'Person',
+			name: author.name || 'Harsha',
+			url: author.url || 'https://bloketo.com/Harsha'
 		},
-		"publisher": {
-			"@type": "Organization",
-			"name": "Bloketo",
-			"logo": {
-				"@type": "ImageObject",
-				"url": "/icon-512.png"
+		publisher: {
+			'@type': 'Organization',
+			name: 'Bloketo',
+			logo: {
+				'@type': 'ImageObject',
+				url: '/icon-512.png'
 			}
 		}
 	});
 </script>
 
 <!-- Pass the current page URL to the Head component -->
-<Head title={title} description={description} url={currentUrl} />
+<Head {title} {description} url={currentUrl} />
 
 <!-- Render JSON-LD -->
 <svelte:element this="script" type="application/ld+json">
@@ -53,9 +53,6 @@
 
 <Blog {post} {author} />
 <Comments />
-
-
-
 
 <!-- <script>
 	import Head from '$lib/components/layout/Head.svelte';
@@ -107,9 +104,6 @@
 
 <Blog {post} {author} />
 <Comments /> -->
-
-
-
 
 <!-- <script>
 	import Head from '$lib/components/layout/Head.svelte';
