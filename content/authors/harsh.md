@@ -1,5 +1,5 @@
 ---
-name: Harsha
+name: Harsh
 avatar: /img/dinesh.jpg
 occupation: Lead Engineer
 company: Pied Piper

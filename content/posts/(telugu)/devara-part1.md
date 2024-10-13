@@ -7,7 +7,7 @@ summary: 'Devara Part-1 takes viewers on an epic journey filled with action, dra
 cardimg: /hindi-movies/Devara.jpg
 tags:
   - Telugu
-author: Harsha
+author: Harsh
 ---
 
 Devara Part- 1 is an exciting new movie that mixes romance and action, sure to grab your attention! With a gripping story, thrilling action scenes, and heartfelt moments, this film promises to be a hit with audiences.

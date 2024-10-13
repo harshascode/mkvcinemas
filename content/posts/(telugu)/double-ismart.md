@@ -7,7 +7,7 @@ summary: 'Devara Part-1 takes viewers on an epic journey filled with action, dra
 cardimg: /hindi-movies/Devara.jpg
 tags:
   - Telugu
-author: Harsha
+author: Harsh
 ---
 
 Get excited for "Double iSmart," the new film directed by the famous Puri Jagannadh! Known for his ability to keep audiences on the edge of their seats, Jagannadh brings us the much-anticipated sequel to the 2019 hit "iSmart Shankar." This second part of the franchise promises to be even more thrilling, filled with suspense and excitement.
