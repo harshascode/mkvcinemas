@@ -2,7 +2,7 @@
 title: Kalinga
 date: '2024-10-12'
 draft: false
-summary: 'Kalki 2898 AD stands out as one of Tollywood’s most anticipated and successful movies of 2024. '
+summary: 'Discover "Kalinga," a gripping Telugu horror film that explores fear and courage.'
 # image: https://utfs.io/f/IHKlPQwXJ4N67GMQ1gor1RpCJqLV9GsPIUo4vdBxabgyeAjF
 cardimg: /hindi-movies/Devara.jpg
 tags:
@@ -12,30 +12,34 @@ tags:
 author: Harsh
 ---
 
-35 – Chinna Katha Kaadu" is a family drama set to hit theaters on September 6, 2024. Directed by Nanda Kishore Emani, this movie promises to explore the bonds that tie families together, showcasing love, humor, and emotional moments. Let’s take a closer look.
+Get ready for a thrilling ride with "Kalinga," a Telugu horror film that dives deep into the world of fear and the supernatural. Directed and led by Dhruva Vaayu, this movie promises spine-chilling moments and a captivating story. Let’s explore what makes this film stand out.
 
-## Kalki 2898 AD: Release Date, Trailer, Songs, Cast
+## Key Details: Release Date, Trailer, Songs, Cast
 
-| **Movie**                      | **35 – Chinna Katha Kaadu**        |
-|--------------------------------|------------------------------------|
-| **Language**                   | Telugu, Malayalam, Tamil           |
-| **Release Date**               | September 6, 2024                  |
-| **Star Cast**                  | Nivetha Thomas, Priyadarshi, VishwaDev Rachakonda, Gautami, Bhagyaraj |
-| **Director**                   | Nanda Kishore Emani                |
-| **Music**                      | Vivek Sagar                        |
-| **Production Companies**       | S Originals, Suresh Productions, Waltair Productions |
-| **Genres**                     | Drama, Family, Kids                |
+| **Movie**       | Kalinga                             |
+|-----------------|-------------------------------------|
+| **Language**     | Telugu                              |
+| **Screen**       | 2D                                  |
+| **Release Date** | 13 September 2024                  |
+| **Cast**         | Dhruva Vaayu, Dolma Tsering, Pragya Nayan, Laxman Meesala, Adukalam Narain, Balagam Sudhakar, Shiju Abdul Rasheed, Muralidhar Goud |
+| **Country**      | India                               |
+| **Genres**       | Fantasy, Horror, Thriller           |
+| **Director**     | Dhruva Vaayu                        |
+| **Producers**    | Deepthi Kondaveeti, Pruthivi Yadav |
+| **Music**        | Vishnu Sekhara                      |
+| **Editor**       | Naresh Venuvanka                   |
+| **Cinematographer** | Akshay Ram Podishetti            |
+| **Production Company** | Big Hit Productions            |
 
 ## Review
 
-"35 – Chinna Katha Kaadu" is all about family! The story focuses on three main characters representing different generations, showcasing how they navigate their relationships. Nivetha Thomas plays Kavya, an idealistic daughter who believes in family values. Priyadarshi provides comic relief with his lighthearted character, while VishwaDev Rachakonda plays Kavya's elder brother, adding depth to the family dynamic.
+Review
+"Kalinga" is not just another horror flick; it is a well-crafted journey into the unknown. The story centers around Dhruva Vaayu’s character, an ordinary man who faces extraordinary and terrifying events that challenge his beliefs about reality and superstition.
 
-The film beautifully blends humor and heartfelt moments, thanks to the direction by Nanda Kishore Emani. This is his first movie, and he seems to have a great understanding of how to create emotional scenes that resonate with viewers.
+The film’s cinematography, done by Akshay Ram Podishetti, beautifully contrasts the eerie village setting with the suspenseful narrative. Each scene is meticulously shot to enhance the horror elements, keeping viewers on the edge of their seats.
 
-The cinematography by Niketh Bommi enhances the film's warmth, bringing the South Indian family setting to life. The visuals are engaging without overshadowing the story, allowing audiences to immerse themselves in the characters' experiences.
+The editing by Naresh Venuvanka keeps the pace tight, ensuring there are no dull moments. The music by Vishnu Sekhara adds a layer of tension, making quiet scenes resonate with fear.
 
-Music plays a crucial role in the film, with Vivek Sagar at the helm. His background score helps set the tone for both joyful and emotional moments, making the viewing experience even more enjoyable. The songs are expected to be popular, resonating with audiences through their relatable themes.
-
-With backing from notable producers like Rana Daggubati, "35 – Chinna Katha Kaadu" is generating excitement even before its release. Fans are eager to see how this film will touch their hearts and reflect the complexities of family life.
+Overall, "Kalinga" is an impressive addition to Telugu cinema's horror genre. It combines technical brilliance with strong performances, especially from Dhruva Vaayu and Pragya Nayan. Their portrayal of bravery in the face of fear transforms the film into more than just a horror story—it becomes a tale of courage and resilience.
 
 ## Trailer

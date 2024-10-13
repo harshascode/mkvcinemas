@@ -17,3 +17,16 @@ Hi, write a blog post: Write semantically relevant seo friendly. Write like even
 4. Give a 150 character seo friendly meta description.
 
 Use below Article as a Resource for your content.
+
+
+
+
+
+Hi, write a blog post: Write semantically relevant seo friendly. Write like even 8th grader can understand.  use below format.
+1: Short and sweet intro.
+2: Table. (format: Markdown)
+3: Review.
+4: Give me simple 4 Faqs. 
+4. Give a 150 character seo friendly meta description. include this keywords if needed: movie watch, download, mkvcinemas.
+
+Use below Article as a Resource for your content.

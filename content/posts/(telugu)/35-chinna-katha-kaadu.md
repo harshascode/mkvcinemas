@@ -2,7 +2,7 @@
 title: 35 – Chinna Katha Kaadu
 date: '2024-10-12'
 draft: false
-summary: 'Kalki 2898 AD stands out as one of Tollywood’s most anticipated and successful movies of 2024. '
+summary: '35 – Chinna Katha Kaadu, a heartfelt family drama exploring love and bonds. Releasing September 6, 2024, with a talented cast'
 # image: https://utfs.io/f/IHKlPQwXJ4N67GMQ1gor1RpCJqLV9GsPIUo4vdBxabgyeAjF
 cardimg: /hindi-movies/Devara.jpg
 tags:
@@ -14,7 +14,7 @@ author: Harsh
 
 35 – Chinna Katha Kaadu" is a family drama set to hit theaters on September 6, 2024. Directed by Nanda Kishore Emani, this movie promises to explore the bonds that tie families together, showcasing love, humor, and emotional moments. Let’s take a closer look.
 
-## Kalki 2898 AD: Release Date, Trailer, Songs, Cast
+## Key Details: Release Date, Trailer, Songs, Cast
 
 | **Movie**                      | **35 – Chinna Katha Kaadu**        |
 |--------------------------------|------------------------------------|
@@ -39,3 +39,5 @@ Music plays a crucial role in the film, with Vivek Sagar at the helm. His backgr
 With backing from notable producers like Rana Daggubati, "35 – Chinna Katha Kaadu" is generating excitement even before its release. Fans are eager to see how this film will touch their hearts and reflect the complexities of family life.
 
 ## Trailer
+
+## FAQ,s
