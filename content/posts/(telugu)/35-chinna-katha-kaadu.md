@@ -3,8 +3,8 @@ title: 35 – Chinna Katha Kaadu
 date: '2024-10-12'
 draft: false
 summary: '35 – Chinna Katha Kaadu, a heartfelt family drama exploring love and bonds. Releasing September 6, 2024, with a talented cast'
-# image: https://utfs.io/f/IHKlPQwXJ4N67GMQ1gor1RpCJqLV9GsPIUo4vdBxabgyeAjF
-cardimg: /hindi-movies/Devara.jpg
+image: /telugu-movies/35-Chinna-Katha-Kaadu.webp
+# cardimg: /hindi-movies/Devara.jpg
 tags:
   - Telugu
   - Hindi
@@ -40,4 +40,4 @@ With backing from notable producers like Rana Daggubati, "35 – Chinna Katha Ka
 
 ## Trailer
 
-## FAQ,s
+<iframe width="760" height="430" src="https://www.youtube.com/embed/046kopv5sCQ?si=fyoeLyVXz_NQDdEh" title="How to Get Started with Blooket" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

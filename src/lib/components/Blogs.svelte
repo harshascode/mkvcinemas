@@ -67,7 +67,7 @@
 									<div>
 										<div class="w-full">
 											<a href={`/${post.slug}`}>
-												<img src={post.cardimg} alt={post.title} />
+												<img src={post.image} alt={post.title} />
 											</a>
 										</div>
 										<h2 class="text-base mt-2 font-bold leading-6 tracking-tight">

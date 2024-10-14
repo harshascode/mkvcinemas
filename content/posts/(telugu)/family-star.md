@@ -41,3 +41,5 @@ Family Star presents a story with potential but suffers from a lack of engaging 
 Despite these drawbacks, the film entertains to a degree. Vijay Deverakonda and Mrunal Thakur deliver commendable performances, bringing life to their characters. However, issues such as a slow-paced screenplay, lack of emotional resonance, and an underwhelming plot detract from the overall experience. If viewers can overlook these flaws, it may still provide a worthwhile watch.
 
 ## Trailer
+
+<iframe width="760" height="430" src="https://www.youtube.com/embed/NZbg3JNaqNs?si=KxZHdqFjrR9GfGG7" title="How to Get Started with Blooket" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

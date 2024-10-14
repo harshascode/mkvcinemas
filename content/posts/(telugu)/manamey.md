@@ -39,3 +39,5 @@ The supporting cast, including Vikram Aditya, Seerat Kapoor, and Vennela Kishore
 Overall, "Manamey" is a poignant exploration of love's complexities and the unexpected responsibilities that come with it. With heartfelt performances, a well-crafted story, and evocative music, this film stands out as a significant contribution to Telugu cinema, showcasing the enduring power of storytelling.
 
 ## Trailer
+
+<iframe width="760" height="430" src="https://www.youtube.com/embed/3zOCInbXzy8?si=3wXEFcmGx1XrqyFV" title="How to Get Started with Blooket" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

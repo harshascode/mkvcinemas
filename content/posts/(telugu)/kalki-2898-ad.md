@@ -41,3 +41,5 @@ Directed by Nag Ashwin, the movie showcases a star-studded cast, including indus
 The film’s second half is action-packed, featuring breathtaking fight sequences and stunning visuals. The climax leaves viewers eagerly awaiting the sequel. While the film’s slower start may test some viewers' patience, it ultimately delivers a thrilling cinematic experience.
 
 ## Trailer
+
+<iframe width="760" height="430" src="https://www.youtube.com/embed/kQDd1AhGIHk?si=GVngFZGF0tetfTcN" title="How to Get Started with Blooket" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

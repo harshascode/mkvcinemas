@@ -48,4 +48,7 @@ Set against the backdrop of a forest, the film promises fast-paced action and de
 
 With expectations high for its stunning cinematography and special effects, "Devara" aims to immerse the audience in the wilderness, allowing them to feel the intensity of the conflicts faced by both the tribe and the forest's inhabitants. This combination of powerful storytelling and visual artistry is sure to leave a lasting impact.
 
-<iframe width="760" height="430" src="https://www.youtube.com/embed/J1g-8hBwj3I" title="Devara Part 1 Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Trailer
+
+<iframe width="760" height="430" src="https://www.youtube.com/embed/Xg0vBOxV2to?si=Glo-s0Pnqi9BLbNl" title="How to Get Started with Blooket" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+

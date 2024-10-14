@@ -37,6 +37,8 @@ As the release date approaches, fans and critics alike are buzzing with anticipa
 
 ## Trailer
 
+<iframe width="760" height="430" src="https://www.youtube.com/embed/3PlDRKKA0n4?si=1sXcFQkdRcig75IE" title="How to Get Started with Blooket" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## FAQ,s
 <details>
   <summary>What is the release date of Mr. Bachchan?</summary>

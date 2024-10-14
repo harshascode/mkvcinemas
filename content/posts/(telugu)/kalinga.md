@@ -43,3 +43,5 @@ The editing by Naresh Venuvanka keeps the pace tight, ensuring there are no dull
 Overall, "Kalinga" is an impressive addition to Telugu cinema's horror genre. It combines technical brilliance with strong performances, especially from Dhruva Vaayu and Pragya Nayan. Their portrayal of bravery in the face of fear transforms the film into more than just a horror story—it becomes a tale of courage and resilience.
 
 ## Trailer
+
+<iframe width="760" height="430" src="https://www.youtube.com/embed/bamuIkhMr4g?si=d1gyKdjIOWLT6Xtl" title="How to Get Started with Blooket" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

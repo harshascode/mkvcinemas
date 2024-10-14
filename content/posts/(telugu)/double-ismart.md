@@ -7,6 +7,7 @@ summary: 'Devara Part-1 takes viewers on an epic journey filled with action, dra
 cardimg: /hindi-movies/Devara.jpg
 tags:
   - Telugu
+  - Hindi
 author: Harsh
 ---
 
@@ -63,4 +64,6 @@ Set to be one of the most thrilling releases of 2024, "Double iSmart" promises a
 
 This film will have a pan-India release, allowing fans from various regions to enjoy the much-anticipated sequel. For lovers of action thrillers, "Double iSmart" is generating significant buzz as the countdown to its release continues, making it a must-watch film!
 
-<iframe width="760" height="430" src="https://www.youtube.com/embed/pPJrUp0B-fY?si=Bbl1ukju0_oL9gas" title="Double iSmart Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Trailer
+
+<iframe width="760" height="430" src="https://www.youtube.com/embed/xPx1v4wMiPU?si=HjyjLHLgGi5FXmF3" title="How to Get Started with Blooket" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

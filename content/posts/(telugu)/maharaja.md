@@ -49,6 +49,8 @@ Vijay Sethupathi's performance, along with the contributions of the entire cast 
 
 ## Trailer
 
+<iframe width="760" height="430" src="https://www.youtube.com/embed/2yRxitP6f0k?si=LvcIAo71346bcGrG" title="How to Get Started with Blooket" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## FAQs
 
 <details>

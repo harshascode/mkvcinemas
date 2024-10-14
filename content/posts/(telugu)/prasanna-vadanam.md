@@ -46,3 +46,5 @@ Suhas shines as a man struggling with Face Blindness, showcasing his versatility
 While the film offers thrilling moments, the pacing and some unnecessary scenes slightly weaken the overall impact. However, the unexpected intermission twist and some intense scenes in the second half redeem the experience.
 
 ## Trailer
+
+<iframe width="760" height="430" src="https://www.youtube.com/embed/jtRXzOKr9jM?si=L_e5_zaRQ48JFfDs" title="How to Get Started with Blooket" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
