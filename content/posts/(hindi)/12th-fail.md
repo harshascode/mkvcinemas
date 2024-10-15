@@ -45,9 +45,7 @@ Overall, 12th Fail is not just a film about one man's journey; it's a broader co
 
 ## Trailer
 
-<iframe width="100%" height="380" src="https://www.youtube.com/embed/WeMJo701mvQ?si=iQF90w70DzB38zdc" title={title} frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube.com/embed/WeMJo701mvQ?si=iQF90w70DzB38zdc" title={title} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## FAQs
 
