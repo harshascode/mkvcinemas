@@ -3,8 +3,7 @@ title: Aho Vikramaarka
 date: '2024-10-12'
 draft: false
 summary: 'Explore "Aho Vikramaarka," a thrilling South Indian crime drama flim'
-# image: https://utfs.io/f/IHKlPQwXJ4N67GMQ1gor1RpCJqLV9GsPIUo4vdBxabgyeAjF
-cardimg: /hindi-movies/Devara.jpg
+image: /telugu-movies/aho-vikramaarka.webp
 tags:
   - Telugu
   - Hindi
@@ -42,4 +41,4 @@ Overall, "Aho Vikramaarka" is an engaging crime thriller that combines strong pe
 
 ## Trailer
 
-<iframe width="760" height="430" src="https://www.youtube.com/embed/mw8dyLF6cY8?si=IvrgfrIP7D5vfXz4" title="How to Get Started with Blooket" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="430" src="https://www.youtube.com/embed/mw8dyLF6cY8?si=IvrgfrIP7D5vfXz4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

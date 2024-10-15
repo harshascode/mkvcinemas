@@ -3,8 +3,7 @@ title: Devara Part- 1
 date: '2024-10-12'
 draft: false
 summary: 'Devara Part-1 takes viewers on an epic journey filled with action, drama, and stunning visuals, exploring themes of loyalty and sacrifice. Dont miss it'
-# image: https://utfs.io/f/IHKlPQwXJ4N67GMQ1gor1RpCJqLV9GsPIUo4vdBxabgyeAjF
-cardimg: /hindi-movies/Devara.jpg
+image: /telugu-movies/devara-part1.webp
 tags:
   - Telugu
 author: Harsh
@@ -50,5 +49,5 @@ With expectations high for its stunning cinematography and special effects, "Dev
 
 ## Trailer
 
-<iframe width="760" height="430" src="https://www.youtube.com/embed/Xg0vBOxV2to?si=Glo-s0Pnqi9BLbNl" title="How to Get Started with Blooket" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="430" src="https://www.youtube.com/embed/Xg0vBOxV2to?si=Glo-s0Pnqi9BLbNl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

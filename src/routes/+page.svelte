@@ -28,14 +28,14 @@
 
 <div class="container mx-auto py-10">
 	<h2 class="text-center text-3xl font-bold mb-8">Mkvcinemas Telugu Movies 2024</h2>
-	<div class="grid grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
+	<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 		<!-- Movie Card -->
 		<div
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
 		>
-			<a href="/devara-part1">
-				<img src="/hindi-movies/Devara.jpg" alt="Devara" class="rounded-sm mb-4" />
-				<p class="text-xs lg:text-base font-semibold mb-2">Devara Part 1</p>
+			<a href="/kalki-2898-ad">
+				<img src="/telugu-movies/kalki-2898-ad.webp" alt="Kalki 2898 AD" class="rounded-sm mb-4" />
+				<p class="text-xs lg:text-base font-semibold mb-2">Kalki 2898 AD</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
@@ -43,18 +43,8 @@
 		<div
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
 		>
-			<a href="/">
-				<img src="/card1.jpg" alt="Aho Vikramaarka" class="rounded-sm mb-4" />
-				<p class="text-xs lg:text-base font-semibold mb-2">Aho Vikramaarka</p>
-				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
-			</a>
-		</div>
-
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
-		>
-			<a href="/">
-				<img src="/hindi-movies/card.webp" alt="Maharaja" class="rounded-sm mb-4" />
+			<a href="/maharaja">
+				<img src="/telugu-movies/maharaja.webp" alt="Maharaja" class="rounded-sm mb-4" />
 				<p class="text-xs lg:text-base font-semibold mb-2">Maharaja</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
@@ -63,9 +53,9 @@
 		<div
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
 		>
-			<a href="/">
-				<img src="/hindi-movies/card.webp" alt="Manamey" class="rounded-sm mb-4" />
-				<p class="text-xs lg:text-base font-semibold mb-2">Manamey</p>
+			<a href="/aho-vikramaarka">
+				<img src="/telugu-movies/aho-vikramaarka.webp" alt="Aho Vikramaarka" class="rounded-sm mb-4" />
+				<p class="text-xs lg:text-base font-semibold mb-2">Aho Vikramaarka</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
@@ -73,8 +63,72 @@
 		<div
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
 		>
-			<a href="/">
-				<img src="/hindi-movies/card.webp" alt="Mr. Bachchan" class="rounded-sm mb-4" />
+			<a href="/buddy">
+				<img src="/telugu-movies/buddy.webp" alt="Buddy (2024)" class="rounded-sm mb-4" />
+				<p class="text-xs lg:text-base font-semibold mb-2">Buddy (2024)</p>
+				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+			</a>
+		</div>
+
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+		>
+			<a href="/devara-part1">
+				<img src="/telugu-movies/devara-part1.webp" alt="Devara Part- 1" class="rounded-sm mb-4" />
+				<p class="text-xs lg:text-base font-semibold mb-2">Devara Part- 1</p>
+				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+			</a>
+		</div>
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+		>
+			<a href="/double-ismart">
+				<img src="/telugu-movies/double-ismart.webp" alt="Double iSmart" class="rounded-sm mb-4" />
+				<p class="text-xs lg:text-base font-semibold mb-2">Double iSmart</p>
+				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+			</a>
+		</div>
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+		>
+			<a href="/family-star">
+				<img src="/telugu-movies/family-star.webp" alt="Family Star" class="rounded-sm mb-4" />
+				<p class="text-xs lg:text-base font-semibold mb-2">Family Star</p>
+				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+			</a>
+		</div>
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+		>
+			<a href="/kalinga">
+				<img src="/telugu-movies/kalinga.webp" alt="Kalinga" class="rounded-sm mb-4" />
+				<p class="text-xs lg:text-base font-semibold mb-2">Kalinga</p>
+				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+			</a>
+		</div>
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+		>
+			<a href="/35-Chinna-Katha-Kaadu">
+				<img src="/telugu-movies/35-Chinna-Katha-Kaadu.webp" alt="35 – Chinna Katha Kaadu" class="rounded-sm mb-4" />
+				<p class="text-xs lg:text-base font-semibold mb-2">35–Chinna Katha Kaadu</p>
+				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+			</a>
+		</div>
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+		>
+			<a href="/manamey">
+				<img src="/telugu-movies/manamey.webp" alt="Manamey" class="rounded-sm mb-4" />
+				<p class="text-xs lg:text-base font-semibold mb-2">Manamey</p>
+				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+			</a>
+		</div>
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+		>
+			<a href="/mr-bachchan">
+				<img src="/telugu-movies/mr-bachchan.webp" alt="Mr. Bachchan" class="rounded-sm mb-4" />
 				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
@@ -82,67 +136,14 @@
 		<div
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
 		>
-			<a href="/">
-				<img src="/hindi-movies/card.webp" alt="Mr. Bachchan" class="rounded-sm mb-4" />
-				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
-				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
-			</a>
-		</div>
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
-		>
-			<a href="/">
-				<img src="/hindi-movies/card.webp" alt="Mr. Bachchan" class="rounded-sm mb-4" />
-				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
-				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
-			</a>
-		</div>
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
-		>
-			<a href="/">
-				<img src="/hindi-movies/card.webp" alt="Mr. Bachchan" class="rounded-sm mb-4" />
-				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
-				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
-			</a>
-		</div>
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
-		>
-			<a href="/">
-				<img src="/hindi-movies/card.webp" alt="Mr. Bachchan" class="rounded-sm mb-4" />
-				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
-				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
-			</a>
-		</div>
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
-		>
-			<a href="/">
-				<img src="/hindi-movies/card.webp" alt="Mr. Bachchan" class="rounded-sm mb-4" />
-				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
-				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
-			</a>
-		</div>
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
-		>
-			<a href="/">
-				<img src="/hindi-movies/card.webp" alt="Mr. Bachchan" class="rounded-sm mb-4" />
-				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
-				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
-			</a>
-		</div>
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
-		>
-			<a href="/">
-				<img src="/hindi-movies/card.webp" alt="Mr. Bachchan" class="rounded-sm mb-4" />
-				<p class="text-xs lg:text-base font-semibold mb-2">Mr. Bachchan</p>
+			<a href="/prasanna-vadanam">
+				<img src="/telugu-movies/prasanna-vadanam.webp" alt="Prasanna Vadanam" class="rounded-sm mb-4" />
+				<p class="text-xs lg:text-base font-semibold mb-2">Prasanna Vadanam</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 	</div>
+	
 	<p class="pb-6 text-base prose-base text-gray-950 dark:text-gray-100">
 		Telugu cinema, often referred to as Tollywood, has become a significant part of Indian cinema
 		and is loved by audiences worldwide. Whether it’s the action-packed thrillers, emotional dramas,
@@ -161,7 +162,7 @@
 <!-- Tamil Movies Container -->
 <div class="container mx-auto pb-10">
 	<h2 class="text-center text-3xl font-bold mb-8">Mkvcinemas Tamil Movies</h2>
-	<div class="grid grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
+	<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 		<!-- Movie Card -->
 		<div
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
@@ -322,7 +323,7 @@
 <!-- Bolywood Movies -->
 <div class="container mx-auto pb-10">
 	<h2 class="text-center text-3xl font-bold mb-8">Bollywood Movies</h2>
-	<div class="grid grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
+	<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 		<!-- Movie Card -->
 		<div
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
@@ -462,7 +463,7 @@
 <!-- Kannada Movies -->
 <div class="container mx-auto pb-10">
 	<h2 class="text-center text-3xl font-bold mb-8">Kannada Movies</h2>
-	<div class="grid grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
+	<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 		<!-- Movie Card -->
 		<div
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"

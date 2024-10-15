@@ -3,8 +3,7 @@ title: Mr. Bachchan
 date: '2024-10-12'
 draft: false
 summary: 'Get ready to watch "Mr. Bachchan" Discover its plot, cast, and more at mkvcinemas for downloads and streaming options.'
-# image: https://utfs.io/f/IHKlPQwXJ4N67GMQ1gor1RpCJqLV9GsPIUo4vdBxabgyeAjF
-cardimg: /hindi-movies/Devara.jpg
+image: /telugu-movies/mr-bachchan.webp
 tags:
   - Telugu
   - Hindi
@@ -37,7 +36,7 @@ As the release date approaches, fans and critics alike are buzzing with anticipa
 
 ## Trailer
 
-<iframe width="760" height="430" src="https://www.youtube.com/embed/3PlDRKKA0n4?si=1sXcFQkdRcig75IE" title="How to Get Started with Blooket" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="430" src="https://www.youtube.com/embed/3PlDRKKA0n4?si=1sXcFQkdRcig75IE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## FAQ,s
 <details>

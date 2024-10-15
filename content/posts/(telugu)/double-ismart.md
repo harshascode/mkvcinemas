@@ -3,8 +3,7 @@ title: Double iSmart
 date: '2024-10-12'
 draft: false
 summary: 'Devara Part-1 takes viewers on an epic journey filled with action, drama, and stunning visuals, exploring themes of loyalty and sacrifice. Dont miss it'
-# image: https://utfs.io/f/IHKlPQwXJ4N67GMQ1gor1RpCJqLV9GsPIUo4vdBxabgyeAjF
-cardimg: /hindi-movies/Devara.jpg
+image: /telugu-movies/double-ismart.webp
 tags:
   - Telugu
   - Hindi
@@ -66,4 +65,4 @@ This film will have a pan-India release, allowing fans from various regions to e
 
 ## Trailer
 
-<iframe width="760" height="430" src="https://www.youtube.com/embed/xPx1v4wMiPU?si=HjyjLHLgGi5FXmF3" title="How to Get Started with Blooket" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="430" src="https://www.youtube.com/embed/xPx1v4wMiPU?si=HjyjLHLgGi5FXmF3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -3,8 +3,7 @@ title: Manamey
 date: '2024-10-12'
 draft: false
 summary: 'Experience "Manamey," a touching Telugu romantic drama that explores love and responsibility.'
-# image: https://utfs.io/f/IHKlPQwXJ4N67GMQ1gor1RpCJqLV9GsPIUo4vdBxabgyeAjF
-cardimg: /hindi-movies/Devara.jpg
+image: /telugu-movies/manamey.webp
 tags:
   - Telugu
 author: Harsh
@@ -40,4 +39,4 @@ Overall, "Manamey" is a poignant exploration of love's complexities and the unex
 
 ## Trailer
 
-<iframe width="760" height="430" src="https://www.youtube.com/embed/3zOCInbXzy8?si=3wXEFcmGx1XrqyFV" title="How to Get Started with Blooket" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="430" src="https://www.youtube.com/embed/3zOCInbXzy8?si=3wXEFcmGx1XrqyFV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

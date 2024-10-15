@@ -7,7 +7,7 @@
 	// export let author;
 </script>
 
-<div class="mx-auto max-w-5xl px-4 sm:px-4 xl:max-w-5xl xl:px-0">
+<div class="mx-auto max-w-5xl px-1 sm:px-4 xl:max-w-5xl xl:px-0">
 	<article>
 		<div class="xl:divide-y xl:divide-gray-200 xl:dark:divide-gray-700">
 			<header class="pt-6 xl:pb-6">
@@ -70,7 +70,7 @@
 								<img
 									alt={post.title}
 									src={post.image}
-									class="object-cover object-center w-full h-auto"
+									class="object-cover object-center w-auto h-auto"
 								/>
 							</div>
 						{/if}

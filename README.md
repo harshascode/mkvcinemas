@@ -23,10 +23,25 @@ Use below Article as a Resource for your content.
 
 
 Hi, write a blog post: Write semantically relevant seo friendly. Write like even 8th grader can understand.  use below format.
-1: Short and sweet intro.
+1: Short and sweet intro. use keyword 'mkvcinemas' somewhere in the intro if it possible to add.
 2: Table. (format: Markdown)
 3: Review.
-4: Give me simple 4 Faqs. 
+4: Give me simple 5 Faqs. 
 4. Give a 150 character seo friendly meta description. include this keywords if needed: movie watch, download, mkvcinemas.
 
 Use below Article as a Resource for your content.
+
+
+
+Hi, write a blog post: Write semantically relevant seo friendly. Write like even 8th grader can understand.  use below format.
+1: Short and sweet intro. use keyword 'mkvcinemas' somewhere in the intro if it possible to add.
+2: Table. (format: Markdown)
+3: Review.
+4: Give me simple 5 Faqs. 
+4. Give a 150 character seo friendly meta description. for example: (Find out where to watch or stream Vedaa movie online on mkvcinemas | Entertainment. Also Watch Vedaa trailer, check cast & crew & browse gallery.)
+
+Use below Article as a Resource for your content. ok?
+
+
+
+

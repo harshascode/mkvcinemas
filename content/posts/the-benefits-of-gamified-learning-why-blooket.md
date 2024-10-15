@@ -1,7 +1,7 @@
 ---
 title: The Benefits of Gamified Learning
 date: '2024-09-24'
-draft: false
+draft: true
 summary: 'The benefits of gamified learning! Boost student engagement, motivation, and retention with game-based tools like Blooket in your classroom.'
 image: https://utfs.io/f/IHKlPQwXJ4N67GMQ1gor1RpCJqLV9GsPIUo4vdBxabgyeAjF
 cardimg: /card.webp

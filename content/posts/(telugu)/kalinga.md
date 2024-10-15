@@ -3,8 +3,7 @@ title: Kalinga
 date: '2024-10-12'
 draft: false
 summary: 'Discover "Kalinga," a gripping Telugu horror film that explores fear and courage.'
-# image: https://utfs.io/f/IHKlPQwXJ4N67GMQ1gor1RpCJqLV9GsPIUo4vdBxabgyeAjF
-cardimg: /hindi-movies/Devara.jpg
+image: /telugu-movies/kalinga.webp
 tags:
   - Telugu
   - Hindi
@@ -44,4 +43,4 @@ Overall, "Kalinga" is an impressive addition to Telugu cinema's horror genre. It
 
 ## Trailer
 
-<iframe width="760" height="430" src="https://www.youtube.com/embed/bamuIkhMr4g?si=d1gyKdjIOWLT6Xtl" title="How to Get Started with Blooket" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="430" src="https://www.youtube.com/embed/bamuIkhMr4g?si=d1gyKdjIOWLT6Xtl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

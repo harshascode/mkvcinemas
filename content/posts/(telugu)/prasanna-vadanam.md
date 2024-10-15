@@ -3,8 +3,7 @@ title: Prasanna Vadanam
 date: '2024-10-12'
 draft: false
 summary: 'Prasanna Vadanam delivers a decent thriller experience, with standout performances by Suhas and Rashi Singh.'
-# image: https://utfs.io/f/IHKlPQwXJ4N67GMQ1gor1RpCJqLV9GsPIUo4vdBxabgyeAjF
-cardimg: /hindi-movies/Devara.jpg
+image: /telugu-movies/prasanna-vadanam.webp
 tags:
   - Telugu
   - Hindi
@@ -47,4 +46,4 @@ While the film offers thrilling moments, the pacing and some unnecessary scenes 
 
 ## Trailer
 
-<iframe width="760" height="430" src="https://www.youtube.com/embed/jtRXzOKr9jM?si=L_e5_zaRQ48JFfDs" title="How to Get Started with Blooket" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="430" src="https://www.youtube.com/embed/jtRXzOKr9jM?si=L_e5_zaRQ48JFfDs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

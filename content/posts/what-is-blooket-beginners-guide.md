@@ -1,7 +1,7 @@
 ---
 title: What is Blooket? A Beginner’s Guide to This Fun Educational Game
 date: '2024-09-22'
-draft: false
+draft: true
 summary: 'Learn how Blooket turns classroom learning into fun, competitive games with engaging quizzes. boosts student motivation and keeps them excited to learn'
 image: https://utfs.io/f/IHKlPQwXJ4N67GMQ1gor1RpCJqLV9GsPIUo4vdBxabgyeAjF
 cardimg: /card.webp
@@ -140,7 +140,7 @@ Blooket offers a variety of pricing plans to cater to different needs:
 
 ![Blooket-priceing](/post-img/Blooket-priceing.webp)
 
-<iframe width="760" height="430" src="https://www.youtube.com/embed/61OXLotV540" title="How to Get Started with Blooket" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="430" src="https://www.youtube.com/embed/61OXLotV540" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Final Thoughts
 

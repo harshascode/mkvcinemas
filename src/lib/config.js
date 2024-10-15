@@ -1,7 +1,7 @@
 export const config = {
 	title: 'Bloketo',
 	author: 'Ahmad Kiarostami',
-	headerTitle: 'Pied Piper',
+	headerTitle: 'Mkvcinemas',
 	description: 'Pied Piper (un)official blog, created with Sveltekit and Tailwind.css',
 	language: 'en-us',
 	theme: 'dark', // system, dark or light
@@ -41,13 +41,13 @@ export const user = {
 // 	{ href: '/blog', title: 'Blog' }
 // ];
 export const navLinks = [
-	{ href: '/bookmarks-list', title: 'Home' },
+	// { href: '/', title: 'Home' },
 	{ href: '/telugu-movies', title: 'Telugu' },
 	{ href: '/tamil-movies', title: 'Tamil' },
 	{ href: '/kannada-movies', title: 'Kannada' },
 	{ href: '/hindi-movies', title: 'Hindi' },
 	{ href: '/malayalam-movies', title: 'Malayalam' },
-	{ href: '/about', title: 'About' },
+	// { href: '/about', title: 'About' },
 	{ href: '/bookmarks-list', title: 'Bookmarks' },
 	{ href: '/blog', title: 'Blog' }
 ];

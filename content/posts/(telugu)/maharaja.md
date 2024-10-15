@@ -3,8 +3,7 @@ title: Maharaja
 date: '2024-10-12'
 draft: false
 summary: 'Maharaja is an essential addition to the action thriller genre, celebrating the power of storytelling.'
-# image: https://utfs.io/f/IHKlPQwXJ4N67GMQ1gor1RpCJqLV9GsPIUo4vdBxabgyeAjF
-cardimg: /hindi-movies/Devara.jpg
+image: /telugu-movies/maharaja.webp
 tags:
   - Telugu
   - Hindi
@@ -49,7 +48,7 @@ Vijay Sethupathi's performance, along with the contributions of the entire cast 
 
 ## Trailer
 
-<iframe width="760" height="430" src="https://www.youtube.com/embed/2yRxitP6f0k?si=LvcIAo71346bcGrG" title="How to Get Started with Blooket" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="430" src="https://www.youtube.com/embed/2yRxitP6f0k?si=LvcIAo71346bcGrG" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## FAQs
 

@@ -3,8 +3,7 @@ title: Family Star
 date: '2024-10-12'
 draft: false
 summary: 'Family Star is a cinematic venture with an average rating, showcasing a compelling story and a talented cast, complemented by decent visuals.'
-# image: https://utfs.io/f/IHKlPQwXJ4N67GMQ1gor1RpCJqLV9GsPIUo4vdBxabgyeAjF
-cardimg: /hindi-movies/Devara.jpg
+image: /telugu-movies/family-star.webp
 tags:
   - Telugu
 author: Harsh
@@ -42,4 +41,4 @@ Despite these drawbacks, the film entertains to a degree. Vijay Deverakonda and 
 
 ## Trailer
 
-<iframe width="760" height="430" src="https://www.youtube.com/embed/NZbg3JNaqNs?si=KxZHdqFjrR9GfGG7" title="How to Get Started with Blooket" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="430" src="https://www.youtube.com/embed/NZbg3JNaqNs?si=KxZHdqFjrR9GfGG7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
