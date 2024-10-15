@@ -41,4 +41,4 @@ The film’s second half is action-packed, featuring breathtaking fight sequence
 
 ## Trailer
 
-<iframe width="100%" height="430" src="https://www.youtube.com/embed/kQDd1AhGIHk?si=GVngFZGF0tetfTcN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="430" src="https://www.youtube.com/embed/kQDd1AhGIHk?si=GVngFZGF0tetfTcN" title={title} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

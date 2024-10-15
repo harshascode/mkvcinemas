@@ -45,7 +45,7 @@ Though the film falls short in some areas, it does provide an engaging watch. Wi
 
 ## Trailer
 
-<iframe width="100%" height="380" src="https://www.youtube.com/embed/Tk1EQD7vGiY?si=a-chNu7_3g5U0rk-" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube.com/embed/Tk1EQD7vGiY?si=a-chNu7_3g5U0rk-" title={title} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## FAQs
 

@@ -140,7 +140,7 @@ Blooket offers a variety of pricing plans to cater to different needs:
 
 ![Blooket-priceing](/post-img/Blooket-priceing.webp)
 
-<iframe width="100%" height="430" src="https://www.youtube.com/embed/61OXLotV540" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="430" src="https://www.youtube.com/embed/61OXLotV540" title={title} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Final Thoughts
 

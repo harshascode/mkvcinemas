@@ -39,7 +39,7 @@ Garudan is not just an action film; it's an emotional rollercoaster that delves 
 
 ## Trailer
 
-<iframe width="100%" height="380" src="https://www.youtube.com/embed/B2yC1jpAYvQ?si=42Kw9X5dUBIFR9z9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube.com/embed/B2yC1jpAYvQ?si=42Kw9X5dUBIFR9z9" title={title} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## FAQs
 

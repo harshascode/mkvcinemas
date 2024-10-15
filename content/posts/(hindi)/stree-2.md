@@ -36,7 +36,7 @@ Overall, Stree 2 has its strengths and weaknesses. It might not be perfect, but 
 
 ## Trailer
 
-<iframe width="100%" height="380" src="https://www.youtube.com/embed/KVnheXywIbY?si=VH47X4Tm1jTQ9Mbt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube.com/embed/KVnheXywIbY?si=VH47X4Tm1jTQ9Mbt" title={title} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## FAQs
 
