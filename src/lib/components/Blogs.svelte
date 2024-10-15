@@ -81,7 +81,7 @@
 									<div class="text-base font-medium">
 										<a
 											href={`/${post.slug}`}
-											class="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
+											class="text-sm text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
 											aria-label={`Read "${post.title}"`}
 										>
 											2024

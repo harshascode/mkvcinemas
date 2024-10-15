@@ -3,7 +3,7 @@ title: Vedaa
 date: '2024-10-14'
 draft: false
 summary: 'Discover the action-packed film "Vedaa" on mkvcinemas Learn about its release date, cast, and more'
-image: /hindi-movies/thangalaan.webp
+image: /i/vedaa.webp
 tags:
   - Hindi
   - Tamil

@@ -3,7 +3,7 @@ title: Sarfira
 date: '2024-10-15'
 draft: false
 summary: 'Explore Sarfira, a biographical drama starring Akshay Kumar, Discover its inspiring story and cast details'
-image: /hindi-movies/thangalaan.webp
+image: /i/sarfira.webp
 tags:
 - Hindi
 author: Harsh

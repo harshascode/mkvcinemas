@@ -3,7 +3,7 @@ title: Stree 2
 date: '2024-10-15'
 draft: false
 summary: 'Discover Stree 2: Sarkate Ka Aatank, a horror-comedy movie. Read the review and find where to stream it on mkvcinemas.'
-image: /hindi-movies/thangalaan.webp
+image: /i/stree-2.webp
 tags:
   - Hindi
 author: Harsh

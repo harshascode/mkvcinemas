@@ -3,7 +3,7 @@ title: 12th Fail
 date: '2024-10-15'
 draft: false
 summary: 'Experience Vikrant Massey best performance in 12th Fail, a gripping tale of determination and the challenges faced by UPSC aspirants.'
-image: /hindi-movies/thangalaan.webp
+image: /i/12th-fail.webp
 tags:
 - Hindi
 author: Harsh

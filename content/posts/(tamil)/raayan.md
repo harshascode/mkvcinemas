@@ -3,7 +3,7 @@ title: Raayan
 date: '2024-10-14'
 draft: false
 summary: 'Raayan, the Tamil action thriller movie. Watha in Hd on Free Mkvcinemas'
-image: /tamil-movies/thangalaan.webp
+image: /i/raayan.webp
 tags:
   - Tamil
   - Hindi

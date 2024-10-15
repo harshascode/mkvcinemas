@@ -3,7 +3,7 @@ title: Bad Newz
 date: '2024-10-15'
 draft: false
 summary: 'Enjoy the comedic chemistry of Vicky Kaushal and Triptii Dimri in Bad Newz! A rom-com that entertains, now on mkvcinemas.'
-image: /hindi-movies/thangalaan.webp
+image: /i/bad-newz.webp
 tags:
 - Hindi
 author: Harsh

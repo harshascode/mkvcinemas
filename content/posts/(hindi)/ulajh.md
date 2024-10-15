@@ -3,7 +3,7 @@ title: Ulajh
 date: '2024-10-15'
 draft: false
 summary: 'Discover the political spy thriller Ulajh starring Janhvi Kapoor. Read our review online on MKVCinemas'
-image: /hindi-movies/thangalaan.webp
+image: /i/ulajh.webp
 tags:
 - Hindi
 author: Harsh

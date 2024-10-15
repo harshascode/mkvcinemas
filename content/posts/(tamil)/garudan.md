@@ -3,7 +3,7 @@ title: Garudan
 date: '2024-10-14'
 draft: false
 summary: 'Garudan (2024), an action-packed Tamil movie about friendship. Full Details on mkvcinemas'
-image: /tamil-movies/thangalaan.webp
+image: /i/garudan.webp
 tags:
   - Tamil
 author: Harsh
