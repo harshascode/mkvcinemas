@@ -40,7 +40,7 @@ Overall, Khel Khel Mein combines humor, friendship, and romantic entanglements, 
 
 ## Trailer
 
-<iframe width="100%" height="380" src="/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube.com/embed/RKZJtoFoaQg?si=lQyogWrIXd94EcMW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## FAQs
 
