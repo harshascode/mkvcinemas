@@ -54,7 +54,11 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
 		>
 			<a href="/aho-vikramaarka">
-				<img src="/telugu-movies/aho-vikramaarka.webp" alt="Aho Vikramaarka" class="rounded-sm mb-4" />
+				<img
+					src="/telugu-movies/aho-vikramaarka.webp"
+					alt="Aho Vikramaarka"
+					class="rounded-sm mb-4"
+				/>
 				<p class="text-sm lg:text-sm font-semibold mb-2">Aho Vikramaarka</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
@@ -110,7 +114,11 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
 		>
 			<a href="/35-Chinna-Katha-Kaadu">
-				<img src="/telugu-movies/35-Chinna-Katha-Kaadu.webp" alt="35 – Chinna Katha Kaadu" class="rounded-sm mb-4" />
+				<img
+					src="/telugu-movies/35-Chinna-Katha-Kaadu.webp"
+					alt="35 – Chinna Katha Kaadu"
+					class="rounded-sm mb-4"
+				/>
 				<p class="text-sm lg:text-sm font-semibold mb-2">35–Chinna Katha Kaadu</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
@@ -137,13 +145,17 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
 		>
 			<a href="/prasanna-vadanam">
-				<img src="/telugu-movies/prasanna-vadanam.webp" alt="Prasanna Vadanam" class="rounded-sm mb-4" />
+				<img
+					src="/telugu-movies/prasanna-vadanam.webp"
+					alt="Prasanna Vadanam"
+					class="rounded-sm mb-4"
+				/>
 				<p class="text-sm lg:text-sm font-semibold mb-2">Prasanna Vadanam</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 	</div>
-	
+
 	<p class="pb-6 text-base prose-base text-gray-950 dark:text-gray-100">
 		Telugu cinema, often referred to as Tollywood, has become a significant part of Indian cinema
 		and is loved by audiences worldwide. Whether it’s the action-packed thrillers, emotional dramas,

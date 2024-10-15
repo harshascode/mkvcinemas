@@ -5,7 +5,7 @@ draft: false
 summary: 'Experience Vikrant Massey best performance in 12th Fail, a gripping tale of determination and the challenges faced by UPSC aspirants.'
 image: /i/12th-fail.webp
 tags:
-- Hindi
+  - Hindi
 author: Harsh
 ---
 
@@ -13,29 +13,29 @@ Vikrant Massey shines in Vidhu Vinod Chopra's latest film, 12th Fail, where he p
 
 ## Key Details About Movie:
 
-| Feature                   | Details                              |
-|---------------------------|--------------------------------------|
-| **Director**              | Vidhu Vinod Chopra                   |
-| **Lead Actor**            | Vikrant Massey                      |
-| **Supporting Cast**       | Medha Shankar, Priyanshu Chatterjee, Anshuman Pushkar |
-| **Genre**                 | Drama                                |
-| **Runtime**               | 147 minutes                          |
-| **Release Date**          | October 2024                         |
-| **Language**              | Hindi                                |
-| **Production Company**     | Vinod Chopra Films                   |
-| **Cinematography**        | Aseem Mishra                         |
-| **Music Composer**        | Shantanu Moitra                      |
-| **Themes**                | Education, Determination, Resilience, Social Issues |
-| **Based On**              | Novel by Anurag Pathak              |
-| **Target Audience**       | Students, Educators, General Audience |
+| Feature                | Details                                               |
+| ---------------------- | ----------------------------------------------------- |
+| **Director**           | Vidhu Vinod Chopra                                    |
+| **Lead Actor**         | Vikrant Massey                                        |
+| **Supporting Cast**    | Medha Shankar, Priyanshu Chatterjee, Anshuman Pushkar |
+| **Genre**              | Drama                                                 |
+| **Runtime**            | 147 minutes                                           |
+| **Release Date**       | October 2024                                          |
+| **Language**           | Hindi                                                 |
+| **Production Company** | Vinod Chopra Films                                    |
+| **Cinematography**     | Aseem Mishra                                          |
+| **Music Composer**     | Shantanu Moitra                                       |
+| **Themes**             | Education, Determination, Resilience, Social Issues   |
+| **Based On**           | Novel by Anurag Pathak                                |
+| **Target Audience**    | Students, Educators, General Audience                 |
 
 ## Review
 
-12th Fail tells the compelling story of Manoj Kumar Sharma, a 12th-grade dropout from Chambal, who dreams of passing the challenging UPSC exam. Vikrant Massey’s portrayal of Manoj is nothing short of remarkable, showcasing a wide range of emotions—from despair to determination. 
+12th Fail tells the compelling story of Manoj Kumar Sharma, a 12th-grade dropout from Chambal, who dreams of passing the challenging UPSC exam. Vikrant Massey’s portrayal of Manoj is nothing short of remarkable, showcasing a wide range of emotions—from despair to determination.
 
 The film paints a raw and honest picture of his struggles, including taking low-paying jobs just to make ends meet while preparing for the exam.
 
-The narrative effectively captures the educational challenges in India, illustrating how students often resort to cheating due to societal pressures. Through Manoj's journey, we see the impact of a flawed education system and the relentless spirit of students who refuse to give up. 
+The narrative effectively captures the educational challenges in India, illustrating how students often resort to cheating due to societal pressures. Through Manoj's journey, we see the impact of a flawed education system and the relentless spirit of students who refuse to give up.
 
 The character development is strong, with every supporting role adding depth to the story, from Manoj’s mentor to his friends, each with their own battles.
 
@@ -45,7 +45,7 @@ Overall, 12th Fail is not just a film about one man's journey; it's a broader co
 
 ## Trailer
 
-<iframe width="100%" height="380" src="https://www.youtube.com/embed/WeMJo701mvQ?si=iQF90w70DzB38zdc" frameborder="0"
+<iframe width="100%" height="380" src="https://www.youtube.com/embed/WeMJo701mvQ?si=iQF90w70DzB38zdc" title={title} frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -75,5 +75,3 @@ Overall, 12th Fail is not just a film about one man's journey; it's a broader co
   <summary>How long is the movie?</summary>
   <p>The movie runs for 147 minutes, maintaining a fast-paced and engaging narrative.</p>
 </details>
-
-

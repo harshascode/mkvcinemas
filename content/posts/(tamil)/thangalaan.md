@@ -16,16 +16,16 @@ Thangalaan is a Tamil historical action-adventure film that hit theaters on Augu
 
 ## Key Details: Release Date, Trailer, Songs, Cast
 
-| **Movie Details**          | **Description**                      |
-|----------------------------|--------------------------------------|
-| **Title**                  | Thangalaan                           |
-| **Language**               | Tamil, Malayalam, Telugu, Hindi     |
-| **Release Date**           | August 15, 2024                     |
-| **Director**               | Pa. Ranjith                          |
-| **Producer**               | K. E. Gnanavel Raja                 |
-| **Star Cast**              | Vikram, Parvathy Thiruvothu, Malavika Mohanan, Daniel Caltagirone |
-| **Genres**                 | Action, Adventure, Historical       |
-| **Production Companies**    | Studio Green, Neelam Productions    |
+| **Movie Details**        | **Description**                                                   |
+| ------------------------ | ----------------------------------------------------------------- |
+| **Title**                | Thangalaan                                                        |
+| **Language**             | Tamil, Malayalam, Telugu, Hindi                                   |
+| **Release Date**         | August 15, 2024                                                   |
+| **Director**             | Pa. Ranjith                                                       |
+| **Producer**             | K. E. Gnanavel Raja                                               |
+| **Star Cast**            | Vikram, Parvathy Thiruvothu, Malavika Mohanan, Daniel Caltagirone |
+| **Genres**               | Action, Adventure, Historical                                     |
+| **Production Companies** | Studio Green, Neelam Productions                                  |
 
 ## Review
 

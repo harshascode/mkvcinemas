@@ -15,16 +15,16 @@ Buddy, a Telugu action-comedy that blends excitement with laughter! Directed by 
 
 ## Key Details: Release Date, Trailer, Songs, Cast
 
-| **Aspect**           | **Details**                    |
-|----------------------|--------------------------------|
-| **Title**            | Buddy                          |
-| **Language**         | Telugu                         |
-| **Release Date**     | 2 August 2024                 |
-| **Star Cast**        | Allu, Sirish, Ajmal Ameer, Gayatri Bhardwaj |
-| **Genres**           | Action, Comedy, Fantasy        |
-| **Director**         | Sam Anton                      |
-| **Production Company**| Studio Green Films             |
-| **Music**            | Hiphop Tamizha                |
+| **Aspect**             | **Details**                                 |
+| ---------------------- | ------------------------------------------- |
+| **Title**              | Buddy                                       |
+| **Language**           | Telugu                                      |
+| **Release Date**       | 2 August 2024                               |
+| **Star Cast**          | Allu, Sirish, Ajmal Ameer, Gayatri Bhardwaj |
+| **Genres**             | Action, Comedy, Fantasy                     |
+| **Director**           | Sam Anton                                   |
+| **Production Company** | Studio Green Films                          |
+| **Music**              | Hiphop Tamizha                              |
 
 ## Review
 

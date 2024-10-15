@@ -13,16 +13,16 @@ Stree 2: Sarkate Ka Aatank has hit the screens, and fans of the original are eag
 
 ## Key Details:
 
-| Section         | Details                                             |
-|------------------|-----------------------------------------------------|
-| **Release Date** | 2024                                                |
-| **Director**     | Amar Kaushik                                       |
-| **Writers**      | Niren Bhatt                                        |
-| **Rating**       | ⭐️⭐️⭐️💫 (3 / 5)                                   |
+| Section          | Details                                                                                |
+| ---------------- | -------------------------------------------------------------------------------------- |
+| **Release Date** | 2024                                                                                   |
+| **Director**     | Amar Kaushik                                                                           |
+| **Writers**      | Niren Bhatt                                                                            |
+| **Rating**       | ⭐️⭐️⭐️💫 (3 / 5)                                                                    |
 | **Main Cast**    | Rajkummar Rao, Shraddha Kapoor, Abhishek Banerjee, Pankaj Tripathi, Aparshakti Khurana |
-| **Genre**        | Horror, Comedy, Feminism                           |
-| **Language**     | Hindi                                              |
-| **Setting**      | Chanderi, Madhya Pradesh                          |
+| **Genre**        | Horror, Comedy, Feminism                                                               |
+| **Language**     | Hindi                                                                                  |
+| **Setting**      | Chanderi, Madhya Pradesh                                                               |
 
 ## Review
 
@@ -64,6 +64,3 @@ Overall, Stree 2 has its strengths and weaknesses. It might not be perfect, but 
   <summary>Where can I watch Stree 2?</summary>
   <p>You can stream it on mkvcinemas and other platforms.</p>
 </details>
-
-
-

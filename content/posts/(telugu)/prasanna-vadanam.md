@@ -18,23 +18,23 @@ It combines elements of drama and thriller in a captivating story involving a ma
 
 ## Prasanna Vadanam: Release Date, Trailer, Songs, Cast
 
-| **Field**               | **Details**                                                                                                                                                       |
-|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Title**               | Prasanna Vadanam                                                                                                                                               |
-| **Language**            | Telugu                                                                                                                                                           |
-| **Release Date**        | 3 May 2024                                                                                                                                                      |
-| **Director**            | Arjun Y K                                                                                                                                                       |
-| **Producers**           | Manikanta J S, Reddy Prasad T R                                                                                                                                 |
-| **Music**               | Vijay Bulganin                                                                                                                                                  |
-| **Cinematography**      | S Chandrasekaran                                                                                                                                               |
-| **Production Company**  | Little Thoughts Cinemas                                                                                                                                       |
-| **Genres**              | Drama, Thriller                                                                                                                                                 |
-| **Country**             | India                                                                                                                                                            |
-| **Main Cast**           | - Suhas Pagolu as Surya<br>- Payal Radhakrishna as Aadhya<br>- Rashi Singh as ACP Vaidehi<br>- Viva Harsha as Vignesh<br>- Nitin Prasanna (supporting role)    |
-| **Story Summary**       | Surya, a radio jockey with Prosopagnosia, witnesses a murder but can't identify the killer. With the help of ACP Vaidehi, he navigates the suspenseful journey to uncover the truth. |
-| **Review Highlights**   | - Promising direction by Arjun Y K<br>- Suhas delivers an emotional performance<br>- Rashi Singh’s bold portrayal adds depth<br>- Pacing issues slightly weaken impact but redeeming twists in the second half. |
-| **Rating**              | 2.5 out of 5 stars                                                                                                                                             |
-| **Trailer**             | Builds anticipation with high stakes and a complex plot, highlighting the protagonist's condition and tense atmosphere.                                         |
+| **Field**              | **Details**                                                                                                                                                                                                     |
+| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Title**              | Prasanna Vadanam                                                                                                                                                                                                |
+| **Language**           | Telugu                                                                                                                                                                                                          |
+| **Release Date**       | 3 May 2024                                                                                                                                                                                                      |
+| **Director**           | Arjun Y K                                                                                                                                                                                                       |
+| **Producers**          | Manikanta J S, Reddy Prasad T R                                                                                                                                                                                 |
+| **Music**              | Vijay Bulganin                                                                                                                                                                                                  |
+| **Cinematography**     | S Chandrasekaran                                                                                                                                                                                                |
+| **Production Company** | Little Thoughts Cinemas                                                                                                                                                                                         |
+| **Genres**             | Drama, Thriller                                                                                                                                                                                                 |
+| **Country**            | India                                                                                                                                                                                                           |
+| **Main Cast**          | - Suhas Pagolu as Surya<br>- Payal Radhakrishna as Aadhya<br>- Rashi Singh as ACP Vaidehi<br>- Viva Harsha as Vignesh<br>- Nitin Prasanna (supporting role)                                                     |
+| **Story Summary**      | Surya, a radio jockey with Prosopagnosia, witnesses a murder but can't identify the killer. With the help of ACP Vaidehi, he navigates the suspenseful journey to uncover the truth.                            |
+| **Review Highlights**  | - Promising direction by Arjun Y K<br>- Suhas delivers an emotional performance<br>- Rashi Singh’s bold portrayal adds depth<br>- Pacing issues slightly weaken impact but redeeming twists in the second half. |
+| **Rating**             | 2.5 out of 5 stars                                                                                                                                                                                              |
+| **Trailer**            | Builds anticipation with high stakes and a complex plot, highlighting the protagonist's condition and tense atmosphere.                                                                                         |
 
 ## Review
 

@@ -17,17 +17,17 @@ Aho Vikramaarka is a South Indian crime thriller that hits theaters with a punch
 
 ## Key Details: Release Date, Trailer, Songs, Cast
 
-| **Movie**       | Aho Vikramaarka                     |
-|-----------------|-------------------------------------|
-| **Language**     | Telugu, Kannada, Marathi, Hindi, Tamil |
-| **Screen**       | 2D                                  |
-| **Release Date** | 30 August 2024                     |
-| **Cast**         | Dev Gill, Chitra Shukla, Tejaswini Pandit, Pravin Tarde, Posani Krishna Murali, Sayaji Shinde, Kalakeya Prabhakar |
-| **Country**      | India                               |
-| **Genres**       | Action, Drama                       |
-| **Director**     | Peta Trikoti                        |
-| **Editor**       | Tammiraju                           |
-| **Production Company** | Dev Gill Productions            |
+| **Movie**              | Aho Vikramaarka                                                                                                   |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Language**           | Telugu, Kannada, Marathi, Hindi, Tamil                                                                            |
+| **Screen**             | 2D                                                                                                                |
+| **Release Date**       | 30 August 2024                                                                                                    |
+| **Cast**               | Dev Gill, Chitra Shukla, Tejaswini Pandit, Pravin Tarde, Posani Krishna Murali, Sayaji Shinde, Kalakeya Prabhakar |
+| **Country**            | India                                                                                                             |
+| **Genres**             | Action, Drama                                                                                                     |
+| **Director**           | Peta Trikoti                                                                                                      |
+| **Editor**             | Tammiraju                                                                                                         |
+| **Production Company** | Dev Gill Productions                                                                                              |
 
 ## Review
 

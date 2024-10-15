@@ -5,7 +5,7 @@ draft: false
 summary: 'Enjoy the comedic chemistry of Vicky Kaushal and Triptii Dimri in Bad Newz! A rom-com that entertains, now on mkvcinemas.'
 image: /i/bad-newz.webp
 tags:
-- Hindi
+  - Hindi
 author: Harsh
 ---
 
@@ -13,16 +13,16 @@ Bad Newz offers a mix of comedy and drama that keeps you entertained, especially
 
 ## Key Details About Bad Newz Movie:
 
-| Feature               | Details                                         |
-|-----------------------|------------------------------------------------|
-| **Title**             | Bad Newz                                       |
-| **Director**          | Anand Tiwari                                   |
-| **Lead Actors**       | Vicky Kaushal, Triptii Dimri                  |
-| **Supporting Cast**    | Ammy Virk, Sheeba Chadha, Neha Dhupia       |
-| **Genre**             | Romantic Comedy                                |
-| **Runtime**           | 135 minutes                                    |
-| **Release Date**      | July 19, 2024                                  |
-| **Rating**            | ⭐⭐⭐ (2.5/5)                                   |
+| Feature             | Details                               |
+| ------------------- | ------------------------------------- |
+| **Title**           | Bad Newz                              |
+| **Director**        | Anand Tiwari                          |
+| **Lead Actors**     | Vicky Kaushal, Triptii Dimri          |
+| **Supporting Cast** | Ammy Virk, Sheeba Chadha, Neha Dhupia |
+| **Genre**           | Romantic Comedy                       |
+| **Runtime**         | 135 minutes                           |
+| **Release Date**    | July 19, 2024                         |
+| **Rating**          | ⭐⭐⭐ (2.5/5)                        |
 
 ## Review
 

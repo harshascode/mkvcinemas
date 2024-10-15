@@ -15,20 +15,20 @@ Get ready for a thrilling ride with "Kalinga," a Telugu horror film that dives d
 
 ## Key Details: Release Date, Trailer, Songs, Cast
 
-| **Movie**       | Kalinga                             |
-|-----------------|-------------------------------------|
-| **Language**     | Telugu                              |
-| **Screen**       | 2D                                  |
-| **Release Date** | 13 September 2024                  |
-| **Cast**         | Dhruva Vaayu, Dolma Tsering, Pragya Nayan, Laxman Meesala, Adukalam Narain, Balagam Sudhakar, Shiju Abdul Rasheed, Muralidhar Goud |
-| **Country**      | India                               |
-| **Genres**       | Fantasy, Horror, Thriller           |
-| **Director**     | Dhruva Vaayu                        |
-| **Producers**    | Deepthi Kondaveeti, Pruthivi Yadav |
-| **Music**        | Vishnu Sekhara                      |
-| **Editor**       | Naresh Venuvanka                   |
-| **Cinematographer** | Akshay Ram Podishetti            |
-| **Production Company** | Big Hit Productions            |
+| **Movie**              | Kalinga                                                                                                                            |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **Language**           | Telugu                                                                                                                             |
+| **Screen**             | 2D                                                                                                                                 |
+| **Release Date**       | 13 September 2024                                                                                                                  |
+| **Cast**               | Dhruva Vaayu, Dolma Tsering, Pragya Nayan, Laxman Meesala, Adukalam Narain, Balagam Sudhakar, Shiju Abdul Rasheed, Muralidhar Goud |
+| **Country**            | India                                                                                                                              |
+| **Genres**             | Fantasy, Horror, Thriller                                                                                                          |
+| **Director**           | Dhruva Vaayu                                                                                                                       |
+| **Producers**          | Deepthi Kondaveeti, Pruthivi Yadav                                                                                                 |
+| **Music**              | Vishnu Sekhara                                                                                                                     |
+| **Editor**             | Naresh Venuvanka                                                                                                                   |
+| **Cinematographer**    | Akshay Ram Podishetti                                                                                                              |
+| **Production Company** | Big Hit Productions                                                                                                                |
 
 ## Review
 

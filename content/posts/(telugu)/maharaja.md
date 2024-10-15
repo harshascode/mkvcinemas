@@ -16,28 +16,29 @@ Maharaja is a gripping Tamil action thriller that weaves a compelling narrative 
 
 ## Maharaja: Full Details
 
-| **Field**               | **Details**                                                                                                                                                       |
-|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Title**               | Maharaja                                                                                                                                                         |
-| **Release Date**        | June 14, 2024                                                                                                                                                   |
-| **Director**            | Nithilan Swaminathan                                                                                                                                            |
-| **Genres**              | Action, Drama                                                                                                                                                   |
-| **Languages**           | Tamil, Telugu                                                                                                                                                   |
-| **Production Companies** | Passion Studios, The Route                                                                                                                                     |
-| **Overview**            | A gripping Tamil action thriller that weaves a compelling narrative of loss, vengeance, and determination, featuring an ensemble cast led by Vijay Sethupathi.   |
-| **Plot**                | Centers on Maharaja, a barber who becomes a single parent after losing his wife, highlighting the struggles of parenthood amidst adversity.                     |
-| **Cast and Performances** | - Vijay Sethupathi as Maharaja<br>- Mamta Mohandas<br>- Anurag Kashyap<br>- Munishkanth<br>- Natarajan Subramaniam, Abhirami, Singam Puli (supporting roles)  |
-| **Direction and Script** | Effective blending of action and drama, with a sharp script and well-written dialogues that resonate with the audience.                                         |
-| **Cinematography**      | Dinesh Purushothaman’s cinematography enhances emotional weight with effective lighting and camera angles.                                                       |
-| **Editing**             | Raj's editing ensures fluidity with precise cuts, maintaining engagement during emotional and suspenseful moments.                                                |
-| **Music**               | B. Ajaneesh Loknath's score establishes the film's mood and augments emotional beats.                                                                           |
-| **Action Sequences**    | Choreographed by Anl Arasu, the action sequences are cinematic and relevant, balancing thrilling visuals with narrative coherence.                                |
-| **Themes**              | Explores single parenthood, societal indifference, and the quest for justice, focusing on a father's determination to protect his daughter.                      |
-| **Review**              | Acclaimed for its engaging storyline, strong performances, and technical excellence, it blends action with emotional depth.                                      |
-| **Conclusion**          | A significant addition to the action thriller genre, celebrating storytelling that addresses global human experiences and societal issues.                        |
-| **Rating**              | Not explicitly mentioned; however, the film is described as a must-watch.                                                                                      |
+| **Field**                 | **Details**                                                                                                                                                    |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Title**                 | Maharaja                                                                                                                                                       |
+| **Release Date**          | June 14, 2024                                                                                                                                                  |
+| **Director**              | Nithilan Swaminathan                                                                                                                                           |
+| **Genres**                | Action, Drama                                                                                                                                                  |
+| **Languages**             | Tamil, Telugu                                                                                                                                                  |
+| **Production Companies**  | Passion Studios, The Route                                                                                                                                     |
+| **Overview**              | A gripping Tamil action thriller that weaves a compelling narrative of loss, vengeance, and determination, featuring an ensemble cast led by Vijay Sethupathi. |
+| **Plot**                  | Centers on Maharaja, a barber who becomes a single parent after losing his wife, highlighting the struggles of parenthood amidst adversity.                    |
+| **Cast and Performances** | - Vijay Sethupathi as Maharaja<br>- Mamta Mohandas<br>- Anurag Kashyap<br>- Munishkanth<br>- Natarajan Subramaniam, Abhirami, Singam Puli (supporting roles)   |
+| **Direction and Script**  | Effective blending of action and drama, with a sharp script and well-written dialogues that resonate with the audience.                                        |
+| **Cinematography**        | Dinesh Purushothaman’s cinematography enhances emotional weight with effective lighting and camera angles.                                                     |
+| **Editing**               | Raj's editing ensures fluidity with precise cuts, maintaining engagement during emotional and suspenseful moments.                                             |
+| **Music**                 | B. Ajaneesh Loknath's score establishes the film's mood and augments emotional beats.                                                                          |
+| **Action Sequences**      | Choreographed by Anl Arasu, the action sequences are cinematic and relevant, balancing thrilling visuals with narrative coherence.                             |
+| **Themes**                | Explores single parenthood, societal indifference, and the quest for justice, focusing on a father's determination to protect his daughter.                    |
+| **Review**                | Acclaimed for its engaging storyline, strong performances, and technical excellence, it blends action with emotional depth.                                    |
+| **Conclusion**            | A significant addition to the action thriller genre, celebrating storytelling that addresses global human experiences and societal issues.                     |
+| **Rating**                | Not explicitly mentioned; however, the film is described as a must-watch.                                                                                      |
 
 ## Plot
+
 The story centers around Maharaja (played by Vijay Sethupathi), a small-time barber whose life takes a tragic turn when he loses his wife in an accident. Now a single parent, Maharaja's struggle to raise his daughter becomes the emotional core of the film, highlighting the poignant realities of parenthood amidst adversity.
 
 ## Review

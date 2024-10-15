@@ -13,20 +13,20 @@ Khel Khel Mein is an romantic-comedy film directed by Mudassar Aziz, Known for b
 
 ## Key Details About Khel Khel Mein Movie:
 
-| Section               | Details                                                                                              |
-|-----------------------|------------------------------------------------------------------------------------------------------|
-| **Release Date**      | August 15, 2024                                                                                     |
-| **Director**          | Mudassar Aziz                                                                                       |
-| **Writers**           | Bushra Ansari                                                                                       |
-| **Rating**            | Not yet rated                                                                                       |
-| **Main Cast**         | Akshay Kumar, Ammy Virk, Taapsee Pannu, Vaani Kapoor, Fardeen Khan, Pragya Jaiswal, Aditya Seal  |
-| **Genre**             | Comedy, Drama                                                                                       |
-| **Language**          | Hindi                                                                                               |
-| **Country**           | India                                                                                               |
-| **Production Companies** | T-Series Films, Wakaoo Films, KK Film Production                                                  |
-| **Cinematographer**   | Manoj Kumar Khatoi                                                                                  |
-| **Editor**            | Ninad Khanolkar                                                                                     |
-| **Music Composers**   | Tanishk Bagchi, Rochak Kohli, Guru Randhawa, B Praak, Jassi Sidhu                                 |
+| Section                  | Details                                                                                         |
+| ------------------------ | ----------------------------------------------------------------------------------------------- |
+| **Release Date**         | August 15, 2024                                                                                 |
+| **Director**             | Mudassar Aziz                                                                                   |
+| **Writers**              | Bushra Ansari                                                                                   |
+| **Rating**               | Not yet rated                                                                                   |
+| **Main Cast**            | Akshay Kumar, Ammy Virk, Taapsee Pannu, Vaani Kapoor, Fardeen Khan, Pragya Jaiswal, Aditya Seal |
+| **Genre**                | Comedy, Drama                                                                                   |
+| **Language**             | Hindi                                                                                           |
+| **Country**              | India                                                                                           |
+| **Production Companies** | T-Series Films, Wakaoo Films, KK Film Production                                                |
+| **Cinematographer**      | Manoj Kumar Khatoi                                                                              |
+| **Editor**               | Ninad Khanolkar                                                                                 |
+| **Music Composers**      | Tanishk Bagchi, Rochak Kohli, Guru Randhawa, B Praak, Jassi Sidhu                               |
 
 ## Review
 
@@ -68,6 +68,3 @@ Overall, Khel Khel Mein combines humor, friendship, and romantic entanglements, 
   <summary>Where can I watch Khel Khel Mein?</summary>
   <p>You can check for streaming options on mkvcinemas after its release.</p>
 </details>
-
-
-

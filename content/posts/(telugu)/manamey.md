@@ -13,19 +13,19 @@ Manamey is a Telugu romantic family drama directed by Sriram Adittya, featuring 
 
 ## Key Details: Release Date, Trailer, Songs, Cast
 
-| **Movie**       | Manamey                            |
-|-----------------|-----------------------------------|
-| **Language**     | Telugu                            |
-| **Screen**       | 2D                                |
-| **Release Date** | 7 June 2024                       |
-| **Cast**         | Sharwanand, Krithi Shetty, Rahul Ramakrishna, Seerat Kapoor, Rahul Ravindran, Ayesha Khan, Vennela Kishore |
-| **Country**      | India                             |
-| **Genres**       | Comedy, Drama, Romantic           |
-| **Director**     | Sriram Adittya                   |
-| **Producer**     | TG Vishwa Prasad                  |
-| **Music**        | Hesham Abdul Wahab                |
-| **Cinematographer** | Vishnu Sarma                   |
-| **Production Company** | People Media Factory          |
+| **Movie**              | Manamey                                                                                                    |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Language**           | Telugu                                                                                                     |
+| **Screen**             | 2D                                                                                                         |
+| **Release Date**       | 7 June 2024                                                                                                |
+| **Cast**               | Sharwanand, Krithi Shetty, Rahul Ramakrishna, Seerat Kapoor, Rahul Ravindran, Ayesha Khan, Vennela Kishore |
+| **Country**            | India                                                                                                      |
+| **Genres**             | Comedy, Drama, Romantic                                                                                    |
+| **Director**           | Sriram Adittya                                                                                             |
+| **Producer**           | TG Vishwa Prasad                                                                                           |
+| **Music**              | Hesham Abdul Wahab                                                                                         |
+| **Cinematographer**    | Vishnu Sarma                                                                                               |
+| **Production Company** | People Media Factory                                                                                       |
 
 ## Review
 

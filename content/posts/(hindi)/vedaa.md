@@ -15,20 +15,20 @@ author: Harsh
 
 ## Key Details: Release Date, Trailer, Songs, Cast
 
-| Movie Title               | Vedaa                               |
-|---------------------------|-------------------------------------|
-| Language                  | Hindi, Tamil, Telugu                |
-| Screen                    | 2D                                  |
-| Release Date              | 15 August 2024                     |
-| Star Cast                 | John Abraham, Sharvari, Abhishek Banerjee, Ashish Vidyarthi |
-| Country                   | India                               |
-| Genres                    | Action, Drama                       |
-| Director                  | Nikkhil Advani                     |
-| Producers                 | Umesh KR Bansal, Monisha Advani, Madhu Bhojwani, John Abraham |
-| Music                     | Amaal Mallik, Manan Bhardwaj, Yuva, Raghav–Arjun (songs), Kartik Shah (score) |
-| Writer                    | Aseem Arora                        |
-| Cinematographer           | Malay Prakash                       |
-| Production Companies       | Zee Studios, Emmay Entertainment, JA Entertainment |
+| Movie Title          | Vedaa                                                                         |
+| -------------------- | ----------------------------------------------------------------------------- |
+| Language             | Hindi, Tamil, Telugu                                                          |
+| Screen               | 2D                                                                            |
+| Release Date         | 15 August 2024                                                                |
+| Star Cast            | John Abraham, Sharvari, Abhishek Banerjee, Ashish Vidyarthi                   |
+| Country              | India                                                                         |
+| Genres               | Action, Drama                                                                 |
+| Director             | Nikkhil Advani                                                                |
+| Producers            | Umesh KR Bansal, Monisha Advani, Madhu Bhojwani, John Abraham                 |
+| Music                | Amaal Mallik, Manan Bhardwaj, Yuva, Raghav–Arjun (songs), Kartik Shah (score) |
+| Writer               | Aseem Arora                                                                   |
+| Cinematographer      | Malay Prakash                                                                 |
+| Production Companies | Zee Studios, Emmay Entertainment, JA Entertainment                            |
 
 ## Review
 
@@ -66,4 +66,3 @@ The film's visuals and strong performances create a gripping atmosphere. Critics
   <summary>Where can I find more information about Vedaa?</summary>
   <p>You can check out mkvcinemas for more details and updates on the film.</p>
 </details>
-

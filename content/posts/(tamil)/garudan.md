@@ -13,19 +13,19 @@ Garudan is an action-filled Tamil movie set to release on May 31, 2024. Directed
 
 ## Key Details:
 
-| **Movie Details**          | **Description**                      |
-|----------------------------|--------------------------------------|
-| **Title**                  | Garudan                              |
-| **Language**               | Tamil                                |
-| **Release Date**           | May 31, 2024                        |
-| **Director**               | R. S. Durai Senthilkumar            |
-| **Producer**               | K Kumar                              |
-| **Star Cast**              | Soori, M. Sasikumar, Unni Mukundan, Samuthirakani, Mime Gopi, Vadivukkarasi |
-| **Genres**                 | Action, Drama                        |
-| **Production Company**      | Lark Studios                         |
-| **Music**                  | Yuvan Shankar Raja                  |
-| **Cinematographer**        | Arthur A. Wilson                    |
-| **Editor**                 | Pradeep E. Ragav                    |
+| **Movie Details**      | **Description**                                                             |
+| ---------------------- | --------------------------------------------------------------------------- |
+| **Title**              | Garudan                                                                     |
+| **Language**           | Tamil                                                                       |
+| **Release Date**       | May 31, 2024                                                                |
+| **Director**           | R. S. Durai Senthilkumar                                                    |
+| **Producer**           | K Kumar                                                                     |
+| **Star Cast**          | Soori, M. Sasikumar, Unni Mukundan, Samuthirakani, Mime Gopi, Vadivukkarasi |
+| **Genres**             | Action, Drama                                                               |
+| **Production Company** | Lark Studios                                                                |
+| **Music**              | Yuvan Shankar Raja                                                          |
+| **Cinematographer**    | Arthur A. Wilson                                                            |
+| **Editor**             | Pradeep E. Ragav                                                            |
 
 ## Review
 
@@ -67,4 +67,3 @@ Garudan is not just an action film; it's an emotional rollercoaster that delves 
   <summary>What genres does Garudan belong to?</summary>
   <p>Garudan falls under the action and drama genres.</p>
 </details>
-

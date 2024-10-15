@@ -5,7 +5,7 @@ draft: false
 summary: 'Explore Sarfira, a biographical drama starring Akshay Kumar, Discover its inspiring story and cast details'
 image: /i/sarfira.webp
 tags:
-- Hindi
+  - Hindi
 author: Harsh
 ---
 
@@ -15,18 +15,18 @@ your popcorn and get ready for an unforgettable ride!
 
 ## Key Details About Sarfira Movie:
 
-| Section | Details |
-|-----------------------|------------------------------------------------------------------------------------------------------|
-| **Release Date** | July 12, 2024 |
-| **Director** | Sudha Kongara Prasad |
-| **Writers** | Sudha Kongara Prasad |
-| **Rating** | 4/5 |
-| **Main Cast** | Akshay Kumar, Paresh Rawal, Radhika Madan, Seema Biswas |
-| **Genre** | Biography, Drama |
-| **Language** | Hindi |
-| **Country** | India |
+| Section                  | Details                                                        |
+| ------------------------ | -------------------------------------------------------------- |
+| **Release Date**         | July 12, 2024                                                  |
+| **Director**             | Sudha Kongara Prasad                                           |
+| **Writers**              | Sudha Kongara Prasad                                           |
+| **Rating**               | 4/5                                                            |
+| **Main Cast**            | Akshay Kumar, Paresh Rawal, Radhika Madan, Seema Biswas        |
+| **Genre**                | Biography, Drama                                               |
+| **Language**             | Hindi                                                          |
+| **Country**              | India                                                          |
 | **Production Companies** | 2D Entertainment, Abundantia Entertainment, Cape of Good Films |
-| **Music Composer** | G. V. Prakash Kumar |
+| **Music Composer**       | G. V. Prakash Kumar                                            |
 
 ## Review
 

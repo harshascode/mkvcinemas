@@ -15,15 +15,15 @@ author: Harsh
 
 ## Key Details: Release Date, Trailer, Songs, Cast
 
-| **Movie**                      | **35 – Chinna Katha Kaadu**        |
-|--------------------------------|------------------------------------|
-| **Language**                   | Telugu, Malayalam, Tamil           |
-| **Release Date**               | September 6, 2024                  |
-| **Star Cast**                  | Nivetha Thomas, Priyadarshi, VishwaDev Rachakonda, Gautami, Bhagyaraj |
-| **Director**                   | Nanda Kishore Emani                |
-| **Music**                      | Vivek Sagar                        |
-| **Production Companies**       | S Originals, Suresh Productions, Waltair Productions |
-| **Genres**                     | Drama, Family, Kids                |
+| **Movie**                | **35 – Chinna Katha Kaadu**                                           |
+| ------------------------ | --------------------------------------------------------------------- |
+| **Language**             | Telugu, Malayalam, Tamil                                              |
+| **Release Date**         | September 6, 2024                                                     |
+| **Star Cast**            | Nivetha Thomas, Priyadarshi, VishwaDev Rachakonda, Gautami, Bhagyaraj |
+| **Director**             | Nanda Kishore Emani                                                   |
+| **Music**                | Vivek Sagar                                                           |
+| **Production Companies** | S Originals, Suresh Productions, Waltair Productions                  |
+| **Genres**               | Drama, Family, Kids                                                   |
 
 ## Review
 

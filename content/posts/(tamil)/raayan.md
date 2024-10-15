@@ -15,25 +15,27 @@ Raayan, the much-anticipated Tamil action thriller directed by Dhanush, is set t
 
 ## Key Details About Raayan Movie
 
-| Movie             | Raayan                        |
-|-------------------|-------------------------------|
-| Language          | Tamil, Hindi, Telugu         |
-| Screen            | 2D                           |
-| Release Date      | 26 July 2024                 |
-| Star Cast         | Dhanush, Prakash Raj, K. Selvaraghavan, S. J. Suryah, Aparna Balamurali, Kalidas Jayaram, Dushara Vijayan, Varalaxmi Sarathkumar |
-| Country           | India                         |
-| Genres            | Action, Crime, Drama         |
-| Director          | Dhanush                      |
-| Writer            | Dhanush                      |
-| Cinematographer    | Om Prakash                   |
-| Music             | A. R. Rahman                 |
-| Editor            | Prasanna GK                  |
-| Production Company | Sun Pictures, Sun TV Network  |
+| Movie              | Raayan                                                                                                                           |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| Language           | Tamil, Hindi, Telugu                                                                                                             |
+| Screen             | 2D                                                                                                                               |
+| Release Date       | 26 July 2024                                                                                                                     |
+| Star Cast          | Dhanush, Prakash Raj, K. Selvaraghavan, S. J. Suryah, Aparna Balamurali, Kalidas Jayaram, Dushara Vijayan, Varalaxmi Sarathkumar |
+| Country            | India                                                                                                                            |
+| Genres             | Action, Crime, Drama                                                                                                             |
+| Director           | Dhanush                                                                                                                          |
+| Writer             | Dhanush                                                                                                                          |
+| Cinematographer    | Om Prakash                                                                                                                       |
+| Music              | A. R. Rahman                                                                                                                     |
+| Editor             | Prasanna GK                                                                                                                      |
+| Production Company | Sun Pictures, Sun TV Network                                                                                                     |
 
 ## Plot
+
 Raayan revolves around a gripping action-packed narrative, featuring intense fights and unexpected plot twists. Dhanush plays the lead role, bringing his unique style and emotional depth to the character. The film promises to keep the audience on the edge of their seats with its thrilling storyline and captivating visuals.
 
 ## Review
+
 Dhanush not only directs but also stars in Raayan, marking a significant milestone in his career. With a talented ensemble cast, including the likes of Prakash Raj and Aparna Balamurali, the film is set to deliver outstanding performances. The music by A. R. Rahman is expected to add an unforgettable layer to the film, enriching its emotional and dramatic scenes.
 
 The cinematography by Om Prakash will enhance the storytelling with vibrant visuals, while editor Prasanna GK will ensure a tight, engaging pace. Given Dhanush's reputation for quality, Raayan is likely to be a significant addition to Tamil cinema, generating excitement among fans leading up to its release.

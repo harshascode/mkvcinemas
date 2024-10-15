@@ -5,7 +5,7 @@ draft: false
 summary: 'Explore the inspiring story of Maidaan, featuring Ajay Devgn as Syed Abdul Rahim. This biographical sports drama highlights the golden era of Indian football.'
 image: /i/maidaan.webp
 tags:
-- Hindi
+  - Hindi
 author: Harsh
 ---
 
@@ -13,18 +13,18 @@ Maidaan, produced by Boney Kapoor and starring Ajay Devgn, takes audiences on an
 
 ## Key Details About Movie:
 
-| Feature                   | Details                              |
-|---------------------------|--------------------------------------|
-| **Title**                 | Maidaan                              |
-| **Release Date**          | June 23, 2023                        |
-| **Language**              | Hindi, Telugu, Tamil, Malayalam      |
-| **Genres**                | Biography, Drama, Sports             |
-| **Director**              | Amit Sharma                          |
-| **Producer**              | Boney Kapoor                         |
-| **Cast**                  | Ajay Devgn, Priyamani, Rudranil Ghosh, Abhinay Raj Singh, Gajraj Rao |
-| **Cinematography**        | Tushar Kanti Ray                    |
-| **Editing**               | Dev Rao Jadhav                      |
-| **Production Companies**   | Zee Studios, Bayview Projects       |
+| Feature                  | Details                                                              |
+| ------------------------ | -------------------------------------------------------------------- |
+| **Title**                | Maidaan                                                              |
+| **Release Date**         | June 23, 2023                                                        |
+| **Language**             | Hindi, Telugu, Tamil, Malayalam                                      |
+| **Genres**               | Biography, Drama, Sports                                             |
+| **Director**             | Amit Sharma                                                          |
+| **Producer**             | Boney Kapoor                                                         |
+| **Cast**                 | Ajay Devgn, Priyamani, Rudranil Ghosh, Abhinay Raj Singh, Gajraj Rao |
+| **Cinematography**       | Tushar Kanti Ray                                                     |
+| **Editing**              | Dev Rao Jadhav                                                       |
+| **Production Companies** | Zee Studios, Bayview Projects                                        |
 
 ## Review
 
@@ -66,5 +66,3 @@ While the film's narrative is engaging, it also serves as a reminder of the hard
   <summary>Is Maidaan available in multiple languages?</summary>
   <p>Yes, Maidaan is available in Hindi, Telugu, Tamil, and Malayalam.</p>
 </details>
-
-

@@ -9,23 +9,23 @@ tags:
 author: Harsh
 ---
 
-Lover is a Tamil romantic drama that was released on February 9, 2024. Directed by Prabhu Ram Vyas, the film features a talented cast led by Manikandan K. and Gouri Priya. With a relatable story about modern relationships, Lover aims to capture the essence of love and its challenges in today’s world. 
+Lover is a Tamil romantic drama that was released on February 9, 2024. Directed by Prabhu Ram Vyas, the film features a talented cast led by Manikandan K. and Gouri Priya. With a relatable story about modern relationships, Lover aims to capture the essence of love and its challenges in today’s world.
 
 ## Key Details about Lover Movie
 
-| **Movie Details**          | **Description**                      |
-|----------------------------|--------------------------------------|
-| **Title**                  | Lover                                |
-| **Language**               | Tamil                                |
-| **Release Date**           | February 9, 2024                    |
-| **Director**               | Prabhu Ram Vyas                     |
-| **Producers**              | Yuvaraj Ganesan, Magesh Raj Pasilian |
-| **Star Cast**              | Manikandan K., Gouri Priya, Kanna Ravi, Harish Nagalakshmi Kumar, Saravanan, Geetha Kailasam, Harini Sundararajan, Nikhila Shankar, Pintu Pandu, Arunachaleshwaran Pa |
-| **Genres**                 | Drama, Romantic                      |
-| **Production Companies**    | MRP Entertainment, Million Dollar Studios |
-| **Cinematographer**        | Shreyaas Krishna                     |
-| **Editor**                 | Barath Vikraman                     |
-| **Music**                  | Sean Roldan                         |
+| **Movie Details**        | **Description**                                                                                                                                                       |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Title**                | Lover                                                                                                                                                                 |
+| **Language**             | Tamil                                                                                                                                                                 |
+| **Release Date**         | February 9, 2024                                                                                                                                                      |
+| **Director**             | Prabhu Ram Vyas                                                                                                                                                       |
+| **Producers**            | Yuvaraj Ganesan, Magesh Raj Pasilian                                                                                                                                  |
+| **Star Cast**            | Manikandan K., Gouri Priya, Kanna Ravi, Harish Nagalakshmi Kumar, Saravanan, Geetha Kailasam, Harini Sundararajan, Nikhila Shankar, Pintu Pandu, Arunachaleshwaran Pa |
+| **Genres**               | Drama, Romantic                                                                                                                                                       |
+| **Production Companies** | MRP Entertainment, Million Dollar Studios                                                                                                                             |
+| **Cinematographer**      | Shreyaas Krishna                                                                                                                                                      |
+| **Editor**               | Barath Vikraman                                                                                                                                                       |
+| **Music**                | Sean Roldan                                                                                                                                                           |
 
 ## Review
 

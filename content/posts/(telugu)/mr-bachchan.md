@@ -15,16 +15,16 @@ Mr. Bachchan – The Last Ray of Hope. Directed by Harish Shankar and featuring 
 
 ## Key Details: Release Date, Trailer, Songs, Cast
 
-| **Aspect**           | **Details**                    |
-|----------------------|--------------------------------|
-| **Title**            | Mr. Bachchan                   |
-| **Language**         | Telugu                         |
-| **Release Date**     | 15 August 2024                 |
-| **Star Cast**        | Ravi Teja, Bhagyashri Borse, Jagapati Babu |
-| **Genres**           | Action, Drama, Thriller        |
-| **Director**         | Harish Shankar                 |
-| **Production Companies** | People Media Factory, T-Series |
-| **Music**            | Mickey J. Meyer                |
+| **Aspect**               | **Details**                                |
+| ------------------------ | ------------------------------------------ |
+| **Title**                | Mr. Bachchan                               |
+| **Language**             | Telugu                                     |
+| **Release Date**         | 15 August 2024                             |
+| **Star Cast**            | Ravi Teja, Bhagyashri Borse, Jagapati Babu |
+| **Genres**               | Action, Drama, Thriller                    |
+| **Director**             | Harish Shankar                             |
+| **Production Companies** | People Media Factory, T-Series             |
+| **Music**                | Mickey J. Meyer                            |
 
 ## Review
 
@@ -39,6 +39,7 @@ As the release date approaches, fans and critics alike are buzzing with anticipa
 <iframe width="100%" height="430" src="https://www.youtube.com/embed/3PlDRKKA0n4?si=1sXcFQkdRcig75IE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## FAQ,s
+
 <details>
   <summary>What is the release date of Mr. Bachchan?</summary>
   <p>The movie will be released on 15 August 2024.</p>
