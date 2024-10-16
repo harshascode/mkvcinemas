@@ -13,20 +13,20 @@ tags:
 author: Harsh
 ---
 
-If you're an action movie fan, "Martin" is one film you won't want to miss! Directed by A.P. Arjun and produced by Uday K. Mehta, this high-octane flick promises thrilling sequences, a gripping storyline, and powerful performances, all set to set screens ablaze. With its multi-language release, including Kannada, Tamil, Malayalam, Telugu, and Hindi, 
+If you're an action movie fan, "Martin" is one film you won't want to miss! Directed by A.P. Arjun and produced by Uday K. Mehta, this high-octane flick promises thrilling sequences, a gripping storyline, and powerful performances, all set to set screens ablaze. With its multi-language release, including Kannada, Tamil, Malayalam, Telugu, and Hindi,
 
 ## Key Details About Movie:
 
-| Feature                | Description                        |
-|------------------------|------------------------------------|
-| **Movie Title**        | Martin                             |
-| **Languages**          | Kannada, Tamil, Malayalam, Telugu, Hindi |
-| **Release Date**       | October 11, 2024                  |
-| **Cast**               | Dhruva Sarja, Vaibhavi Shandilya, Anveshi Jain, Nikitin Dheer, Nawab Shah, Rohit Pathak |
-| **Genres**             | Action, Drama, Thriller            |
-
+| Feature          | Description                                                                             |
+| ---------------- | --------------------------------------------------------------------------------------- |
+| **Movie Title**  | Martin                                                                                  |
+| **Languages**    | Kannada, Tamil, Malayalam, Telugu, Hindi                                                |
+| **Release Date** | October 11, 2024                                                                        |
+| **Cast**         | Dhruva Sarja, Vaibhavi Shandilya, Anveshi Jain, Nikitin Dheer, Nawab Shah, Rohit Pathak |
+| **Genres**       | Action, Drama, Thriller                                                                 |
 
 ## Review of Kantara
+
 ### Plot Summary
 
 "Martin" brings a lot of excitement to the table, but it also stumbles in several areas that might leave audiences wanting more. Directed by A.P. Arjun and featuring Dhruva Sarja in the lead role, the film has high ambitions, aiming to deliver an action-packed experience that resonates emotionally.
@@ -69,5 +69,3 @@ Ultimately, "Martin" has the potential to be a standout action film, but its rel
   <summary>Is "Martin" only an action film?</summary>
   <p>No, "Martin" combines action with emotional depth and strong storytelling.</p>
 </details>
-
-

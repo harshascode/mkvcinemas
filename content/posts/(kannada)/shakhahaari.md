@@ -17,21 +17,21 @@ Director Sandeep Sunkad makes a notable entry into the film industry with Shakha
 
 ## Key Details About Movie:
 
-| **Section**       | **Details**                                                                                                                                                      |
-|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Title**         | Shakhahaari Movie Review                                                                                                                                      |
-| **Director**      | Sandeep Sunkad                                                                                                                                                 |
-| **Genre**         | Crime Thriller                                                                                                                                                 |
-| **Cast**          | Rangayana Raghu, Gopalkrishna Deshpande, Sujay Shastry, Vinay Jarimalli                                                                                     |
-| **Runtime**       | 150 minutes                                                                                                                                                    |
-| **Release Year**  | 2024                                                                                                                                                           |
-| **Setting**       | Village of Melige, Thirthahalli Taluk, Shivamogga                                                                                                            |
-| **Plot Overview** | The film revolves around Subbanna, a hotel owner, and Mallikarjun, a police officer, whose lives become entangled in a murder mystery.                       |
-| **Themes**        | Fate, vulnerability, resilience, human emotions                                                                                                               |
-| **Strengths**     | Strong performances by lead actors, engaging dialogue, emotional depth, and a blend of suspense with human stories.                                            |
-| **Weaknesses**    | The climax wraps up too neatly, leaving some plot points unresolved; pacing slows down towards the end.                                                       |
-| **Audience**      | Suitable for older teens and adults; primarily appeals to fans of crime thrillers and Kannada cinema.                                                         |
-| **Viewing Options**| Check local streaming services for availability; primarily released in Kannada.                                                                              |
+| **Section**         | **Details**                                                                                                                            |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Title**           | Shakhahaari Movie Review                                                                                                               |
+| **Director**        | Sandeep Sunkad                                                                                                                         |
+| **Genre**           | Crime Thriller                                                                                                                         |
+| **Cast**            | Rangayana Raghu, Gopalkrishna Deshpande, Sujay Shastry, Vinay Jarimalli                                                                |
+| **Runtime**         | 150 minutes                                                                                                                            |
+| **Release Year**    | 2024                                                                                                                                   |
+| **Setting**         | Village of Melige, Thirthahalli Taluk, Shivamogga                                                                                      |
+| **Plot Overview**   | The film revolves around Subbanna, a hotel owner, and Mallikarjun, a police officer, whose lives become entangled in a murder mystery. |
+| **Themes**          | Fate, vulnerability, resilience, human emotions                                                                                        |
+| **Strengths**       | Strong performances by lead actors, engaging dialogue, emotional depth, and a blend of suspense with human stories.                    |
+| **Weaknesses**      | The climax wraps up too neatly, leaving some plot points unresolved; pacing slows down towards the end.                                |
+| **Audience**        | Suitable for older teens and adults; primarily appeals to fans of crime thrillers and Kannada cinema.                                  |
+| **Viewing Options** | Check local streaming services for availability; primarily released in Kannada.                                                        |
 
 ## Review
 
@@ -73,4 +73,3 @@ Overall, Shakhahaari stands out as a quality addition to Kannada cinema in 2024,
   <summary>Can I watch Shakhahaari online?</summary>
   <p>Check local streaming services for availability as it may vary by region.</p>
 </details>
-

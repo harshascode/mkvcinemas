@@ -17,23 +17,23 @@ Rishab Shetty’s Kantara is a stunning cinematic experience that beautifully in
 
 ## Key Details About Movie:
 
-| **Section**           | **Description**                                                                                           |
-|-----------------------|-----------------------------------------------------------------------------------------------------------|
-| **Title**             | Kantara Movie Review                                                                                     |
-| **Director**          | Rishab Shetty                                                                                           |
-| **Genre**             | Action, Mythology                                                                                        |
-| **Cast**              | Rishab Shetty, Kishore, Achyuth Kumar, Ajaneesh Loknath                                                  |
-| **Release Date**      | October 14, 2022                                                                                       |
-| **Runtime**           | Approximately 148 minutes                                                                                |
-| **Setting**           | A village in South Karnataka, set in the 1990s                                                           |
-| **Plot Overview**     | The film revolves around a village's struggle against a forest officer, rooted in local mythology.        |
-| **Themes**            | Man vs. Nature, Community, Land, and Cultural Identity                                                    |
-| **Strengths**         | Unique storytelling, breathtaking cinematography, powerful performances, vibrant music                    |
-| **Weaknesses**        | None significant; may not resonate with those unfamiliar with Indian culture                             |
-| **Audience**          | Fans of action and mythology, and those interested in culturally rich narratives                         |
-
+| **Section**       | **Description**                                                                                    |
+| ----------------- | -------------------------------------------------------------------------------------------------- |
+| **Title**         | Kantara Movie Review                                                                               |
+| **Director**      | Rishab Shetty                                                                                      |
+| **Genre**         | Action, Mythology                                                                                  |
+| **Cast**          | Rishab Shetty, Kishore, Achyuth Kumar, Ajaneesh Loknath                                            |
+| **Release Date**  | October 14, 2022                                                                                   |
+| **Runtime**       | Approximately 148 minutes                                                                          |
+| **Setting**       | A village in South Karnataka, set in the 1990s                                                     |
+| **Plot Overview** | The film revolves around a village's struggle against a forest officer, rooted in local mythology. |
+| **Themes**        | Man vs. Nature, Community, Land, and Cultural Identity                                             |
+| **Strengths**     | Unique storytelling, breathtaking cinematography, powerful performances, vibrant music             |
+| **Weaknesses**    | None significant; may not resonate with those unfamiliar with Indian culture                       |
+| **Audience**      | Fans of action and mythology, and those interested in culturally rich narratives                   |
 
 ## Review of Kantara
+
 ### Plot Summary
 
 Kantara is set in a village in South Karnataka where villagers believe their land was gifted to them by a demigod protector. As a forest officer (Kishore) arrives to enforce regulations, the village strongman Shiva (Rishab Shetty) leads the villagers in resistance. The story unfolds against a backdrop of age-old conflicts over land, highlighting the tension between tradition and modernity.
@@ -76,5 +76,3 @@ Kantara shines in its portrayal of local festivities and rituals, immersing the 
   <summary>What makes Kantara unique?</summary>
   <p>Its original storytelling, cultural depth, and seamless blend of action with mythology set it apart from other films.</p>
 </details>
-
-

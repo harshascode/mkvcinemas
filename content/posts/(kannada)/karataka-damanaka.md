@@ -17,19 +17,19 @@ author: Harsh
 
 ## Key Details About Movie:
 
-| **Section**           | **Description**                                                                                  |
-|-----------------------|----------------------------------------------------------------------------------------------|
-| **Title**             | Karataka Damanaka Movie Review                                                              |
-| **Director**          | Yogaraj Bhat                                                                                |
-| **Genre**             | Masala Entertainer                                                                          |
-| **Cast**              | Shivarajkumar, Prabhu Deva, Rangayana Raghu, Priya Anand, Nishvika                         |
-| **Release Date**      | March 9, 2024                                                                                |
-| **Setting**           | Nandikoluru, a fictional town in North Karnataka                                             |
-| **Plot Overview**     | Two cunning thieves on parole attempt to help a village facing severe water scarcity.        |
-| **Themes**            | Friendship, moral dilemmas, resourcefulness, and community resilience                        |
-| **Strengths**         | Strong chemistry between leads, creative plot, humor, and vibrant music                      |
-| **Weaknesses**        | Weak villain portrayal, limited character development for heroines, and a sluggish narrative   |
-| **Audience**          | Fans of commercial cinema and light-hearted entertainers                                      |
+| **Section**       | **Description**                                                                              |
+| ----------------- | -------------------------------------------------------------------------------------------- |
+| **Title**         | Karataka Damanaka Movie Review                                                               |
+| **Director**      | Yogaraj Bhat                                                                                 |
+| **Genre**         | Masala Entertainer                                                                           |
+| **Cast**          | Shivarajkumar, Prabhu Deva, Rangayana Raghu, Priya Anand, Nishvika                           |
+| **Release Date**  | March 9, 2024                                                                                |
+| **Setting**       | Nandikoluru, a fictional town in North Karnataka                                             |
+| **Plot Overview** | Two cunning thieves on parole attempt to help a village facing severe water scarcity.        |
+| **Themes**        | Friendship, moral dilemmas, resourcefulness, and community resilience                        |
+| **Strengths**     | Strong chemistry between leads, creative plot, humor, and vibrant music                      |
+| **Weaknesses**    | Weak villain portrayal, limited character development for heroines, and a sluggish narrative |
+| **Audience**      | Fans of commercial cinema and light-hearted entertainers                                     |
 
 ## Review
 
@@ -79,5 +79,3 @@ Shivarajkumar delivers a refreshing performance in a lighter role, showcasing hi
   <summary>Where can I watch Karataka Damanaka?</summary>
   <p>The film is currently available in cinemas; check local listings for showtimes.</p>
 </details>
-
-

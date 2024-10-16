@@ -17,22 +17,20 @@ Blink marks a compelling debut for director Srinidhi Bengaluru, showcasing a gri
 
 ## Key Details About Movie:
 
-| **Section**           | **Description**                                                                                 |
-|-----------------------|---------------------------------------------------------------------------------------------|
-| **Title**             | Blink Movie Review                                                                         |
-| **Director**          | Srinidhi Bengaluru                                                                          |
-| **Genre**             | Time-Travel Drama                                                                          |
-| **Cast**              | Dheekshith Shetty, Chaithra J Achar, Gopalkrishna Deshpande, Suresh Anagalli            |
-| **Release Date**      | March 2024                                                                                 |
-| **Runtime**           | 136 minutes                                                                                |
-| **Setting**           | Various timelines, primarily focusing on a young man's struggle in contemporary Karnataka    |
-| **Plot Overview**     | Apoorva, a struggling youth, discovers he can control his blinking, leading him to uncover dark secrets about his past. |
-| **Themes**            | Identity, time, the impact of choices, and the influence of literature                     |
-| **Strengths**         | Strong writing, compelling performances, seamless editing, and effective cinematography     |
-| **Weaknesses**        | Complex screenplay may be challenging for casual viewers                                   |
-| **Audience**          | Fans of thriller genres and those interested in nuanced storytelling                        |
-
-
+| **Section**       | **Description**                                                                                                         |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **Title**         | Blink Movie Review                                                                                                      |
+| **Director**      | Srinidhi Bengaluru                                                                                                      |
+| **Genre**         | Time-Travel Drama                                                                                                       |
+| **Cast**          | Dheekshith Shetty, Chaithra J Achar, Gopalkrishna Deshpande, Suresh Anagalli                                            |
+| **Release Date**  | March 2024                                                                                                              |
+| **Runtime**       | 136 minutes                                                                                                             |
+| **Setting**       | Various timelines, primarily focusing on a young man's struggle in contemporary Karnataka                               |
+| **Plot Overview** | Apoorva, a struggling youth, discovers he can control his blinking, leading him to uncover dark secrets about his past. |
+| **Themes**        | Identity, time, the impact of choices, and the influence of literature                                                  |
+| **Strengths**     | Strong writing, compelling performances, seamless editing, and effective cinematography                                 |
+| **Weaknesses**    | Complex screenplay may be challenging for casual viewers                                                                |
+| **Audience**      | Fans of thriller genres and those interested in nuanced storytelling                                                    |
 
 ## Plot Summary
 
@@ -70,5 +68,3 @@ As the plot unfolds, Apoorva's journey through time reveals hidden layers of his
   <summary>Where can I watch Blink?</summary>
   <p>The film is currently in theaters; check local listings for showtimes.</p>
 </details>
-
-
