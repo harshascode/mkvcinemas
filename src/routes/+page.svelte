@@ -341,9 +341,9 @@
 		<div
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
 		>
-			<a href="/">
-				<img src="/card.webp" alt="Kalinga" class="rounded-sm mb-4" />
-				<p class="text-sm lg:text-sm font-semibold mb-2">Kalinga</p>
+			<a href="/kantara">
+				<img src="/i/kantara.webp" alt="Kantara" class="rounded-sm mb-4" />
+				<p class="text-sm lg:text-sm font-semibold mb-2">Kantara</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
@@ -351,9 +351,9 @@
 		<div
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
 		>
-			<a href="/">
-				<img src="/card.webp" alt="Aho Vikramaarka" class="rounded-sm mb-4" />
-				<p class="text-sm lg:text-sm font-semibold mb-2">Aho Vikramaarka</p>
+			<a href="/shakhahaari">
+				<img src="/i/shakhahaari.webp" alt="Shakhahaari" class="rounded-sm mb-4" />
+				<p class="text-sm lg:text-sm font-semibold mb-2">Shakhahaari</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
@@ -361,9 +361,9 @@
 		<div
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
 		>
-			<a href="/">
-				<img src="/card.webp" alt="Maharaja" class="rounded-sm mb-4" />
-				<p class="text-sm lg:text-sm font-semibold mb-2">Maharaja</p>
+			<a href="/martin">
+				<img src="/i/martin.webp" alt="Martin" class="rounded-sm mb-4" />
+				<p class="text-sm lg:text-sm font-semibold mb-2">Martin</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
@@ -371,9 +371,9 @@
 		<div
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
 		>
-			<a href="/">
-				<img src="/card.webp" alt="Manamey" class="rounded-sm mb-4" />
-				<p class="text-sm lg:text-sm font-semibold mb-2">Manamey</p>
+			<a href="/pepe">
+				<img src="/i/pepe.webp" alt="Pepe" class="rounded-sm mb-4" />
+				<p class="text-sm lg:text-sm font-semibold mb-2">Pepe</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
@@ -381,72 +381,19 @@
 		<div
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
 		>
-			<a href="/">
-				<img src="/card.webp" alt="Mr. Bachchan" class="rounded-sm mb-4" />
-				<p class="text-sm lg:text-sm font-semibold mb-2">Mr. Bachchan</p>
+			<a href="/blink">
+				<img src="/i/blink.webp" alt="Blink" class="rounded-sm mb-4" />
+				<p class="text-sm lg:text-sm font-semibold mb-2">Blink</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
+
 		<div
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
 		>
-			<a href="/">
-				<img src="/card.webp" alt="Mr. Bachchan" class="rounded-sm mb-4" />
-				<p class="text-sm lg:text-sm font-semibold mb-2">Mr. Bachchan</p>
-				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
-			</a>
-		</div>
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
-		>
-			<a href="/">
-				<img src="/card.webp" alt="Mr. Bachchan" class="rounded-sm mb-4" />
-				<p class="text-sm lg:text-sm font-semibold mb-2">Mr. Bachchan</p>
-				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
-			</a>
-		</div>
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
-		>
-			<a href="/">
-				<img src="/card.webp" alt="Mr. Bachchan" class="rounded-sm mb-4" />
-				<p class="text-sm lg:text-sm font-semibold mb-2">Mr. Bachchan</p>
-				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
-			</a>
-		</div>
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
-		>
-			<a href="/">
-				<img src="/card.webp" alt="Mr. Bachchan" class="rounded-sm mb-4" />
-				<p class="text-sm lg:text-sm font-semibold mb-2">Mr. Bachchan</p>
-				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
-			</a>
-		</div>
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
-		>
-			<a href="/">
-				<img src="/card.webp" alt="Mr. Bachchan" class="rounded-sm mb-4" />
-				<p class="text-sm lg:text-sm font-semibold mb-2">Mr. Bachchan</p>
-				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
-			</a>
-		</div>
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
-		>
-			<a href="/">
-				<img src="/card.webp" alt="Mr. Bachchan" class="rounded-sm mb-4" />
-				<p class="text-sm lg:text-sm font-semibold mb-2">Mr. Bachchan</p>
-				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
-			</a>
-		</div>
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
-		>
-			<a href="/">
-				<img src="/card.webp" alt="Mr. Bachchan" class="rounded-sm mb-4" />
-				<p class="text-sm lg:text-sm font-semibold mb-2">Mr. Bachchan</p>
+			<a href="/karataka-damanaka">
+				<img src="/i/karataka-damanaka.webp" alt="Karataka Damanaka" class="rounded-sm mb-4" />
+				<p class="text-sm lg:text-sm font-semibold mb-2">Karataka Damanaka</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
