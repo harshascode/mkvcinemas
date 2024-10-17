@@ -1,8 +1,9 @@
 export const config = {
-	title: 'Mkvcinemas',
+	title: 'Watch HD, 1080p Movies On mkvcinemas',
 	author: 'Harsh',
 	headerTitle: 'Mkvcinemas',
-	description: 'Mkvcinemas.buzz: Your go-to bookmark site for top free movie streaming platforms, latest Mkvmovies, and must-see reviews and trailers all in one place😎',
+	description:
+		'Mkvcinemas.buzz: Your go-to bookmark site for top free movie streaming platforms, latest Mkvmovies, and must-see reviews and trailers all in one place😎',
 	language: 'en-us',
 	theme: 'dark', // system, dark or light
 	domain: 'https://mkvcinemas.buzz',
@@ -35,11 +36,6 @@ export const user = {
 	twitter: 'https://twitter.com/piedpiperplc'
 };
 
-// export const navLinks = [
-// 	{ href: '/about', title: 'About' },
-// 	{ href: '/projects', title: 'Projects' },
-// 	{ href: '/blog', title: 'Blog' }
-// ];
 export const navLinks = [
 	// { href: '/', title: 'Home' },
 	{ href: '/telugu-movies', title: 'Telugu' },
