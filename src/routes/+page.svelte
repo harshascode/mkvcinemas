@@ -31,7 +31,7 @@
 	<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 		<!-- Movie Card -->
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/kalki-2898-ad">
 				<img src="/telugu-movies/kalki-2898-ad.webp" alt="Kalki 2898 AD" class="rounded-sm mb-4" />
@@ -41,7 +41,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/maharaja">
 				<img src="/telugu-movies/maharaja.webp" alt="Maharaja" class="rounded-sm mb-4" />
@@ -51,7 +51,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/aho-vikramaarka">
 				<img
@@ -65,7 +65,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/buddy">
 				<img src="/telugu-movies/buddy.webp" alt="Buddy (2024)" class="rounded-sm mb-4" />
@@ -75,7 +75,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/devara-part1">
 				<img src="/telugu-movies/devara-part1.webp" alt="Devara Part- 1" class="rounded-sm mb-4" />
@@ -84,7 +84,7 @@
 			</a>
 		</div>
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/double-ismart">
 				<img src="/telugu-movies/double-ismart.webp" alt="Double iSmart" class="rounded-sm mb-4" />
@@ -93,7 +93,7 @@
 			</a>
 		</div>
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/family-star">
 				<img src="/telugu-movies/family-star.webp" alt="Family Star" class="rounded-sm mb-4" />
@@ -102,7 +102,7 @@
 			</a>
 		</div>
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/kalinga">
 				<img src="/telugu-movies/kalinga.webp" alt="Kalinga" class="rounded-sm mb-4" />
@@ -111,7 +111,7 @@
 			</a>
 		</div>
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/35-Chinna-Katha-Kaadu">
 				<img
@@ -124,7 +124,7 @@
 			</a>
 		</div>
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/manamey">
 				<img src="/telugu-movies/manamey.webp" alt="Manamey" class="rounded-sm mb-4" />
@@ -133,7 +133,7 @@
 			</a>
 		</div>
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/mr-bachchan">
 				<img src="/telugu-movies/mr-bachchan.webp" alt="Mr. Bachchan" class="rounded-sm mb-4" />
@@ -142,7 +142,7 @@
 			</a>
 		</div>
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/prasanna-vadanam">
 				<img
@@ -177,7 +177,7 @@
 	<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 		<!-- Movie Card -->
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/thangalaan">
 				<img src="/i/thangalaan.webp" alt="Thangalaan" class="rounded-sm mb-4" />
@@ -187,7 +187,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/raayan">
 				<img src="/i/raayan.webp" alt="Raayan" class="rounded-sm mb-4" />
@@ -197,7 +197,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/garudan">
 				<img src="/i/garudan.webp" alt="Garudan" class="rounded-sm mb-4" />
@@ -207,7 +207,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/lover-tamil">
 				<img src="/i/lover-tamil.webp" alt="Lover" class="rounded-sm mb-4" />
@@ -235,7 +235,7 @@
 	<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 		<!-- Movie Card -->
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/12th-fail">
 				<img src="/i/12th-fail.webp" alt="12th Fail" class="rounded-sm mb-4" />
@@ -245,7 +245,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/stree-2">
 				<img src="/i/stree-2.webp" alt="Stree 2" class="rounded-sm mb-4" />
@@ -255,7 +255,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/khel-khel-mein">
 				<img src="/i/khel-khel-mein.webp" alt="Khel Khel Mein" class="rounded-sm mb-4" />
@@ -265,7 +265,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/bad-newz">
 				<img src="/i/bad-newz.webp" alt="Bad Newz" class="rounded-sm mb-4" />
@@ -275,7 +275,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/sarfira">
 				<img src="/i/sarfira.webp" alt="Sarfira" class="rounded-sm mb-4" />
@@ -284,7 +284,7 @@
 			</a>
 		</div>
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/ulajh">
 				<img src="/i/ulajh.webp" alt="Ulajh" class="rounded-sm mb-4" />
@@ -293,7 +293,7 @@
 			</a>
 		</div>
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/maidaan">
 				<img src="/i/maidaan.webp" alt="Maidaan" class="rounded-sm mb-4" />
@@ -302,7 +302,7 @@
 			</a>
 		</div>
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/vedaa">
 				<img src="/i/vedaa.webp" alt="Vedaa" class="rounded-sm mb-4" />
@@ -339,7 +339,7 @@
 	<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 		<!-- Movie Card -->
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/kantara">
 				<img src="/i/kantara.webp" alt="Kantara" class="rounded-sm mb-4" />
@@ -349,7 +349,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/shakhahaari">
 				<img src="/i/shakhahaari.webp" alt="Shakhahaari" class="rounded-sm mb-4" />
@@ -359,7 +359,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/martin">
 				<img src="/i/martin.webp" alt="Martin" class="rounded-sm mb-4" />
@@ -369,7 +369,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/pepe">
 				<img src="/i/pepe.webp" alt="Pepe" class="rounded-sm mb-4" />
@@ -379,7 +379,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/blink">
 				<img src="/i/blink.webp" alt="Blink" class="rounded-sm mb-4" />
@@ -389,7 +389,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-8 cursor-pointer"
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/karataka-damanaka">
 				<img src="/i/karataka-damanaka.webp" alt="Karataka Damanaka" class="rounded-sm mb-4" />

@@ -25,7 +25,7 @@ If you're an action movie fan, "Martin" is one film you won't want to miss! Dire
 | **Cast**         | Dhruva Sarja, Vaibhavi Shandilya, Anveshi Jain, Nikitin Dheer, Nawab Shah, Rohit Pathak |
 | **Genres**       | Action, Drama, Thriller                                                                 |
 
-## Review of Kantara
+## Review of Martin
 
 ### Plot Summary
 
