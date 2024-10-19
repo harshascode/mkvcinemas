@@ -46,7 +46,7 @@
 				</div>
 			</header>
 			<div
-				class="divide-y divide-gray-200 pb-8 pt-4 dark:divide-gray-700 xl:grid xl:grid-cols-4 xl:gap-x-7 xl:divide-y-0"
+				class="divide-y divide-gray-200 pb-8 pt-2 dark:divide-gray-700 xl:grid xl:grid-cols-4 xl:gap-x-7 xl:divide-y-0"
 				style="grid-template-rows: auto 1fr;"
 			>
 				<!-- <dl class="pt-6 pb-10 xl:border-b xl:border-gray-200 xl:pt-11 xl:dark:border-gray-700">

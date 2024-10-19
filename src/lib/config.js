@@ -11,8 +11,8 @@ export const config = {
 	siteRepo: 'https://github.com/akiarostami/sveltekit-tailwind-blog-starter',
 	siteLogo: '/icon-512.png',
 	// image: '/img/avatar.png',
-	email: 'info@piedpiper.com',
-	github: 'https://github.com/piedpiper',
+	email: 'info@mkvcinemas.buzz',
+	github: 'https://github.com/harshascode/mkvcinemas.buzz',
 	twitter: 'https://twitter.com/piedpiperplc',
 	facebook: 'https://www.facebook.com/piedpipersv',
 	youtube: 'https://www.youtube.com/watch?v=p3RwX06wcBs',
@@ -38,11 +38,11 @@ export const user = {
 
 export const navLinks = [
 	// { href: '/', title: 'Home' },
+	{ href: '/hindi-movies', title: 'Hindi' },
 	{ href: '/telugu-movies', title: 'Telugu' },
 	{ href: '/tamil-movies', title: 'Tamil' },
 	{ href: '/kannada-movies', title: 'Kannada' },
-	{ href: '/hindi-movies', title: 'Hindi' },
-	{ href: '/malayalam-movies', title: 'Malayalam' },
+	// { href: '/malayalam-movies', title: 'Malayalam' },
 	// { href: '/about', title: 'About' },
 	{ href: '/bookmarks-list', title: 'Bookmarks' },
 	{ href: '/blog', title: 'Blog' }
@@ -67,10 +67,10 @@ export const comment = {
 	giscus: {
 		// Visit the link below, and follow the steps in the 'configuration' section
 		// https://giscus.app/
-		repo: 'akiarostami/sveltekit-tailwind-blog-starter',
-		reposId: 'R_kgDOIen4kw',
+		repo: 'harshascode/mkvcinemas.buzz',
+		reposId: 'R_kgDONCSwZw',
 		category: 'Sample Site Comments',
-		categoryId: 'DIC_kwDOIen4k84CS9tX',
+		categoryId: 'DIC_kwDONCSwZ84Cjen2',
 		mapping: 'pathname', // supported options: pathname, url, title
 		reactionsEnabled: '1', // Emoji reactions: 1 = enable / 0 = disable
 		// Send discussion metadata periodically to the parent window: 1 = enable / 0 = disable
@@ -84,7 +84,7 @@ export const comment = {
 		loading: 'lazy',
 		// theme example: light, dark, preferred_color_scheme, light_high_contrast, dark_high_contrast
 		// light_protanopia, dark_protanopiam, light_tritanopia, dark_tritanopia, dark_dimmed, transparent_dark
-		theme: 'light',
+		theme: 'preferred_color_scheme',
 		// theme when dark mode
 		darkTheme: 'dark',
 		themeURL: ''
@@ -92,7 +92,7 @@ export const comment = {
 	utterances: {
 		// Visit the link below, and follow the steps in the 'configuration' section
 		// https://utteranc.es/
-		repo: 'akiarostami/sveltekit-tailwind-blog-starter',
+		repo: 'https://github.com/harshascode/mkvcinemas.buzz',
 		issueTerm: 'pathname', // supported options: pathname, url, title
 		label: 'Comment 💬', // label (optional): Comment 💬
 		// theme example: github-light, github-dark, preferred-color-scheme

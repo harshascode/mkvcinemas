@@ -12,6 +12,8 @@
 
 # 7: That it now it ready to Add Image.
 
+By [Firstpost](https://www.firstpost.com/tech/news-analysis/hbos-mockumentary-silicon-valley-finds-fans-tech-3652309.html)
+
 Prompt:
 
 Hi, write a blog post: Write semantically relevant seo friendly. Write like even 8th grader can understand. use below format.

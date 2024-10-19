@@ -4,7 +4,7 @@
 		{ href: '/telugu-movies', src: '/img/telugu.svg', alt: 'telugu-movies' },
 		{ href: '/tamil-movies', src: '/img/tamil.svg', alt: 'tamil-movies' },
 		{ href: '/kannada-movies', src: '/img/kannada.svg', alt: 'kannada-movies' },
-		{ href: '/malayalam-movies', src: '/img/malayalam.svg', alt: 'malayalam-movies' },
+		{ href: '/bookmarks-list', src: '/img/malayalam.svg', alt: 'malayalam-movies' },
 		{ href: 'https://www.youtube.com', src: '/img/youtube.svg', alt: 'YouTube', target: '_blank' }
 	];
 
@@ -22,12 +22,22 @@
 		{ src: '/img/nammaflix.svg', link: 'https://www.nammaflix.com' },
 		{ src: '/img/manoramamax.svg', link: 'https://www.manoramamax.com' }
 	];
+
+	export let title = 'Bookmarks list';
+	export let description = 'Mkvcinemas.buzz: Your go-to bookmark site for top free movie streaming platforms, latest Mkvmovies, and must-see reviews and trailers all in one place😎';
+	export let url = 'https://mkvcinemas.buzz/bookmarks-list'; 
 </script>
+
+<title>{title} | Mkvcinemas</title>
+	<meta name="description" content={description} />
+	<link rel="canonical" href={url} />
+	<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="{title}, mkvcinemas, mkvcinemas movies, mkvcinemas.com, mkvcinemas i, mkv cinemas, mkvcinemas movies, mkvcinemas in, mkvcinemas app, mkvcinemas mkv, mkvcinemas mkv 2024">
 
 <div
 	class="w-full h-full pt-2 pb-2 lg:pt-4 lg:pb-8 flex flex-col items-center justify-center"
 >
-	<div class="w-full max-w-[95rem] p-4">
+	<div class="w-full py-4">
 		<!-- Free OTT -->
 		<div class="mb-8">
 			<h2 class="text-xl font-semibold mb-4">Free OTT</h2>

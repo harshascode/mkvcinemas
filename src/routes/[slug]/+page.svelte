@@ -52,7 +52,7 @@
 </svelte:element>
 
 <Blog {post} {author} />
-<Comments />
+<!-- <Comments /> -->
 
 <!-- <script>
 	import Head from '$lib/components/layout/Head.svelte';

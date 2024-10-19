@@ -18,7 +18,7 @@
 	</h1> -->
 	<p class="text-base prose-base text-gray-800 dark:text-gray-100">
 		Looking for the latest HD-quality Mkv cinemas? MkvCinemas provides information on where to
-		stream or download movies, TV shows, and web series through free or popular paid platforms. You
+		stream or TV shows, and web series through free or popular paid platforms. You
 		can access content in multiple languages, including Tamil, Telugu, Hindi, English, Malayalam,
 		Kannada, Marathi, and Odia, all conveniently available through the Mkvcinemas web app.
 	</p>
@@ -34,7 +34,7 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/kalki-2898-ad">
-				<img src="/telugu-movies/kalki-2898-ad.webp" alt="Kalki 2898 AD" class="rounded-sm mb-4" />
+				<img src="/telugu-movies/kalki-2898-ad.webp" alt="Kalki 2898 AD" class="rounded-sm mb-4"/>
 				<p class="text-sm lg:text-sm font-semibold mb-2">Kalki 2898 AD</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
@@ -44,7 +44,7 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/maharaja">
-				<img src="/telugu-movies/maharaja.webp" alt="Maharaja" class="rounded-sm mb-4" />
+				<img src="/telugu-movies/maharaja.webp" alt="Maharaja" class="rounded-sm mb-4"/>
 				<p class="text-sm lg:text-sm font-semibold mb-2">Maharaja</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
@@ -68,7 +68,7 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/buddy">
-				<img src="/telugu-movies/buddy.webp" alt="Buddy (2024)" class="rounded-sm mb-4" />
+				<img src="/telugu-movies/buddy.webp" alt="Buddy (2024)" class="rounded-sm mb-4"/>
 				<p class="text-sm lg:text-sm font-semibold mb-2">Buddy (2024)</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
@@ -78,7 +78,7 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/devara-part1">
-				<img src="/telugu-movies/devara-part1.webp" alt="Devara Part- 1" class="rounded-sm mb-4" />
+				<img src="/telugu-movies/devara-part1.webp" alt="Devara Part- 1" class="rounded-sm mb-4"/>
 				<p class="text-sm lg:text-sm font-semibold mb-2">Devara Part- 1</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
@@ -87,7 +87,7 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/double-ismart">
-				<img src="/telugu-movies/double-ismart.webp" alt="Double iSmart" class="rounded-sm mb-4" />
+				<img src="/telugu-movies/double-ismart.webp" alt="Double iSmart" class="rounded-sm mb-4"/>
 				<p class="text-sm lg:text-sm font-semibold mb-2">Double iSmart</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
@@ -96,7 +96,7 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/family-star">
-				<img src="/telugu-movies/family-star.webp" alt="Family Star" class="rounded-sm mb-4" />
+				<img src="/telugu-movies/family-star.webp" alt="Family Star" class="rounded-sm mb-4"/>
 				<p class="text-sm lg:text-sm font-semibold mb-2">Family Star</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
@@ -105,7 +105,7 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/kalinga">
-				<img src="/telugu-movies/kalinga.webp" alt="Kalinga" class="rounded-sm mb-4" />
+				<img src="/telugu-movies/kalinga.webp" alt="Kalinga" class="rounded-sm mb-4"/>
 				<p class="text-sm lg:text-sm font-semibold mb-2">Kalinga</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
@@ -127,7 +127,7 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/manamey">
-				<img src="/telugu-movies/manamey.webp" alt="Manamey" class="rounded-sm mb-4" />
+				<img src="/telugu-movies/manamey.webp" alt="Manamey" class="rounded-sm mb-4"/>
 				<p class="text-sm lg:text-sm font-semibold mb-2">Manamey</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
@@ -136,7 +136,7 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/mr-bachchan">
-				<img src="/telugu-movies/mr-bachchan.webp" alt="Mr. Bachchan" class="rounded-sm mb-4" />
+				<img src="/telugu-movies/mr-bachchan.webp" alt="Mr. Bachchan" class="rounded-sm mb-4"/>
 				<p class="text-sm lg:text-sm font-semibold mb-2">Mr. Bachchan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
@@ -156,15 +156,15 @@
 		</div>
 	</div>
 
-	<p class="pb-6 text-base prose-base text-gray-950 dark:text-gray-100">
+	<p class="paragraph">
 		Telugu cinema, often referred to as Tollywood, has become a significant part of Indian cinema
 		and is loved by audiences worldwide. Whether it’s the action-packed thrillers, emotional dramas,
 		or family-friendly comedies, Telugu movies offer something for everyone. At MKVCinemas, we
 		provide an easy way for you to stream the latest and greatest Telugu films and read insightful
 		reviews that help you decide what to watch next.
 	</p>
-	<p class="pb-6 text-base prose-base text-gray-950 dark:text-gray-100">
-		Mkvcinemas is your go-to platform for streaming and downloading the best Telugu movies. Our
+	<p class="paragraph">
+		Mkvcinemas is your go-to platform for streaming and the best Telugu movies resource. Our
 		user-friendly site ensures that you can quickly find what you’re looking for whether it’s the
 		latest blockbuster or an old favorite. We also provide movie reviews to give you an idea of what
 		to expect from each film, helping you make informed viewing choices.
@@ -180,7 +180,7 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/thangalaan">
-				<img src="/i/thangalaan.webp" alt="Thangalaan" class="rounded-sm mb-4" />
+				<img src="/i/thangalaan.webp" alt="Thangalaan" class="rounded-sm mb-4" loading="lazy"/>
 				<p class="text-sm lg:text-sm font-semibold mb-2">Thangalaan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
@@ -190,7 +190,7 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/raayan">
-				<img src="/i/raayan.webp" alt="Raayan" class="rounded-sm mb-4" />
+				<img src="/i/raayan.webp" alt="Raayan" class="rounded-sm mb-4" loading="lazy" />
 				<p class="text-sm lg:text-sm font-semibold mb-2">Raayan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
@@ -200,7 +200,7 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/garudan">
-				<img src="/i/garudan.webp" alt="Garudan" class="rounded-sm mb-4" />
+				<img src="/i/garudan.webp" alt="Garudan" class="rounded-sm mb-4" loading="lazy" />
 				<p class="text-sm lg:text-sm font-semibold mb-2">Garudan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
@@ -210,20 +210,20 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/lover-tamil">
-				<img src="/i/lover-tamil.webp" alt="Lover" class="rounded-sm mb-4" />
+				<img src="/i/lover-tamil.webp" alt="Lover" class="rounded-sm mb-4" loading="lazy" />
 				<p class="text-sm lg:text-sm font-semibold mb-2">Lover</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 	</div>
-	<p class="pb-6 text-base prose-base text-gray-950 dark:text-gray-100">
+	<p class="paragraph">
 		Tamil cinema is known for its unique blend of genres and strong narratives. Whether it's
 		thrillers, romantic dramas, historical epics, or comedy films, Tamil movies cater to a wide
 		range of audiences. Some of the biggest stars in Indian cinema, like Rajinikanth, Kamal Haasan,
 		and Vijay, come from the Tamil film industry.
 	</p>
-	<p class="pb-6 text-base prose-base text-gray-950 dark:text-gray-100">
-		Mkvcinemas makes it super easy to watch Tamil movies online or download them to watch later. You
+	<p class="paragraph">
+		Mkvcinemas makes it super easy to watch Tamil movies on online. You
 		can stream movies on any device whether it’s your smartphone, tablet, or computer. With a vast
 		library of Tamil films, you’ll always have something new and exciting to watch.
 	</p>
@@ -238,7 +238,7 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/12th-fail">
-				<img src="/i/12th-fail.webp" alt="12th Fail" class="rounded-sm mb-4" />
+				<img src="/i/12th-fail.webp" alt="12th Fail" class="rounded-sm mb-4" loading="lazy" />
 				<p class="text-sm lg:text-sm font-semibold mb-2">12th Fail</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
@@ -248,7 +248,7 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/stree-2">
-				<img src="/i/stree-2.webp" alt="Stree 2" class="rounded-sm mb-4" />
+				<img src="/i/stree-2.webp" alt="Stree 2" class="rounded-sm mb-4" loading="lazy" />
 				<p class="text-sm lg:text-sm font-semibold mb-2">Stree 2</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
@@ -258,7 +258,7 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/khel-khel-mein">
-				<img src="/i/khel-khel-mein.webp" alt="Khel Khel Mein" class="rounded-sm mb-4" />
+				<img src="/i/khel-khel-mein.webp" alt="Khel Khel Mein" class="rounded-sm mb-4" loading="lazy" />
 				<p class="text-sm lg:text-sm font-semibold mb-2">Khel Khel Mein</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
@@ -268,7 +268,7 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/bad-newz">
-				<img src="/i/bad-newz.webp" alt="Bad Newz" class="rounded-sm mb-4" />
+				<img src="/i/bad-newz.webp" alt="Bad Newz" class="rounded-sm mb-4" loading="lazy" />
 				<p class="text-sm lg:text-sm font-semibold mb-2">Bad Newz</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
@@ -278,7 +278,7 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/sarfira">
-				<img src="/i/sarfira.webp" alt="Sarfira" class="rounded-sm mb-4" />
+				<img src="/i/sarfira.webp" alt="Sarfira" class="rounded-sm mb-4" loading="lazy" />
 				<p class="text-sm lg:text-sm font-semibold mb-2">Sarfira</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
@@ -287,7 +287,7 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/ulajh">
-				<img src="/i/ulajh.webp" alt="Ulajh" class="rounded-sm mb-4" />
+				<img src="/i/ulajh.webp" alt="Ulajh" class="rounded-sm mb-4" loading="lazy" />
 				<p class="text-sm lg:text-sm font-semibold mb-2">Ulajh</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
@@ -296,7 +296,7 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/maidaan">
-				<img src="/i/maidaan.webp" alt="Maidaan" class="rounded-sm mb-4" />
+				<img src="/i/maidaan.webp" alt="Maidaan" class="rounded-sm mb-4" loading="lazy" />
 				<p class="text-sm lg:text-sm font-semibold mb-2">Maidaan</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
@@ -305,24 +305,24 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/vedaa">
-				<img src="/i/vedaa.webp" alt="Vedaa" class="rounded-sm mb-4" />
+				<img src="/i/vedaa.webp" alt="Vedaa" class="rounded-sm mb-4" loading="lazy" />
 				<p class="text-sm lg:text-sm font-semibold mb-2">Vedaa</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 	</div>
-	<p class="pb-6 text-base prose-base text-gray-950 dark:text-gray-100">
+	<p class="paragraph">
 		Bollywood movies, based in Mumbai, is the largest film industry in India and one of the biggest
 		in the world. Known for its vibrant storytelling, catchy music, and colorful dance sequences,
 		Bollywood movies have captured the hearts of audiences both in India and around the globe.
 	</p>
-	<p class="pb-6 text-base prose-base text-gray-950 dark:text-gray-100">
+	<p class="paragraph">
 		Bollywood movies are loved for many reasons. They often combine action, drama, romance, and
 		comedy into one film, creating a unique viewing experience. Whether you enjoy watching
 		heartwarming love stories, thrilling action scenes, or funny comedies, Bollywood has something
 		for everyone.
 	</p>
-	<p class="pb-6 text-base prose-base text-gray-950 dark:text-gray-100">
+	<p class="paragraph">
 		Bollywood movies come in many exciting genres, each offering something special. If you love love
 		stories, romantic films will make you laugh and cry. Action movies are filled with thrilling
 		stunts and intense fight scenes that keep you on the edge of your seat. For a good laugh,
@@ -342,7 +342,7 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/kantara">
-				<img src="/i/kantara.webp" alt="Kantara" class="rounded-sm mb-4" />
+				<img src="/i/kantara.webp" alt="Kantara" class="rounded-sm mb-4" loading="lazy" />
 				<p class="text-sm lg:text-sm font-semibold mb-2">Kantara</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
@@ -352,7 +352,7 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/shakhahaari">
-				<img src="/i/shakhahaari.webp" alt="Shakhahaari" class="rounded-sm mb-4" />
+				<img src="/i/shakhahaari.webp" alt="Shakhahaari" class="rounded-sm mb-4" loading="lazy" />
 				<p class="text-sm lg:text-sm font-semibold mb-2">Shakhahaari</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
@@ -362,7 +362,7 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/martin">
-				<img src="/i/martin.webp" alt="Martin" class="rounded-sm mb-4" />
+				<img src="/i/martin.webp" alt="Martin" class="rounded-sm mb-4" loading="lazy" />
 				<p class="text-sm lg:text-sm font-semibold mb-2">Martin</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
@@ -372,7 +372,7 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/pepe">
-				<img src="/i/pepe.webp" alt="Pepe" class="rounded-sm mb-4" />
+				<img src="/i/pepe.webp" alt="Pepe" class="rounded-sm mb-4" loading="lazy" />
 				<p class="text-sm lg:text-sm font-semibold mb-2">Pepe</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
@@ -382,7 +382,7 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/blink">
-				<img src="/i/blink.webp" alt="Blink" class="rounded-sm mb-4" />
+				<img src="/i/blink.webp" alt="Blink" class="rounded-sm mb-4" loading="lazy" />
 				<p class="text-sm lg:text-sm font-semibold mb-2">Blink</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
@@ -392,25 +392,25 @@
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/karataka-damanaka">
-				<img src="/i/karataka-damanaka.webp" alt="Karataka Damanaka" class="rounded-sm mb-4" />
+				<img src="/i/karataka-damanaka.webp" alt="Karataka Damanaka" class="rounded-sm mb-4" loading="lazy" />
 				<p class="text-sm lg:text-sm font-semibold mb-2">Karataka Damanaka</p>
 				<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
 			</a>
 		</div>
 	</div>
-	<p class="pb-6 text-base prose-base text-gray-950 dark:text-gray-100">
+	<p class="paragraph">
 		Kannada movies are becoming increasingly popular, not just in Karnataka but across India and
 		even internationally. They often showcase strong narratives that highlight local culture,
 		traditions, and issues that resonate with audiences. With talented actors, directors, and
 		musicians, Kannada films are known for their originality and quality.
 	</p>
-	<p class="pb-6 text-base prose-base text-gray-950 dark:text-gray-100">
+	<p class="paragraph">
 		In recent years, Kannada cinema has been gaining international recognition. Movies like KGF and
 		Kantara have made waves not just in India but globally, attracting audiences and gaining acclaim
 		at film festivals. This rise in popularity has encouraged filmmakers to explore new themes and
 		push creative boundaries.
 	</p>
-	<p class="pb-6 text-base prose-base text-gray-950 dark:text-gray-100">
+	<p class="paragraph">
 		Curious about the latest hits in Kannada cinema? mkvcinemas keeps you updated with box office
 		collections and trending movies. We provide insights into which films are performing well and
 		capturing audience attention.
@@ -420,7 +420,7 @@
 <div class="space-y-4">
 	<h2 class="text-center text-3xl font-bold mb-4">FAQs</h2>
 	<details class="rounded">
-		<summary class="px-4 py-2 cursor-pointer font-bold">
+		<summary class="px-2 py-2 cursor-pointer font-bold">
 			What are the top-rated Telugu movies in 2024?
 		</summary>
 		<div class="p-2">
@@ -431,7 +431,7 @@
 	</details>
 
 	<details class="rounded">
-		<summary class="px-4 py-2 cursor-pointer font-bold">
+		<summary class="px-2 py-2 cursor-pointer font-bold">
 			What are the top-rated Bollywood movies in 2024?
 		</summary>
 		<div class="p-2">
@@ -441,7 +441,7 @@
 	</details>
 
 	<details class="rounded">
-		<summary class="px-4 py-2 cursor-pointer font-bold">
+		<summary class="px-2 py-2 cursor-pointer font-bold">
 			Does MKVCinemas provide movie reviews?
 		</summary>
 		<div class="p-2">
@@ -451,7 +451,7 @@
 	</details>
 
 	<details class="rounded">
-		<summary class="px-4 py-2 cursor-pointer font-bold">
+		<summary class="px-2 py-2 cursor-pointer font-bold">
 			Is there a mobile app for MKVCinemas?
 		</summary>
 		<div class="p-2">

@@ -8,13 +8,21 @@
 	<div>
 		<a href="/" aria-label={config.headerTitle}>
 			<div class="flex items-center justify-between">
+				<div class="mr-0">
+					<img src="/logo3.webp" alt="Logo" class="h-10 w-auto" loading="eager"/>
+				</div>
+				<div class="hidden text-4xl font-semibold sm:block font-title">
+					kvcinemas
+				</div>
+			</div>
+			<!-- <div class="flex items-center justify-between">
 				<div class="mr-3">
 					<img src="/logo.svg" alt="Logo" class="h-10 w-auto" />
 				</div>
 				<div class="hidden text-4xl font-semibold sm:block font-title">
 					{config.headerTitle}
 				</div>
-			</div>
+			</div> -->
 		</a>
 	</div>
 	<div class="flex items-center text-base leading-5">

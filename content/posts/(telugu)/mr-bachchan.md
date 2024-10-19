@@ -2,7 +2,7 @@
 title: Mr. Bachchan
 date: '2024-10-12'
 draft: false
-summary: 'Get ready to watch "Mr. Bachchan" Discover its plot, cast, and more at mkvcinemas for downloads and streaming options.'
+summary: 'Get ready to watch "Mr. Bachchan" Discover its plot, cast, and more at mkvcinemas.'
 image: /telugu-movies/mr-bachchan.webp
 tags:
   - Telugu

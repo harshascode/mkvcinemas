@@ -2,7 +2,7 @@
 title: Thangalaan
 date: '2024-10-14'
 draft: false
-summary: 'Watch Thangalaan (2024) for an epic tale of tribal resistance during British rule. Download now on mkvcinemas'
+summary: 'Watch Thangalaan (2024) for an epic tale of tribal resistance during British rule. now on mkvcinemas'
 image: /i/thangalaan.webp
 tags:
   - Tamil
