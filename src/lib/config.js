@@ -3,7 +3,7 @@ export const config = {
 	author: 'Harsh',
 	headerTitle: 'Mkvcinemas',
 	description:
-		'Mkvcinemas is your go-to platform for the latest updates on MKV movies and other film trends. Whether its new releases or regional cinema updates, we keep you informed and connected',
+		'Mkvcinemas is your go-to platform for the latest updates on MKV movies and other film trends. Whether its new releases or regional cinema updates...',
 	language: 'en-us',
 	theme: 'dark', // system, dark or light
 	domain: 'https://mkvcinemas.buzz',
