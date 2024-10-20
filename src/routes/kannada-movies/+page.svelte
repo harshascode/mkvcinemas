@@ -34,7 +34,7 @@
 		necessary rights to provide download services for the newest Kannada and South Indian films.
 	</p>
 
-	<div class="container mx-auto pb-10">
+	<div class="mx-auto pb-10">
 		<h2 class="text-center text-3xl font-bold mb-8">Kannada Movies</h2>
 		<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 			<!-- Movie Card -->

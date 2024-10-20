@@ -34,7 +34,7 @@
 		everything you need about the biggest hits and newest shows.
 	</p>
 
-	<div class="container mx-auto py-10">
+	<div class="mx-auto py-10">
 		<h2 class="text-center text-3xl font-bold mb-8">Mkvcinemas Telugu Movies 2024</h2>
 		<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 			<!-- Movie Card -->

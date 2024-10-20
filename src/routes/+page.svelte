@@ -26,7 +26,7 @@
 
 <!-- <Blogs title="Latest Posts" h2 {posts} search={false} count={15} /> -->
 
-<div class="container mx-auto py-10">
+<div class="mx-auto py-10">
 	<h2 class="text-center text-3xl font-bold mb-8">Mkvcinemas Telugu Movies 2024</h2>
 	<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 		<!-- Movie Card -->
@@ -172,7 +172,7 @@
 </div>
 
 <!-- Tamil Movies Container -->
-<div class="container mx-auto pb-10">
+<div class="mx-auto pb-10">
 	<h2 class="text-center text-3xl font-bold mb-8">Mkvcinemas Tamil Movies</h2>
 	<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 		<!-- Movie Card -->
@@ -230,7 +230,7 @@
 </div>
 
 <!-- Bolywood Movies -->
-<div class="container mx-auto pb-10">
+<div class="mx-auto pb-10">
 	<h2 class="text-center text-3xl font-bold mb-8">Bollywood Movies</h2>
 	<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 		<!-- Movie Card -->
@@ -339,7 +339,7 @@
 </div>
 
 <!-- Kannada Movies -->
-<div class="container mx-auto pb-10">
+<div class="mx-auto pb-10">
 	<h2 class="text-center text-3xl font-bold mb-8">Kannada Movies</h2>
 	<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 		<!-- Movie Card -->
@@ -460,7 +460,7 @@
 	</section>
 
 	<section class="py-4 rounded-lg shadow-md mb-3">
-		<div class="container mx-auto">
+		<div class="mx-auto">
 			<h2 class="text-center text-3xl font-bold mb-8">How It Works</h2>
 			<ol class="list-decimal list-inside space-y-4 text-left max-w-md mx-auto">
 				<li>
