@@ -1,10 +1,11 @@
 <script>
 	export let title = 'Mkvcinemas Telugu Movies Watch online in HD | Mkvcinemas';
 	export let description =
-		'Watch your faverate Telugu movies in mkvcinemas. All kind of telugu movies freely avalable for watch.';
+		'Mkvcinemas Telugu movies in stunning 1080p, 720p, 480p, and 4K quality. Enjoy a vast collection of films available for free streaming';
 	export let url = 'https://mkvcinemas.buzz/telugu-movies';
 </script>
 
+<svelte:head>
 <title>{title}</title>
 <meta name="description" content={description} />
 <link rel="canonical" href={url} />
@@ -13,6 +14,7 @@
 	name="keywords"
 	content="mkvcinemas, mkvcinemas movies, mkvcinemas.com, mkvcinemas i, mkvcinemas app"
 />
+</svelte:head>
 
 <div class="pt-12">
 	<h1

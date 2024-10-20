@@ -1,10 +1,11 @@
 <script>
 	export let title = 'Mkvcinemas Tamil Movies Watch online in HD | Mkvcinemas';
 	export let description =
-		'Watch your faverate Tamil movies in mkvcinemas. All kind of tamil movies freely avalable for watch.';
+		'Watch your favorite Tamil movies on Mkvcinemas in 1080p, 720p, 480p, and 4K quality. Enjoy a wide range of films';
 	export let url = 'https://mkvcinemas.buzz/tamil-movies';
 </script>
 
+<svelte:head>
 <title>{title}</title>
 <meta name="description" content={description} />
 <link rel="canonical" href={url} />
@@ -13,6 +14,7 @@
 	name="keywords"
 	content="mkvcinemas, mkvcinemas movies, mkvcinemas.com, mkvcinemas i, mkvcinemas app"
 />
+</svelte:head>
 
 <div class="pt-12">
 	<h1

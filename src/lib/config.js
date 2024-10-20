@@ -3,7 +3,7 @@ export const config = {
 	author: 'Harsh',
 	headerTitle: 'Mkvcinemas',
 	description:
-		'Mkvcinemas is your go-to platform for the latest updates on MKV movies and other film trends. Whether it’s new releases, AI-themed films, or regional cinema updates, we keep you informed and connected.',
+		'Mkvcinemas is your go-to platform for the latest updates on MKV movies and other film trends. Whether its new releases or regional cinema updates, we keep you informed and connected',
 	language: 'en-us',
 	theme: 'dark', // system, dark or light
 	domain: 'https://mkvcinemas.buzz',
@@ -13,10 +13,10 @@ export const config = {
 	// image: '/img/avatar.png',
 	email: 'info@mkvcinemas.buzz',
 	github: 'https://github.com/harshascode/mkvcinemas.buzz',
-	twitter: 'https://twitter.com/piedpiperplc',
-	facebook: 'https://www.facebook.com/piedpipersv',
+	twitter: 'https://twitter.com/mkvcinemas',
+	facebook: 'https://www.facebook.com/mkvcinemas',
 	youtube: 'https://www.youtube.com/watch?v=p3RwX06wcBs',
-	linkedin: 'https://www.linkedin.com/company/pied-piper-plc/',
+	linkedin: 'https://www.linkedin.com/mkvcinemas',
 	locale: 'en-US',
 	primaryColor: '#06a261',
 

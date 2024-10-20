@@ -29,14 +29,16 @@
 	export let url = 'https://mkvcinemas.buzz/bookmarks-list';
 </script>
 
-<title>{title} | Mkvcinemas</title>
-<meta name="description" content={description} />
-<link rel="canonical" href={url} />
-<meta name="robots" content="index, follow" />
-<meta
-	name="keywords"
-	content="{title}, mkvcinemas, mkvcinemas movies, mkvcinemas.com, mkvcinemas i, mkv cinemas, mkvcinemas movies, mkvcinemas in, mkvcinemas app, mkvcinemas mkv, mkvcinemas mkv 2024"
-/>
+<svelte:head>
+	<title>{title} | Mkvcinemas</title>
+	<meta name="description" content={description} />
+	<link rel="canonical" href={url} />
+	<meta name="robots" content="index, follow" />
+	<meta
+		name="keywords"
+		content="{title}, mkvcinemas, mkvcinemas movies, mkvcinemas.com, mkvcinemas i, mkv cinemas, mkvcinemas movies, mkvcinemas in, mkvcinemas app, mkvcinemas mkv, mkvcinemas mkv 2024"
+	/>
+</svelte:head>
 
 <div class="w-full h-full pt-2 pb-2 lg:pt-4 lg:pb-8 flex flex-col items-center justify-center">
 	<div class="w-full py-4">

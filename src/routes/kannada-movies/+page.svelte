@@ -1,10 +1,11 @@
 <script>
 	export let title = 'Mkvcinemas Kannada Movies Watch online in HD | Mkvcinemas';
 	export let description =
-		'Watch your faverate Kannada movies in mkvcinemas with 1080, 720, 480, 4K quality.';
+		'Watch your favorite Kannada movies on mkvcinemas in high-quality resolutions like 1080p, 720p, 480p, and 4K. Stream, Download latest Sandalwood hits';
 	export let url = 'https://mkvcinemas.buzz/kannada-movies';
 </script>
 
+<svelte:head>
 <title>{title}</title>
 <meta name="description" content={description} />
 <link rel="canonical" href={url} />
@@ -13,6 +14,7 @@
 	name="keywords"
 	content="mkvcinemas, mkvcinemas movies, mkvcinemas.com, mkvcinemas i, mkvcinemas app"
 />
+</svelte:head>
 
 <div class="pt-12">
 	<h1

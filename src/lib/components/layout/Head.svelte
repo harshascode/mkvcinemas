@@ -1,7 +1,7 @@
 <script>
 	import { config } from '$lib/config';
 
-	export let title = '🍿Mkvcinemas.com';
+	export let title = '🍿Mkvcinemas.app';
 	export let description = config.description;
 	export let author = config.author;
 	export let url = config.siteUrl; // Fallback to a default site URL if `url` is not provided

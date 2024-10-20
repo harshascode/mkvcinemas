@@ -1,18 +1,20 @@
 <script>
 	export let title = 'Mkvcinemas Hindi Movies Watch online in HD';
 	export let description =
-		'Watch your faverate Hindi movies in mkvcinemas with 1080, 720, 480, 4K quality.';
+		'Watch your favorite Hindi movies on mkvcinemas in stunning 1080p, 720p, 480p, and 4K quality. Enjoy a seamless streaming experience with top Bollywood hits';
 	export let url = 'https://mkvcinemas.buzz/hindi-movies';
 </script>
 
-<title>{title}</title>
-<meta name="description" content={description} />
-<link rel="canonical" href={url} />
-<meta name="robots" content="index, follow" />
-<meta
-	name="keywords"
-	content="mkvcinemas, mkvcinemas movies, mkvcinemas.com, mkvcinemas i, mkvcinemas app, mkvcinemas mkv"
-/>
+<svelte:head>
+	<title>{title}</title>
+	<meta name="description" content={description} />
+	<link rel="canonical" href={url} />
+	<meta name="robots" content="index, follow" />
+	<meta
+		name="keywords"
+		content="mkvcinemas, mkvcinemas movies, mkvcinemas.com, mkvcinemas i, mkvcinemas app, mkvcinemas mkv"
+	/>
+</svelte:head>
 
 <div class="pt-12">
 	<h1
