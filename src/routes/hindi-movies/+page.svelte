@@ -1,6 +1,7 @@
 <script>
 	export let title = 'Mkvcinemas Hindi Movies Watch online in HD';
-	export let description = 'Watch your faverate Hindi movies in mkvcinemas with 1080, 720, 480, 4K quality.';
+	export let description =
+		'Watch your faverate Hindi movies in mkvcinemas with 1080, 720, 480, 4K quality.';
 	export let url = 'https://mkvcinemas.buzz/hindi-movies';
 </script>
 
@@ -43,7 +44,7 @@
 					<p class="year-btn">2024</p>
 				</a>
 			</div>
-	
+
 			<div
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
@@ -53,17 +54,22 @@
 					<p class="year-btn">2024</p>
 				</a>
 			</div>
-	
+
 			<div
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/khel-khel-mein">
-					<img src="/i/khel-khel-mein.webp" alt="Khel Khel Mein" class="rounded-sm mb-4" loading="lazy" />
+					<img
+						src="/i/khel-khel-mein.webp"
+						alt="Khel Khel Mein"
+						class="rounded-sm mb-4"
+						loading="lazy"
+					/>
 					<p class="movi-name">Khel Khel Mein</p>
 					<p class="year-btn">2024</p>
 				</a>
 			</div>
-	
+
 			<div
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
@@ -73,7 +79,7 @@
 					<p class="year-btn">2024</p>
 				</a>
 			</div>
-	
+
 			<div
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
@@ -132,10 +138,20 @@
 		like “Genda Phool” featuring Badshah, which racked up over 1 billion views on YouTube.
 	</p>
 	<p class="paragraph">
-		Variety of Genres: Bollywood isn’t limited to romance. Films like “Andhadhun” blend thriller and comedy, while “Tanhaji” offers action and historical drama. There’s something for everyone.
+		Variety of Genres: Bollywood isn’t limited to romance. Films like “Andhadhun” blend thriller and
+		comedy, while “Tanhaji” offers action and historical drama. There’s something for everyone.
 	</p>
-	<h2 class="text-center text-3xl font-bold mb-8">Discover the Best Movies in Different Languages</h2>
+	<h2 class="text-center text-3xl font-bold mb-8">
+		Discover the Best Movies in Different Languages
+	</h2>
 	<p class="paragraph">
-		We’ve curated a list of movies across multiple languages, so you can easily find content that matches your preferences. If you’re a fan of <a href="/telugu-movies" class="text-green-600">Telugu cinema</a>, you’ll find a wide range of Telugu movies. If you prefer <a href="/tamil-movies" class="text-green-600">Tamil</a> or <a href="/bollywood-movies" class="text-green-600">Bollywood</a>, you’ll get a list of options from those industries too. Plus, we also provide detailed information about the latest movies from <a href="/kannada-movies" class="text-green-600">Kannada movies</a> and Malayalam cinema.
+		We’ve curated a list of movies across multiple languages, so you can easily find content that
+		matches your preferences. If you’re a fan of <a href="/telugu-movies" class="text-green-600"
+			>Telugu cinema</a
+		>, you’ll find a wide range of Telugu movies. If you prefer
+		<a href="/tamil-movies" class="text-green-600">Tamil</a>
+		or <a href="/bollywood-movies" class="text-green-600">Bollywood</a>, you’ll get a list of
+		options from those industries too. Plus, we also provide detailed information about the latest
+		movies from <a href="/kannada-movies" class="text-green-600">Kannada movies</a> and Malayalam cinema.
 	</p>
 </div>

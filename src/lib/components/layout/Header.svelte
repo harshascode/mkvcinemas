@@ -9,7 +9,7 @@
 		<a href="/" aria-label={config.headerTitle}>
 			<div class="flex items-center justify-between">
 				<div class="mr-0">
-					<img src="/logo3.webp" alt="Logo" class="h-10 w-auto" loading="eager"/>
+					<img src="/logo3.webp" alt="Logo" class="h-10 w-auto" loading="eager" />
 				</div>
 				<div class="hidden text-4xl font-semibold sm:block font-title dark:text-green-500">
 					kvcinemas

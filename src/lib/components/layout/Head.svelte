@@ -18,7 +18,10 @@
 	<meta name="description" content={description} />
 	<link rel="canonical" href={url} />
 	<meta name="robots" content="index, follow" />
-	<meta name="keywords" content="{title}, mkvcinemas, mkvcinemas movies, mkvcinemas.com, mkvcinemas i, mkv cinemas, mkvcinemas movies, mkvcinemas in, mkvcinemas app, mkvcinemas mkv, mkvcinemas mkv 2024">
+	<meta
+		name="keywords"
+		content="{title}, mkvcinemas, mkvcinemas movies, mkvcinemas.com, mkvcinemas i, mkv cinemas, mkvcinemas movies, mkvcinemas in, mkvcinemas app, mkvcinemas mkv, mkvcinemas mkv 2024"
+	/>
 	<meta name="author" content={author} />
 
 	<!-- Facebook Meta Tags -->

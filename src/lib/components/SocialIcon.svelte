@@ -14,7 +14,7 @@
 
 	const options = [
 		{ caption: 'mail', component: IconMail },
-		{ caption: 'github', component: IconGithub },
+		{ caption: 'github', component: IconGithub }
 		// { caption: 'facebook', component: IconFacebook },
 		// { caption: 'youtube', component: IconYoutube },
 		// { caption: 'linkedin', component: IconLinkedin },
@@ -28,7 +28,7 @@
 	<a
 		class="flex gap-x-2 text-gray-500 transition hover:text-primary-600"
 		href={url || '#'}
-		target='_blank'
+		target="_blank"
 		rel="noreferrer"
 	>
 		<span class="sr-only">{icon}</span>

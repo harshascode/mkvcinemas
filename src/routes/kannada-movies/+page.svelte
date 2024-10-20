@@ -21,10 +21,15 @@
 		Mkvcinemas Kannada Movies
 	</h1>
 	<p class="paragraph">
-		Kannada cinema, often referred to as Sandalwood, has emerged as a vibrant and dynamic part of the Indian film industry. With a rich history back to the early 1930s, Kannada films have captivated audiences with their unique storytelling, diverse genres, and exceptional talent. 
+		Kannada cinema, often referred to as Sandalwood, has emerged as a vibrant and dynamic part of
+		the Indian film industry. With a rich history back to the early 1930s, Kannada films have
+		captivated audiences with their unique storytelling, diverse genres, and exceptional talent.
 	</p>
 	<p class="paragraph">
-		MKVCinemas offers a seamless experience for downloading Kannada movies in HD quality. You can effortlessly stream and download the newest Kannada films from a variety of OTT platforms. To ensure you’re accessing the latest movies, always choose a reputable website that has the necessary rights to provide download services for the newest Kannada and South Indian films.
+		MKVCinemas offers a seamless experience for downloading Kannada movies in HD quality. You can
+		effortlessly stream and download the newest Kannada films from a variety of OTT platforms. To
+		ensure you’re accessing the latest movies, always choose a reputable website that has the
+		necessary rights to provide download services for the newest Kannada and South Indian films.
 	</p>
 
 	<div class="container mx-auto pb-10">
@@ -40,7 +45,7 @@
 					<p class="year-btn">2024</p>
 				</a>
 			</div>
-	
+
 			<div
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
@@ -50,7 +55,7 @@
 					<p class="year-btn">2024</p>
 				</a>
 			</div>
-	
+
 			<div
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
@@ -60,7 +65,7 @@
 					<p class="year-btn">2024</p>
 				</a>
 			</div>
-	
+
 			<div
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
@@ -70,7 +75,7 @@
 					<p class="year-btn">2024</p>
 				</a>
 			</div>
-	
+
 			<div
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
@@ -80,12 +85,17 @@
 					<p class="year-btn">2024</p>
 				</a>
 			</div>
-	
+
 			<div
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/karataka-damanaka">
-					<img src="/i/karataka-damanaka.webp" alt="Karataka Damanaka" class="rounded-sm mb-4" loading="lazy" />
+					<img
+						src="/i/karataka-damanaka.webp"
+						alt="Karataka Damanaka"
+						class="rounded-sm mb-4"
+						loading="lazy"
+					/>
 					<p class="movi-name">Karataka Damanaka</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -98,10 +108,10 @@
 			musicians, Kannada films are known for their originality and quality.
 		</p>
 		<p class="paragraph">
-			In recent years, Kannada cinema has been gaining international recognition. Movies like KGF and
-			Kantara have made waves not just in India but globally, attracting audiences and gaining acclaim
-			at film festivals. This rise in popularity has encouraged filmmakers to explore new themes and
-			push creative boundaries.
+			In recent years, Kannada cinema has been gaining international recognition. Movies like KGF
+			and Kantara have made waves not just in India but globally, attracting audiences and gaining
+			acclaim at film festivals. This rise in popularity has encouraged filmmakers to explore new
+			themes and push creative boundaries.
 		</p>
 		<p class="paragraph">
 			Curious about the latest hits in Kannada cinema? mkvcinemas keeps you updated with box office
@@ -114,17 +124,18 @@
 		Explore the Finest Films Across Various Languages
 	</h2>
 	<p class="paragraph">
-		We’ve compiled a diverse selection of movies in multiple languages, making it easy for you to discover content that fits your tastes. If you’re a fan of <a
+		We’ve compiled a diverse selection of movies in multiple languages, making it easy for you to
+		discover content that fits your tastes. If you’re a fan of <a
 			href="/telugu-movies"
 			class="text-green-600 underline hover:underline-offset-2">Telugu cinema</a
 		>, you’ll find an extensive collection of Telugu films. If you enjoy
 		<a href="/tamil-movies" class="text-green-600 underline hover:underline-offset-2">Tamil</a>
 		or
 		<a href="/hindi-movies" class="text-green-600 underline hover:underline-offset-2">Bollywood</a>,
-		we offer a variety of options from those film industries as well. Additionally, you can explore the latest releases from
-		<a href="/kannada-movies" class="text-green-600 underline hover:underline-offset-2">Kannada cinema</a
-		> and
-		Malayalam films for even more entertainment choices.
+		we offer a variety of options from those film industries as well. Additionally, you can explore
+		the latest releases from
+		<a href="/kannada-movies" class="text-green-600 underline hover:underline-offset-2"
+			>Kannada cinema</a
+		> and Malayalam films for even more entertainment choices.
 	</p>
-
 </div>
