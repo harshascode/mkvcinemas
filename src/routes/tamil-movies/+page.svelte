@@ -42,8 +42,8 @@
 			>
 				<a href="/thangalaan">
 					<img src="/i/thangalaan.webp" alt="Thangalaan" class="rounded-sm mb-4" loading="lazy" />
-					<p class="text-sm lg:text-sm font-semibold mb-2">Thangalaan</p>
-					<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+					<p class="movi-name">Thangalaan</p>
+					<p class="year-btn">2024</p>
 				</a>
 			</div>
 
@@ -52,8 +52,8 @@
 			>
 				<a href="/raayan">
 					<img src="/i/raayan.webp" alt="Raayan" class="rounded-sm mb-4" loading="lazy" />
-					<p class="text-sm lg:text-sm font-semibold mb-2">Raayan</p>
-					<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+					<p class="movi-name">Raayan</p>
+					<p class="year-btn">2024</p>
 				</a>
 			</div>
 
@@ -62,8 +62,8 @@
 			>
 				<a href="/garudan">
 					<img src="/i/garudan.webp" alt="Garudan" class="rounded-sm mb-4" loading="lazy" />
-					<p class="text-sm lg:text-sm font-semibold mb-2">Garudan</p>
-					<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+					<p class="movi-name">Garudan</p>
+					<p class="year-btn">2024</p>
 				</a>
 			</div>
 
@@ -72,8 +72,8 @@
 			>
 				<a href="/lover-tamil">
 					<img src="/i/lover-tamil.webp" alt="Lover" class="rounded-sm mb-4" loading="lazy" />
-					<p class="text-sm lg:text-sm font-semibold mb-2">Lover</p>
-					<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+					<p class="movi-name">Lover</p>
+					<p class="year-btn">2024</p>
 				</a>
 			</div>
 		</div>

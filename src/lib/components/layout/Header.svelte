@@ -11,7 +11,7 @@
 				<div class="mr-0">
 					<img src="/logo3.webp" alt="Logo" class="h-10 w-auto" loading="eager"/>
 				</div>
-				<div class="hidden text-4xl font-semibold sm:block font-title">
+				<div class="hidden text-4xl font-semibold sm:block font-title dark:text-green-500">
 					kvcinemas
 				</div>
 			</div>

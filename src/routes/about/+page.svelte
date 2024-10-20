@@ -25,12 +25,7 @@
 			</div>
 		</div>
 		<div class="prose max-w-none pt-8 pb-8 dark:prose-dark xl:col-span-2">
-			Pied Piper (PP) was an American tech company based in Silicon Valley, California. The company
-			was formed in 2014 by Richard Hendricks as a company to develop Richard's algorithm that he'd
-			created. The company is best known to for achieving the highest Weissman score in history
-			during their presentation at TechCrunch Disrupt. The company's first appearance was in the
-			Season One episode Minimum Viable Product and has since served as the primary company for the
-			series.
+			I'm a software developer and movie enthusiast who loves sharing insights on the latest films. Through my blog, I combine my passion for technology and cinema to provide reviews, analysis, and recommendations.
 		</div>
 	</div>
 	<div class="space-y-2 py-8 md:space-y-5">

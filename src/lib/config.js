@@ -3,12 +3,12 @@ export const config = {
 	author: 'Harsh',
 	headerTitle: 'Mkvcinemas',
 	description:
-		'Mkvcinemas.buzz: Your go-to bookmark site for top free movie streaming platforms, latest Mkvmovies, and must-see reviews and trailers all in one place😎',
+		'Mkvcinemas is your go-to platform for the latest updates on MKV movies and other film trends. Whether it’s new releases, AI-themed films, or regional cinema updates, we keep you informed and connected.',
 	language: 'en-us',
 	theme: 'dark', // system, dark or light
 	domain: 'https://mkvcinemas.buzz',
 	siteUrl: 'https://mkvcinemas.buzz',
-	siteRepo: 'https://github.com/akiarostami/sveltekit-tailwind-blog-starter',
+	siteRepo: 'https://github.com/harshascode/mkvcinemas.buzz',
 	siteLogo: '/icon-512.png',
 	// image: '/img/avatar.png',
 	email: 'info@mkvcinemas.buzz',

@@ -35,8 +35,8 @@
 			>
 				<a href="/kalki-2898-ad">
 					<img src="/telugu-movies/kalki-2898-ad.webp" alt="Kalki 2898 AD" class="rounded-sm mb-4"/>
-					<p class="text-sm lg:text-sm font-semibold mb-2">Kalki 2898 AD</p>
-					<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+					<p class="movi-name">Kalki 2898 AD</p>
+					<p class="year-btn">2024</p>
 				</a>
 			</div>
 	
@@ -45,8 +45,8 @@
 			>
 				<a href="/maharaja">
 					<img src="/telugu-movies/maharaja.webp" alt="Maharaja" class="rounded-sm mb-4"/>
-					<p class="text-sm lg:text-sm font-semibold mb-2">Maharaja</p>
-					<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+					<p class="movi-name">Maharaja</p>
+					<p class="year-btn">2024</p>
 				</a>
 			</div>
 	
@@ -59,8 +59,8 @@
 						alt="Aho Vikramaarka"
 						class="rounded-sm mb-4"
 					/>
-					<p class="text-sm lg:text-sm font-semibold mb-2">Aho Vikramaarka</p>
-					<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+					<p class="movi-name">Aho Vikramaarka</p>
+					<p class="year-btn">2024</p>
 				</a>
 			</div>
 	
@@ -69,8 +69,8 @@
 			>
 				<a href="/buddy">
 					<img src="/telugu-movies/buddy.webp" alt="Buddy (2024)" class="rounded-sm mb-4"/>
-					<p class="text-sm lg:text-sm font-semibold mb-2">Buddy (2024)</p>
-					<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+					<p class="movi-name">Buddy (2024)</p>
+					<p class="year-btn">2024</p>
 				</a>
 			</div>
 	
@@ -79,8 +79,8 @@
 			>
 				<a href="/devara-part1">
 					<img src="/telugu-movies/devara-part1.webp" alt="Devara Part- 1" class="rounded-sm mb-4"/>
-					<p class="text-sm lg:text-sm font-semibold mb-2">Devara Part- 1</p>
-					<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+					<p class="movi-name">Devara Part- 1</p>
+					<p class="year-btn">2024</p>
 				</a>
 			</div>
 			<div
@@ -88,8 +88,8 @@
 			>
 				<a href="/double-ismart">
 					<img src="/telugu-movies/double-ismart.webp" alt="Double iSmart" class="rounded-sm mb-4"/>
-					<p class="text-sm lg:text-sm font-semibold mb-2">Double iSmart</p>
-					<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+					<p class="movi-name">Double iSmart</p>
+					<p class="year-btn">2024</p>
 				</a>
 			</div>
 			<div
@@ -97,8 +97,8 @@
 			>
 				<a href="/family-star">
 					<img src="/telugu-movies/family-star.webp" alt="Family Star" class="rounded-sm mb-4"/>
-					<p class="text-sm lg:text-sm font-semibold mb-2">Family Star</p>
-					<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+					<p class="movi-name">Family Star</p>
+					<p class="year-btn">2024</p>
 				</a>
 			</div>
 			<div
@@ -106,8 +106,8 @@
 			>
 				<a href="/kalinga">
 					<img src="/telugu-movies/kalinga.webp" alt="Kalinga" class="rounded-sm mb-4"/>
-					<p class="text-sm lg:text-sm font-semibold mb-2">Kalinga</p>
-					<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+					<p class="movi-name">Kalinga</p>
+					<p class="year-btn">2024</p>
 				</a>
 			</div>
 			<div
@@ -119,8 +119,8 @@
 						alt="35 – Chinna Katha Kaadu"
 						class="rounded-sm mb-4"
 					/>
-					<p class="text-sm lg:text-sm font-semibold mb-2">35–Chinna Katha Kaadu</p>
-					<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+					<p class="movi-name">35–Chinna Katha Kaadu</p>
+					<p class="year-btn">2024</p>
 				</a>
 			</div>
 			<div
@@ -128,8 +128,8 @@
 			>
 				<a href="/manamey">
 					<img src="/telugu-movies/manamey.webp" alt="Manamey" class="rounded-sm mb-4"/>
-					<p class="text-sm lg:text-sm font-semibold mb-2">Manamey</p>
-					<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+					<p class="movi-name">Manamey</p>
+					<p class="year-btn">2024</p>
 				</a>
 			</div>
 			<div
@@ -137,8 +137,8 @@
 			>
 				<a href="/mr-bachchan">
 					<img src="/telugu-movies/mr-bachchan.webp" alt="Mr. Bachchan" class="rounded-sm mb-4"/>
-					<p class="text-sm lg:text-sm font-semibold mb-2">Mr. Bachchan</p>
-					<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+					<p class="movi-name">Mr. Bachchan</p>
+					<p class="year-btn">2024</p>
 				</a>
 			</div>
 			<div
@@ -150,8 +150,8 @@
 						alt="Prasanna Vadanam"
 						class="rounded-sm mb-4"
 					/>
-					<p class="text-sm lg:text-sm font-semibold mb-2">Prasanna Vadanam</p>
-					<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+					<p class="movi-name">Prasanna Vadanam</p>
+					<p class="year-btn">2024</p>
 				</a>
 			</div>
 		</div>

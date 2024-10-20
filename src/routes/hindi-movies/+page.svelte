@@ -39,8 +39,8 @@
 			>
 				<a href="/12th-fail">
 					<img src="/i/12th-fail.webp" alt="12th Fail" class="rounded-sm mb-4" loading="lazy" />
-					<p class="text-sm lg:text-sm font-semibold mb-2">12th Fail</p>
-					<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+					<p class="movi-name">12th Fail</p>
+					<p class="year-btn">2024</p>
 				</a>
 			</div>
 	
@@ -49,8 +49,8 @@
 			>
 				<a href="/stree-2">
 					<img src="/i/stree-2.webp" alt="Stree 2" class="rounded-sm mb-4" loading="lazy" />
-					<p class="text-sm lg:text-sm font-semibold mb-2">Stree 2</p>
-					<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+					<p class="movi-name">Stree 2</p>
+					<p class="year-btn">2024</p>
 				</a>
 			</div>
 	
@@ -59,8 +59,8 @@
 			>
 				<a href="/khel-khel-mein">
 					<img src="/i/khel-khel-mein.webp" alt="Khel Khel Mein" class="rounded-sm mb-4" loading="lazy" />
-					<p class="text-sm lg:text-sm font-semibold mb-2">Khel Khel Mein</p>
-					<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+					<p class="movi-name">Khel Khel Mein</p>
+					<p class="year-btn">2024</p>
 				</a>
 			</div>
 	
@@ -69,8 +69,8 @@
 			>
 				<a href="/bad-newz">
 					<img src="/i/bad-newz.webp" alt="Bad Newz" class="rounded-sm mb-4" loading="lazy" />
-					<p class="text-sm lg:text-sm font-semibold mb-2">Bad Newz</p>
-					<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+					<p class="movi-name">Bad Newz</p>
+					<p class="year-btn">2024</p>
 				</a>
 			</div>
 	
@@ -79,8 +79,8 @@
 			>
 				<a href="/sarfira">
 					<img src="/i/sarfira.webp" alt="Sarfira" class="rounded-sm mb-4" loading="lazy" />
-					<p class="text-sm lg:text-sm font-semibold mb-2">Sarfira</p>
-					<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+					<p class="movi-name">Sarfira</p>
+					<p class="year-btn">2024</p>
 				</a>
 			</div>
 			<div
@@ -88,8 +88,8 @@
 			>
 				<a href="/ulajh">
 					<img src="/i/ulajh.webp" alt="Ulajh" class="rounded-sm mb-4" loading="lazy" />
-					<p class="text-sm lg:text-sm font-semibold mb-2">Ulajh</p>
-					<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+					<p class="movi-name">Ulajh</p>
+					<p class="year-btn">2024</p>
 				</a>
 			</div>
 			<div
@@ -97,8 +97,8 @@
 			>
 				<a href="/maidaan">
 					<img src="/i/maidaan.webp" alt="Maidaan" class="rounded-sm mb-4" loading="lazy" />
-					<p class="text-sm lg:text-sm font-semibold mb-2">Maidaan</p>
-					<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+					<p class="movi-name">Maidaan</p>
+					<p class="year-btn">2024</p>
 				</a>
 			</div>
 			<div
@@ -106,8 +106,8 @@
 			>
 				<a href="/vedaa">
 					<img src="/i/vedaa.webp" alt="Vedaa" class="rounded-sm mb-4" loading="lazy" />
-					<p class="text-sm lg:text-sm font-semibold mb-2">Vedaa</p>
-					<p class="text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm">2024</p>
+					<p class="movi-name">Vedaa</p>
+					<p class="year-btn">2024</p>
 				</a>
 			</div>
 		</div>
