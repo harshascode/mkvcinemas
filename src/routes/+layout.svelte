@@ -2,11 +2,20 @@
 	import Transition from '$lib/components/layout/Transition.svelte';
 	import Header from '$lib/components/layout/Header.svelte';
 	import Footer from '$lib/components/layout/Footer.svelte';
-	import Analytics from '$lib/components/analytics/index.svelte';
+	// import Analytics from '$lib/components/analytics/index.svelte';
 	import '../app.css';
 
 	export let data = {};
 </script>
+
+<svelte:head>
+	<meta name="google-site-verification" content="IzcWMgn5Qjf-LCtA337KTGjivsf9bmod_1pZ-jxYQh8" />
+	<script
+		defer
+		src="https://umami-psi-three.vercel.app/script.js"
+		data-website-id={import.meta.env.VITE_UMAMI_WEBSITE_ID}
+	></script>
+</svelte:head>
 
 <div class="mx-auto max-w-7xl px-4 sm:px-6 xl:max-w-7xl xl:px-0">
 	<!-- <div class="mx-auto px-4 sm:px-6 xl:px-6"> -->
@@ -21,4 +30,4 @@
 	</div>
 </div>
 
-<Analytics />
+<!-- <Analytics /> -->
