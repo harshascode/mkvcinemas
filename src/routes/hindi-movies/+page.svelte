@@ -9,7 +9,7 @@
 	<title>{title}</title>
 	<meta name="description" content={description} />
 	<link rel="canonical" href={url} />
-	<meta name="robots" content="index, follow" />
+
 	<meta
 		name="keywords"
 		content="mkvcinemas, mkvcinemas movies, mkvcinemas.com, mkvcinemas i, mkvcinemas app, mkvcinemas mkv"
