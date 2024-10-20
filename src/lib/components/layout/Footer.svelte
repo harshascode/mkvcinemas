@@ -28,10 +28,16 @@
 		<div class="mb-3 flex space-x-2">
 			<SocialIcon icon="mail" url={config.email ? `mailto:${config.email}` : ''} />
 			<SocialIcon icon="github" url={config.github} />
-			<SocialIcon icon="facebook" url={config.facebook} />
+			<!-- <SocialIcon icon="facebook" url={config.facebook} />
 			<SocialIcon icon="youtube" url={config.youtube} />
 			<SocialIcon icon="linkedin" url={config.linkedin} />
-			<SocialIcon icon="twitter" url={config.twitter} />
+			<SocialIcon icon="twitter" url={config.twitter} /> -->
+		</div>
+		<div class="mb-3 flex space-x-2 text-sm text-gray-500 dark:text-gray-400">
+			<a href="/terms" class="hover:underline">Terms</a>
+			<a href="/disclaimer" class="hover:underline">Disclaimer</a>
+			<a href="/privacy-policy" class="hover:underline">Privacy</a>
+			<a href="/contact" class="hover:underline">Contact</a>
 		</div>
 		{#if config.newsletter.provider}
 			<Newsletter />
