@@ -33,19 +33,20 @@
 			<SocialIcon icon="linkedin" url={config.linkedin} />
 			<SocialIcon icon="twitter" url={config.twitter} /> -->
 		</div>
-		<div class="mb-3 flex space-x-2 text-sm text-gray-500 dark:text-gray-400">
+		<div class="mb-3 flex space-x-3 text-sm text-gray-500 dark:text-gray-400">
 			<a href="/terms" class="hover:underline">Terms</a>
 			<a href="/disclaimer" class="hover:underline">Disclaimer</a>
 			<a href="/privacy-policy" class="hover:underline">Privacy</a>
 			<a href="/contact" class="hover:underline">Contact</a>
+			<a href="/sitemap.xml" class="hover:underline" target="_self">Sitemap</a>
+			<a href="/rss.xml" class="hover:underline" target="_self">RSS</a>
 		</div>
 		{#if config.newsletter.provider}
 			<Newsletter />
 		{/if}
 		<div class="mb-4 flex space-x-2 text-sm text-gray-500 dark:text-gray-400">
-			Copyright©<a href="/">&nbsp;Mkvcinemas&nbsp;</a>
-			{year} All rights Reserved&nbsp;•&nbsp;<a href="/sitemap.xml">Sitemap</a>&nbsp;•&nbsp;
-			<a href="/rss.xml">RSS Feed</a>
+			Copyright © <a href="/">&nbsp;Mkvcinemas&nbsp;</a>
+			{year} All rights Reserved
 		</div>
 	</div>
 </footer>
