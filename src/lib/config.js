@@ -1,9 +1,9 @@
 export const config = {
-	title: 'Watch HD, 1080p Movies On mkvcinemas',
+	title: 'MkvCinemas.com',
 	author: 'Harsh',
 	headerTitle: 'Mkvcinemas',
 	description:
-		'Mkvcinemas is your go-to platform for the latest updates on MKV movies and other film trends. Whether its new releases or regional cinema updates...',
+		'mkvCinemas PC and Smartphone Movies of Bollywood, Hollywood, Hindi Cartoon, Anime, TV Shows, Web Series at "MkvCinemas"',
 	language: 'en-us',
 	theme: 'dark', // system, dark or light
 	domain: 'https://mkvcinemas.buzz',
