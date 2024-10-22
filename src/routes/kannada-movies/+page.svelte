@@ -42,7 +42,7 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/kantara">
-					<img src="/i/kantara.webp" alt="Kantara" class="rounded-sm mb-4" loading="lazy" />
+					<img src="/i/kantara.webp" alt="Kantara" width="1200" height="628" class="rounded-sm mb-4" loading="lazy" />
 					<p class="movi-name">Kantara</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -52,7 +52,7 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/shakhahaari">
-					<img src="/i/shakhahaari.webp" alt="Shakhahaari" class="rounded-sm mb-4" loading="lazy" />
+					<img src="/i/shakhahaari.webp" alt="Shakhahaari" width="1200" height="628" class="rounded-sm mb-4" loading="lazy" />
 					<p class="movi-name">Shakhahaari</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -62,7 +62,7 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/martin">
-					<img src="/i/martin.webp" alt="Martin" class="rounded-sm mb-4" loading="lazy" />
+					<img src="/i/martin.webp" alt="Martin" width="1200" height="628" class="rounded-sm mb-4" loading="lazy" />
 					<p class="movi-name">Martin</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -72,7 +72,7 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/pepe">
-					<img src="/i/pepe.webp" alt="Pepe" class="rounded-sm mb-4" loading="lazy" />
+					<img src="/i/pepe.webp" alt="Pepe" width="1200" height="628" class="rounded-sm mb-4" loading="lazy" />
 					<p class="movi-name">Pepe</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -82,7 +82,7 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/blink">
-					<img src="/i/blink.webp" alt="Blink" class="rounded-sm mb-4" loading="lazy" />
+					<img src="/i/blink.webp" alt="Blink" width="1200" height="628" class="rounded-sm mb-4" loading="lazy" />
 					<p class="movi-name">Blink</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -95,7 +95,7 @@
 					<img
 						src="/i/karataka-damanaka.webp"
 						alt="Karataka Damanaka"
-						class="rounded-sm mb-4"
+						width="1200" height="628" class="rounded-sm mb-4"
 						loading="lazy"
 					/>
 					<p class="movi-name">Karataka Damanaka</p>

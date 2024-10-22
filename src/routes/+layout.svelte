@@ -4,7 +4,6 @@
 	import Footer from '$lib/components/layout/Footer.svelte';
 	// import Analytics from '$lib/components/analytics/index.svelte';
 	import '../app.css';
-	// import AppHead from '$lib/components/AppHead.svelte';
 
 	export let data = {};
 </script>
@@ -30,8 +29,8 @@
 	></script>
 	<script
 		defer
-		src="https://umami-psi-three.vercel.app/script.js"
 		data-website-id={import.meta.env.VITE_UMAMI_WEBSITE_ID}
+		src="https://umami-psi-three.vercel.app/script.js"
 	></script>
 </svelte:head>
 

@@ -41,7 +41,7 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/12th-fail">
-					<img src="/i/12th-fail.webp" alt="12th Fail" class="rounded-sm mb-4" loading="lazy" />
+					<img src="/i/12th-fail.webp" alt="12th Fail" width="1200" height="628" class="rounded-sm mb-4" loading="lazy" />
 					<p class="movi-name">12th Fail</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -51,7 +51,7 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/stree-2">
-					<img src="/i/stree-2.webp" alt="Stree 2" class="rounded-sm mb-4" loading="lazy" />
+					<img src="/i/stree-2.webp" alt="Stree 2" width="1200" height="628" class="rounded-sm mb-4" loading="lazy" />
 					<p class="movi-name">Stree 2</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -64,7 +64,7 @@
 					<img
 						src="/i/khel-khel-mein.webp"
 						alt="Khel Khel Mein"
-						class="rounded-sm mb-4"
+						width="1200" height="628" class="rounded-sm mb-4"
 						loading="lazy"
 					/>
 					<p class="movi-name">Khel Khel Mein</p>
@@ -76,7 +76,7 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/bad-newz">
-					<img src="/i/bad-newz.webp" alt="Bad Newz" class="rounded-sm mb-4" loading="lazy" />
+					<img src="/i/bad-newz.webp" alt="Bad Newz" width="1200" height="628" class="rounded-sm mb-4" loading="lazy" />
 					<p class="movi-name">Bad Newz</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -86,7 +86,7 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/sarfira">
-					<img src="/i/sarfira.webp" alt="Sarfira" class="rounded-sm mb-4" loading="lazy" />
+					<img src="/i/sarfira.webp" alt="Sarfira" width="1200" height="628" class="rounded-sm mb-4" loading="lazy" />
 					<p class="movi-name">Sarfira</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -95,7 +95,7 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/ulajh">
-					<img src="/i/ulajh.webp" alt="Ulajh" class="rounded-sm mb-4" loading="lazy" />
+					<img src="/i/ulajh.webp" alt="Ulajh" width="1200" height="628" class="rounded-sm mb-4" loading="lazy" />
 					<p class="movi-name">Ulajh</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -104,7 +104,7 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/maidaan">
-					<img src="/i/maidaan.webp" alt="Maidaan" class="rounded-sm mb-4" loading="lazy" />
+					<img src="/i/maidaan.webp" alt="Maidaan" width="1200" height="628" class="rounded-sm mb-4" loading="lazy" />
 					<p class="movi-name">Maidaan</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -113,7 +113,7 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/vedaa">
-					<img src="/i/vedaa.webp" alt="Vedaa" class="rounded-sm mb-4" loading="lazy" />
+					<img src="/i/vedaa.webp" alt="Vedaa" width="1200" height="628" class="rounded-sm mb-4" loading="lazy" />
 					<p class="movi-name">Vedaa</p>
 					<p class="year-btn">2024</p>
 				</a>
