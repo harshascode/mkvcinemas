@@ -3,7 +3,7 @@ title: Prasanna Vadanam
 date: '2024-10-12'
 draft: false
 summary: 'Prasanna Vadanam delivers a decent thriller experience, with standout performances by Suhas and Rashi Singh.'
-image: /telugu-movies/prasanna-vadanam.webp
+image: /i/prasanna-vadanam.webp
 tags:
   - Telugu
   - Hindi

@@ -6,14 +6,14 @@
 </script>
 
 <svelte:head>
-<title>{title}</title>
-<meta name="description" content={description} />
-<link rel="canonical" href={url} />
-<meta name="robots" content="index, follow" />
-<meta
-	name="keywords"
-	content="mkvcinemas, mkvcinemas movies, mkvcinemas.com, mkvcinemas i, mkvcinemas app"
-/>
+	<title>{title}</title>
+	<meta name="description" content={description} />
+	<link rel="canonical" href={url} />
+	<meta name="robots" content="index, follow" />
+	<meta
+		name="keywords"
+		content="mkvcinemas, mkvcinemas movies, mkvcinemas.com, mkvcinemas i, mkvcinemas app"
+	/>
 </svelte:head>
 
 <div class="pt-12">
@@ -42,11 +42,7 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/kalki-2898-ad">
-					<img
-						src="/telugu-movies/kalki-2898-ad.webp"
-						alt="Kalki 2898 AD"
-						class="rounded-sm mb-4"
-					/>
+					<img src="/i/kalki-2898-ad.webp" alt="Kalki 2898 AD" class="rounded-sm mb-4" />
 					<p class="movi-name">Kalki 2898 AD</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -56,7 +52,7 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/maharaja">
-					<img src="/telugu-movies/maharaja.webp" alt="Maharaja" class="rounded-sm mb-4" />
+					<img src="/i/maharaja.webp" alt="Maharaja" class="rounded-sm mb-4" />
 					<p class="movi-name">Maharaja</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -66,11 +62,7 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/aho-vikramaarka">
-					<img
-						src="/telugu-movies/aho-vikramaarka.webp"
-						alt="Aho Vikramaarka"
-						class="rounded-sm mb-4"
-					/>
+					<img src="/i/aho-vikramaarka.webp" alt="Aho Vikramaarka" class="rounded-sm mb-4" />
 					<p class="movi-name">Aho Vikramaarka</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -80,7 +72,7 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/buddy">
-					<img src="/telugu-movies/buddy.webp" alt="Buddy (2024)" class="rounded-sm mb-4" />
+					<img src="/i/buddy.webp" alt="Buddy (2024)" class="rounded-sm mb-4" />
 					<p class="movi-name">Buddy (2024)</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -90,11 +82,7 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/devara-part1">
-					<img
-						src="/telugu-movies/devara-part1.webp"
-						alt="Devara Part- 1"
-						class="rounded-sm mb-4"
-					/>
+					<img src="/i/devara-part1.webp" alt="Devara Part- 1" class="rounded-sm mb-4" />
 					<p class="movi-name">Devara Part- 1</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -103,11 +91,7 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/double-ismart">
-					<img
-						src="/telugu-movies/double-ismart.webp"
-						alt="Double iSmart"
-						class="rounded-sm mb-4"
-					/>
+					<img src="/i/double-ismart.webp" alt="Double iSmart" class="rounded-sm mb-4" />
 					<p class="movi-name">Double iSmart</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -116,7 +100,7 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/family-star">
-					<img src="/telugu-movies/family-star.webp" alt="Family Star" class="rounded-sm mb-4" />
+					<img src="/i/family-star.webp" alt="Family Star" class="rounded-sm mb-4" />
 					<p class="movi-name">Family Star</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -125,7 +109,7 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/kalinga">
-					<img src="/telugu-movies/kalinga.webp" alt="Kalinga" class="rounded-sm mb-4" />
+					<img src="/i/kalinga.webp" alt="Kalinga" class="rounded-sm mb-4" />
 					<p class="movi-name">Kalinga</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -133,9 +117,9 @@
 			<div
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
-				<a href="/35-Chinna-Katha-Kaadu">
+				<a href="/35-chinna-katha-kaadu">
 					<img
-						src="/telugu-movies/35-Chinna-Katha-Kaadu.webp"
+						src="/i/35-chinna-katha-kaadu.webp"
 						alt="35 – Chinna Katha Kaadu"
 						class="rounded-sm mb-4"
 					/>
@@ -147,7 +131,7 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/manamey">
-					<img src="/telugu-movies/manamey.webp" alt="Manamey" class="rounded-sm mb-4" />
+					<img src="/i/manamey.webp" alt="Manamey" class="rounded-sm mb-4" />
 					<p class="movi-name">Manamey</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -156,7 +140,7 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/mr-bachchan">
-					<img src="/telugu-movies/mr-bachchan.webp" alt="Mr. Bachchan" class="rounded-sm mb-4" />
+					<img src="/i/mr-bachchan.webp" alt="Mr. Bachchan" class="rounded-sm mb-4" />
 					<p class="movi-name">Mr. Bachchan</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -165,11 +149,7 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/prasanna-vadanam">
-					<img
-						src="/telugu-movies/prasanna-vadanam.webp"
-						alt="Prasanna Vadanam"
-						class="rounded-sm mb-4"
-					/>
+					<img src="/i/prasanna-vadanam.webp" alt="Prasanna Vadanam" class="rounded-sm mb-4" />
 					<p class="movi-name">Prasanna Vadanam</p>
 					<p class="year-btn">2024</p>
 				</a>

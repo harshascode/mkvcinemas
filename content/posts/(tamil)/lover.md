@@ -3,7 +3,7 @@ title: Lover
 date: '2024-10-14'
 draft: false
 summary: 'Lover, a Tamil romantic drama that explores modern relationships.'
-image: /i/lover-tamil.webp
+image: /i/lover.webp
 tags:
   - Tamil
 author: Harsh

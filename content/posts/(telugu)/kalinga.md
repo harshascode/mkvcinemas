@@ -3,7 +3,7 @@ title: Kalinga
 date: '2024-10-12'
 draft: false
 summary: 'Discover "Kalinga," a gripping Telugu horror film that explores fear and courage.'
-image: /telugu-movies/kalinga.webp
+image: /i/kalinga.webp
 tags:
   - Telugu
   - Hindi

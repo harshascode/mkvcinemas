@@ -6,14 +6,14 @@
 </script>
 
 <svelte:head>
-<title>{title}</title>
-<meta name="description" content={description} />
-<link rel="canonical" href={url} />
-<meta name="robots" content="index, follow" />
-<meta
-	name="keywords"
-	content="mkvcinemas, mkvcinemas movies, mkvcinemas.com, mkvcinemas i, mkvcinemas app"
-/>
+	<title>{title}</title>
+	<meta name="description" content={description} />
+	<link rel="canonical" href={url} />
+	<meta name="robots" content="index, follow" />
+	<meta
+		name="keywords"
+		content="mkvcinemas, mkvcinemas movies, mkvcinemas.com, mkvcinemas i, mkvcinemas app"
+	/>
 </svelte:head>
 
 <div class="pt-12">
@@ -72,8 +72,8 @@
 			<div
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
-				<a href="/lover-tamil">
-					<img src="/i/lover-tamil.webp" alt="Lover" class="rounded-sm mb-4" loading="lazy" />
+				<a href="/lover">
+					<img src="/i/lover.webp" alt="Lover" class="rounded-sm mb-4" loading="lazy" />
 					<p class="movi-name">Lover</p>
 					<p class="year-btn">2024</p>
 				</a>

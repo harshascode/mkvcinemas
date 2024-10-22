@@ -39,5 +39,3 @@
 		<MobileMenu />
 	</div>
 </header>
-
-

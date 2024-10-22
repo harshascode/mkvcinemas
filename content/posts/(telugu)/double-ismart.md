@@ -3,7 +3,7 @@ title: Double iSmart
 date: '2024-10-12'
 draft: false
 summary: 'Devara Part-1 takes viewers on an epic journey filled with action, drama, and stunning visuals, exploring themes of loyalty and sacrifice. Dont miss it'
-image: /telugu-movies/double-ismart.webp
+image: /i/double-ismart.webp
 tags:
   - Telugu
   - Hindi

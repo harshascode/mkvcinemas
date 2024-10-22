@@ -3,7 +3,7 @@ title: Aho Vikramaarka
 date: '2024-10-12'
 draft: false
 summary: 'Explore "Aho Vikramaarka," a thrilling South Indian crime drama flim'
-image: /telugu-movies/aho-vikramaarka.webp
+image: /i/aho-vikramaarka.webp
 tags:
   - Telugu
   - Hindi

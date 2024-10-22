@@ -3,7 +3,7 @@ title: Devara Part- 1
 date: '2024-10-12'
 draft: false
 summary: 'Devara Part-1 takes viewers on an epic journey filled with action, drama, and stunning visuals, exploring themes of loyalty and sacrifice. Dont miss it'
-image: /telugu-movies/devara-part1.webp
+image: /i/devara-part1.webp
 tags:
   - Telugu
 author: Harsh

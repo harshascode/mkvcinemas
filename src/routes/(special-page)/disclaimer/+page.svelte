@@ -54,6 +54,7 @@
 		and streaming practices.
 	</p>
 	<p class="paragraph">
-		By using Mkvcinemas.buzz, you acknowledge and agree to this disclaimer. We appreciate your understanding and support of the film industry.
+		By using Mkvcinemas.buzz, you acknowledge and agree to this disclaimer. We appreciate your
+		understanding and support of the film industry.
 	</p>
 </div>

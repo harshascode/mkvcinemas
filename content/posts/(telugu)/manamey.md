@@ -3,7 +3,7 @@ title: Manamey
 date: '2024-10-12'
 draft: false
 summary: 'Experience "Manamey," a touching Telugu romantic drama that explores love and responsibility.'
-image: /telugu-movies/manamey.webp
+image: /i/manamey.webp
 tags:
   - Telugu
 author: Harsh

@@ -3,7 +3,7 @@ title: Buddy (2024)
 date: '2024-10-12'
 draft: false
 summary: 'Buddy This Telugu action-comedy, features Allu Sirish.'
-image: /telugu-movies/buddy.webp
+image: /i/buddy.webp
 tags:
   - Telugu
   - Hindi

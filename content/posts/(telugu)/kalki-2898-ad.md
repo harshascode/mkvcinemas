@@ -3,7 +3,7 @@ title: Kalki 2898 AD
 date: '2024-10-12'
 draft: false
 summary: 'Kalki 2898 AD stands out as one of Tollywood’s most anticipated and successful movies of 2024.'
-image: /telugu-movies/kalki-2898-ad.webp
+image: /i/kalki-2898-ad.webp
 tags:
   - Telugu
   - Hindi

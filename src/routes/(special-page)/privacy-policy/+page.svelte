@@ -13,7 +13,11 @@
 </svelte:head>
 
 <div class="p-12">
-	<h1 class="pb-6 text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">Privacy Policy</h1>
+	<h1
+		class="pb-6 text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14"
+	>
+		Privacy Policy
+	</h1>
 
 	<p>
 		At Mkvcinemas, accessible from <a href="https://mkvcinemas.buzz">https://mkvcinemas.buzz</a>,
@@ -168,9 +172,7 @@
 
 	<br />
 
-	<h2 class="text-2xl font-semibold">
-		CCPA Privacy Rights (Do Not Sell My Personal Information)
-	</h2>
+	<h2 class="text-2xl font-semibold">CCPA Privacy Rights (Do Not Sell My Personal Information)</h2>
 
 	<br />
 

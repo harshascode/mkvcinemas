@@ -3,7 +3,7 @@ title: Family Star
 date: '2024-10-12'
 draft: false
 summary: 'Family Star is a cinematic venture with an average rating, showcasing a compelling story and a talented cast, complemented by decent visuals.'
-image: /telugu-movies/family-star.webp
+image: /i/family-star.webp
 tags:
   - Telugu
 author: Harsh

@@ -3,7 +3,7 @@ title: Maharaja
 date: '2024-10-12'
 draft: false
 summary: 'Maharaja is an essential addition to the action thriller genre, celebrating the power of storytelling.'
-image: /telugu-movies/maharaja.webp
+image: /i/maharaja.webp
 tags:
   - Telugu
   - Hindi
