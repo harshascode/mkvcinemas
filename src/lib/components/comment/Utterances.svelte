@@ -2,7 +2,8 @@
 	import { onMount } from 'svelte';
 	import { isDarkMode } from '$utils/theme';
 
-	export let config = {};
+	/** @type {{config?: any}} */
+	let { config = {} } = $props();
 
 	let theme = isDarkMode() ? config.darkTheme : config.theme;
 
@@ -36,5 +37,5 @@
 	<div id="utterances-loading" class="flex flex-col items-center">
 		<h4>Loading Utternaces Discussion</h4>
 	</div>
-	<div id="utterances" class="utterances-frame relative" />
+	<div id="utterances" class="utterances-frame relative"></div>
 </div>

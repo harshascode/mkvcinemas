@@ -1,7 +1,8 @@
 <script>
 	import { onMount } from 'svelte';
 
-	export let config = {};
+	/** @type {{config?: any}} */
+	let { config = {} } = $props();
 
 	onMount(() => {
 		const giscus = document.createElement('script');
@@ -40,5 +41,5 @@
 	<div id="giscus-loading" class="flex flex-col items-center">
 		<h4>Loading Giscus Discussion</h4>
 	</div>
-	<div id="giscus" class="giscus" />
+	<div id="giscus" class="giscus"></div>
 </div>

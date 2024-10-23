@@ -5,7 +5,8 @@
 	// import Analytics from '$lib/components/analytics/index.svelte';
 	import '../app.css';
 
-	export let data = {};
+	/** @type {{data?: any, children?: import('svelte').Snippet}} */
+	let { data = {}, children } = $props();
 </script>
 
 <div class="mx-auto max-w-7xl px-4 sm:px-6 xl:max-w-7xl xl:px-0">
@@ -14,7 +15,7 @@
 		<Header />
 		<main class="mb-auto">
 			<Transition pathname={data?.pathname}>
-				<slot />
+				{@render children?.()}
 			</Transition>
 		</main>
 		<Footer />

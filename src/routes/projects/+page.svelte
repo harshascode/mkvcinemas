@@ -2,7 +2,8 @@
 	import Card from '$lib/components/Card.svelte';
 	import Title from '$lib/components/Title.svelte';
 
-	export let data;
+	/** @type {{data: any}} */
+	let { data } = $props();
 	const projects = data.projects;
 </script>
 

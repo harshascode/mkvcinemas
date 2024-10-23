@@ -3,7 +3,8 @@
 	import Tag from '$lib/components/Tag.svelte';
 	import Author from '$lib/components/Author.svelte';
 
-	export let post;
+	/** @type {{post: any}} */
+	let { post } = $props();
 	// export let author;
 </script>
 

@@ -1,7 +1,8 @@
 <script>
 	// can use to design: https://og-playground.vercel.app/
-	export let text = 'Official Website';
 	import { config, openGraph } from '$lib/config';
+	/** @type {{text?: string}} */
+	let { text = 'Official Website' } = $props();
 	const height = openGraph.height;
 	const color = config.primaryColor;
 	const barWidth = 140;

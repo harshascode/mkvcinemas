@@ -1,7 +1,9 @@
 <script>
-	let email = '';
-	let error = false;
-	let submitted = false;
+	import { preventDefault } from 'svelte/legacy';
+
+	let email = $state('');
+	let error = $state(false);
+	let submitted = $state(false);
 
 	async function handleSubmit() {
 		let body = {
@@ -23,7 +25,7 @@
 </script>
 
 <div class="w-full text-gray-500 dark:text-gray-400 mb-2">
-	<form on:submit|preventDefault={handleSubmit}>
+	<form onsubmit={preventDefault(handleSubmit)}>
 		<div class="flex flex-col md:flex-row items-center justify-center gap-4">
 			<div class="font-bold">Sign up for our newsletter</div>
 			<div>

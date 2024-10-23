@@ -3,7 +3,7 @@
 
 	import { toggleDarkMode, isDarkMode, setDarkMode } from '$utils/theme';
 
-	let darkMode = null;
+	let darkMode = $state(null);
 
 	onMount(async () => {
 		darkMode = isDarkMode();
@@ -19,7 +19,7 @@
 	aria-label="Toggle Dark Mode"
 	class="ml-1 mr-1 h-8 w-8 rounded p-1 sm:ml-4"
 	type="button"
-	on:click={toggle}
+	onclick={toggle}
 >
 	<svg
 		xmlns="http://www.w3.org/2000/svg"

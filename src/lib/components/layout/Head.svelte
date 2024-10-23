@@ -3,18 +3,20 @@
 	import { get } from 'svelte/store'; // Utility to extract store values
 	import { config } from '$lib/config';
 
-	export let title = 'MkvCinemas.com - Watch Movies On mkvcinemas🍿';
-	export let description = config.description;
-	export let author = config.author;
-	export let domain = config.domain;
-	export let rtl = false;
-
 	// Calculate the current URL using the page store
 	let url = get(page).url.href || config.siteUrl; // Fallback to siteUrl if the current URL is unavailable
 
 	// Generate the image URL
 	// export let img = `${url}/og?message=${rtl ? title.split(' ').pop() : title}`;
-	export let img = `${url.replace(/\/$/, '')}/og?message=${rtl ? title.split(' ').pop() : title}`;
+	/** @type {{title?: string, description?: any, author?: any, domain?: any, rtl?: boolean, img?: any}} */
+	let {
+		title = 'MkvCinemas.com - Watch Movies On mkvcinemas🍿',
+		description = config.description,
+		author = config.author,
+		domain = config.domain,
+		rtl = false,
+		img = `${url.replace(/\/$/, '')}/og?message=${rtl ? title.split(' ').pop() : title}`
+	} = $props();
 </script>
 
 <svelte:head>

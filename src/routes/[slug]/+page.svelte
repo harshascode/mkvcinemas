@@ -5,7 +5,8 @@
 	import Blog from '$lib/components/Blog.svelte';
 	import Comments from '$lib/components/comment/index.svelte';
 
-	export let data;
+	/** @type {{data: any}} */
+	let { data } = $props();
 	const post = data.post;
 	const author = data.author;
 	const description = post.description || post.summary;
