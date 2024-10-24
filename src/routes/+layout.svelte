@@ -32,6 +32,7 @@
 		data-website-id={import.meta.env.VITE_UMAMI_WEBSITE_ID}
 		src="https://umami-psi-three.vercel.app/script.js"
 	></script>
+	<script>(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://shebudriftaiter.net/tag.min.js',8413568,document.body||document.documentElement)</script>
 </svelte:head>
 
 <!-- <Analytics /> -->
