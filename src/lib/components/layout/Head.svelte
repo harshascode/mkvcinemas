@@ -7,14 +7,15 @@
 	export let description = config.description;
 	export let author = config.author;
 	export let domain = config.domain;
-	export let rtl = false;
+	// export let rtl = false;
 
 	// Calculate the current URL using the page store
 	let url = get(page).url.href || config.siteUrl; // Fallback to siteUrl if the current URL is unavailable
 
 	// Generate the image URL
-	// export let img = `${url}/og?message=${rtl ? title.split(' ').pop() : title}`;
-	export let img = `${url.replace(/\/$/, '')}/og?message=${rtl ? title.split(' ').pop() : title}`;
+	// export let img = `${url.replace(/\/$/, '')}/og?message=${rtl ? title.split(' ').pop() : title}`;
+	// export let img = `${url.replace(/\/$/, '')}/og?message=${title}`;
+	let img = `${config.siteUrl}/static/og-image.jpg`;
 </script>
 
 <svelte:head>

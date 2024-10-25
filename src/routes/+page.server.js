@@ -1,3 +1,4 @@
+export const prerender = true;
 import { getEntries } from '$utils/entries.js';
 import { error } from '@sveltejs/kit';
 
