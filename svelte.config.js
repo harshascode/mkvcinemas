@@ -9,7 +9,8 @@ const config = {
 	kit: {
 		adapter: adapter(),
 		prerender: {
-			entries: ['*'] // Prerender all routes except those explicitly excluded
+			entries: ['*'], // Prerender all routes except those explicitly excluded
+		    handleHttpError: 'warn', // Warn on HTTP errors but don't fail the build
 		}
 	},
 	preprocess: [mdsvex(mdsvexConfig), vitePreprocess()]
@@ -35,7 +36,7 @@ export default config;
 // 		},
 // 		prerender: {
 // 		  entries: ['*'], // Prerender all routes except those explicitly excluded
-// 		//   handleHttpError: 'warn', // Warn on HTTP errors but don't fail the build
+		//   handleHttpError: 'warn', // Warn on HTTP errors but don't fail the build
 // 		}
 // 	},
 // 	preprocess: [mdsvex(mdsvexConfig), vitePreprocess()]

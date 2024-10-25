@@ -1,4 +1,5 @@
 // used the following as a reference: https://geoffrich.net/posts/svelte-social-image/
+// export const prerender = false;
 import satori from 'satori';
 import { Resvg } from '@resvg/resvg-js';
 import Saira from '$lib/fonts/Saira-ExtraBold.ttf';
