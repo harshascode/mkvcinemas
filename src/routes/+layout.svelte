@@ -19,6 +19,7 @@
 		</main>
 		<Footer />
 	</div>
+	<script type='text/javascript' src='//pl24802743.profitablecpmrate.com/88/e2/96/88e296c43fb10e446742aea249efec60.js'></script>
 </div>
 
 <svelte:head>
