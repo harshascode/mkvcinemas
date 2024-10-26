@@ -15,7 +15,7 @@
 	// Generate the image URL
 	// export let img = `${url.replace(/\/$/, '')}/og?message=${rtl ? title.split(' ').pop() : title}`;
 	// export let img = `${url.replace(/\/$/, '')}/og?message=${title}`;
-	let img = `${config.siteUrl}/static/og-image.jpg`;
+	let img = `${config.siteUrl}/og-image.webp`;
 </script>
 
 <svelte:head>

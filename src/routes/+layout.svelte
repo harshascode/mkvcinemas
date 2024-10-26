@@ -23,7 +23,6 @@
 </div>
 
 <svelte:head>
-	<script type='text/javascript' src='//pl24807966.profitablecpmrate.com/2d/12/60/2d12602921125a92309d8a6bacf0b97c.js'></script>
 	<script
 		async
 		src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1041258011323535"

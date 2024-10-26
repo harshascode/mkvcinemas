@@ -33,6 +33,18 @@
 		so you never miss out. Whether you want to stream, download, or just explore, we’ve got
 		everything you need.
 	</p>
+	<div class="content-center ads1">
+		<script type="text/javascript">
+			atOptions = {
+				'key' : '855faef475412bf226c66eabcd503e1d',
+				'format' : 'iframe',
+				'height' : 50,
+				'width' : 320,
+				'params' : {}
+			};
+		</script>
+		<script type="text/javascript" src="//www.highperformanceformat.com/855faef475412bf226c66eabcd503e1d/invoke.js"></script>
+	</div>
 	<div class="mx-auto pb-10">
 		<h2 class="text-center text-3xl font-bold mb-8">Bollywood Movies</h2>
 		<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">

@@ -14,6 +14,19 @@
 	</script>
 </svelte:head>
 
+<div class="content-center mb-2 ads1">
+	<script type="text/javascript">
+		atOptions = {
+			'key' : '855faef475412bf226c66eabcd503e1d',
+			'format' : 'iframe',
+			'height' : 50,
+			'width' : 320,
+			'params' : {}
+		};
+	</script>
+	<script type="text/javascript" src="//www.highperformanceformat.com/855faef475412bf226c66eabcd503e1d/invoke.js"></script>
+</div>
+
 <Middlebox />
 <div class="pt-12">
 	<!-- <h1
@@ -28,13 +41,28 @@
 		Marathi, and Odia, all conveniently available through the Mkvcinemas web app.
 	</p>
 </div>
-<div>
+
+<!-- Native banner -->
+<!-- <div>
 	<script
 		async="async"
 		data-cfasync="false"
 		src="//pl24802988.profitablecpmrate.com/49fcbc368f316f4082f9c62024639054/invoke.js"
 	></script>
 	<div id="container-49fcbc368f316f4082f9c62024639054"></div>
+</div> -->
+
+<div class="content-center ads1 mt-2">
+	<script type="text/javascript">
+		atOptions = {
+			'key' : '855faef475412bf226c66eabcd503e1d',
+			'format' : 'iframe',
+			'height' : 50,
+			'width' : 320,
+			'params' : {}
+		};
+	</script>
+	<script type="text/javascript" src="//www.highperformanceformat.com/855faef475412bf226c66eabcd503e1d/invoke.js"></script>
 </div>
 <!-- <Blogs title="Latest Posts" h2 {posts} search={false} count={15} /> -->
 
@@ -52,6 +80,7 @@
 					width="1200"
 					height="628"
 					class="rounded-sm mb-4"
+					loading="lazy"
 				/>
 				<p class="movi-name">Kalki 2898 AD</p>
 				<p class="year-btn">2024</p>
@@ -68,6 +97,7 @@
 					width="1200"
 					height="628"
 					class="rounded-sm mb-4"
+					loading="lazy"
 				/>
 				<p class="movi-name">Maharaja</p>
 				<p class="year-btn">2024</p>
@@ -84,6 +114,7 @@
 					width="1200"
 					height="628"
 					class="rounded-sm mb-4"
+					loading="lazy"
 				/>
 				<p class="movi-name">Aho Vikramaarka</p>
 				<p class="year-btn">2024</p>
@@ -100,6 +131,7 @@
 					width="1200"
 					height="628"
 					class="rounded-sm mb-4"
+					loading="lazy"
 				/>
 				<p class="movi-name">Buddy (2024)</p>
 				<p class="year-btn">2024</p>
@@ -116,6 +148,7 @@
 					width="1200"
 					height="628"
 					class="rounded-sm mb-4"
+					loading="lazy"
 				/>
 				<p class="movi-name">Devara Part- 1</p>
 				<p class="year-btn">2024</p>
@@ -131,6 +164,7 @@
 					width="1200"
 					height="628"
 					class="rounded-sm mb-4"
+					loading="lazy"
 				/>
 				<p class="movi-name">Double iSmart</p>
 				<p class="year-btn">2024</p>
@@ -146,6 +180,7 @@
 					width="1200"
 					height="628"
 					class="rounded-sm mb-4"
+					loading="lazy"
 				/>
 				<p class="movi-name">Family Star</p>
 				<p class="year-btn">2024</p>
@@ -161,6 +196,7 @@
 					width="1200"
 					height="628"
 					class="rounded-sm mb-4"
+					loading="lazy"
 				/>
 				<p class="movi-name">Kalinga</p>
 				<p class="year-btn">2024</p>
@@ -176,6 +212,7 @@
 					width="1200"
 					height="628"
 					class="rounded-sm mb-4"
+					loading="lazy"
 				/>
 				<p class="movi-name">35–Chinna Katha Kaadu</p>
 				<p class="year-btn">2024</p>
@@ -191,6 +228,7 @@
 					width="1200"
 					height="628"
 					class="rounded-sm mb-4"
+					loading="lazy"
 				/>
 				<p class="movi-name">Manamey</p>
 				<p class="year-btn">2024</p>
@@ -206,6 +244,7 @@
 					width="1200"
 					height="628"
 					class="rounded-sm mb-4"
+					loading="lazy"
 				/>
 				<p class="movi-name">Mr. Bachchan</p>
 				<p class="year-btn">2024</p>
@@ -221,6 +260,7 @@
 					width="1200"
 					height="628"
 					class="rounded-sm mb-4"
+					loading="lazy"
 				/>
 				<p class="movi-name">Prasanna Vadanam</p>
 				<p class="year-btn">2024</p>
@@ -242,6 +282,20 @@
 		to expect from each film, helping you make informed viewing choices.
 	</p>
 </div>
+
+<div class="content-center mb-2 ads1">
+	<script type="text/javascript">
+		atOptions = {
+			'key' : '855faef475412bf226c66eabcd503e1d',
+			'format' : 'iframe',
+			'height' : 50,
+			'width' : 320,
+			'params' : {}
+		};
+	</script>
+	<script type="text/javascript" src="//www.highperformanceformat.com/855faef475412bf226c66eabcd503e1d/invoke.js"></script>
+</div>
+
 
 <!-- Tamil Movies Container -->
 <div class="mx-auto pb-10">
