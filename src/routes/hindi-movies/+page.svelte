@@ -152,7 +152,7 @@
 			>Telugu cinema</a
 		>, you’ll find a wide range of Telugu movies. If you prefer
 		<a href="/tamil-movies" class="text-green-600">Tamil</a>
-		or <a href="/bollywood-movies" class="text-green-600">Bollywood</a>, you’ll get a list of
+		or <a href="/hindi-movies" class="text-green-600">Bollywood</a>, you’ll get a list of
 		options from those industries too. Plus, we also provide detailed information about the latest
 		movies from <a href="/kannada-movies" class="text-green-600">Kannada movies</a> and Malayalam cinema.
 	</p>

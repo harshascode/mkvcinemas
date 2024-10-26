@@ -1,9 +1,9 @@
 <script>
-	import { page } from '$app/stores'; // SSR-compatible store
-	import { get } from 'svelte/store'; // Utility to extract store values
+	// import { page } from '$app/stores'; // SSR-compatible store
+	// import { get } from 'svelte/store'; // Utility to extract store values
+	// import Comments from '$lib/components/comment/index.svelte';
 	import Head from '$lib/components/layout/Head.svelte';
 	import Blog from '$lib/components/Blog.svelte';
-	import Comments from '$lib/components/comment/index.svelte';
 
 	export let data;
 	const post = data.post;
@@ -11,7 +11,7 @@
 	const description = post.description || post.summary;
 
 	// Extract the current URL from the $page store (SSR-compatible)
-	let currentUrl = get(page).url.href;
+	// let currentUrl = get(page).url.href;
 
 	// Define title based on post data or defaults
 	let title = post.title || 'Mkvcinemas';
@@ -19,6 +19,6 @@
 </script>
 
 <!-- Use the URL in the Head component -->
-<Head {title} {description} url={currentUrl} />
+<Head {title} {description} />
 
 <Blog {post} {author} />

@@ -7,15 +7,32 @@ import mdsvexConfig from './mdsvex.config.js';
 const config = {
 	extensions: ['.svelte', ...mdsvexConfig.extensions],
 	kit: {
-		adapter: adapter(),
-		prerender: {
-			entries: ['*'] // Prerender all routes except those explicitly excluded
-		}
+		adapter: adapter()
 	},
 	preprocess: [mdsvex(mdsvexConfig), vitePreprocess()]
 };
 
 export default config;
+
+// import adapter from '@sveltejs/adapter-auto';
+// import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
+// import { mdsvex } from 'mdsvex';
+// import mdsvexConfig from './mdsvex.config.js';
+
+// /** @type {import('@sveltejs/kit').Config} */
+// const config = {
+// 	extensions: ['.svelte', ...mdsvexConfig.extensions],
+// 	kit: {
+// 		adapter: adapter(),
+// 		prerender: {
+// 			entries: ['*'], // Prerender all routes except those explicitly excluded
+// 			handleHttpError: 'warn' // Warn on HTTP errors but don't fail the build
+// 		}
+// 	},
+// 	preprocess: [mdsvex(mdsvexConfig), vitePreprocess()]
+// };
+
+// export default config;
 
 // import adapter from '@sveltejs/adapter-auto';
 // import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';

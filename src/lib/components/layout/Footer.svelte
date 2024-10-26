@@ -1,7 +1,6 @@
 <script>
 	import { config } from '$lib/config';
 	import SocialIcon from '$lib/components/SocialIcon.svelte';
-	import Newsletter from '$lib/components/Newsletter.svelte';
 
 	let year = new Date().getFullYear();
 </script>
@@ -41,9 +40,6 @@
 			<a href="/sitemap.xml" class="hover:underline" target="_self">Sitemap</a>
 			<a href="/rss.xml" class="hover:underline" target="_self">RSS</a>
 		</div>
-		{#if config.newsletter.provider}
-			<Newsletter />
-		{/if}
 		<div class="mb-4 flex space-x-2 text-sm text-gray-500 dark:text-gray-400">
 			Copyright © <a href="/">&nbsp;Mkvcinemas&nbsp;</a>
 			{year} All rights Reserved
