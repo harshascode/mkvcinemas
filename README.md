@@ -308,3 +308,21 @@ Use below Article as a Resource for your content. dont copy thire style or anyth
 	<meta name="twitter:description" content={description} />
 	<meta name="twitter:image" content={img} />
 </svelte:head>
+
+
+
+
+
+
+[build]
+  command = "pnpm run build"
+  publish = "build"
+
+[functions]
+  directory = "functions"
+
+[[redirects]]
+  from = "/*.php"
+  to = "/404"
+  status = 404
+  force = true
