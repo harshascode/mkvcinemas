@@ -29,19 +29,6 @@
 	</p>
 </div>
 
-<div class="content-center mb-2 ads1">
-	<script type="text/javascript">
-		atOptions = {
-			'key' : '855faef475412bf226c66eabcd503e1d',
-			'format' : 'iframe',
-			'height' : 50,
-			'width' : 320,
-			'params' : {}
-		};
-	</script>
-	<script type="text/javascript" src="//www.highperformanceformat.com/855faef475412bf226c66eabcd503e1d/invoke.js"></script>
-</div>
-
 <!-- <Blogs title="Latest Posts" h2 {posts} search={false} count={15} /> -->
 
 <div class="mx-auto py-10">
@@ -260,20 +247,6 @@
 		to expect from each film, helping you make informed viewing choices.
 	</p>
 </div>
-
-<div class="content-center m-2 ads1">
-	<script type="text/javascript">
-		atOptions = {
-			'key' : '855faef475412bf226c66eabcd503e1d',
-			'format' : 'iframe',
-			'height' : 50,
-			'width' : 320,
-			'params' : {}
-		};
-	</script>
-	<script type="text/javascript" src="//www.highperformanceformat.com/855faef475412bf226c66eabcd503e1d/invoke.js"></script>
-</div>
-
 
 <!-- Tamil Movies Container -->
 <div class="mx-auto pb-10">

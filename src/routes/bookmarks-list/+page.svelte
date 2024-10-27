@@ -40,20 +40,6 @@
 	/>
 </svelte:head>
 
-<div class="content-center mb-2 ads1">
-	<script type="text/javascript">
-		atOptions = {
-			'key' : '855faef475412bf226c66eabcd503e1d',
-			'format' : 'iframe',
-			'height' : 50,
-			'width' : 320,
-			'params' : {}
-		};
-	</script>
-	<script type="text/javascript" src="//www.highperformanceformat.com/855faef475412bf226c66eabcd503e1d/invoke.js"></script>
-</div>
-
-
 <div class="w-full h-full pt-2 pb-2 lg:pt-4 lg:pb-8 flex flex-col items-center justify-center">
 	<div class="w-full py-4">
 		<!-- Free OTT -->
@@ -72,19 +58,7 @@
 			</div>
 		</div>
 
-		<!-- Paid OTT  -->
-		<div class="content-center mb-2 ads1">
-			<script type="text/javascript">
-				atOptions = {
-					'key' : '855faef475412bf226c66eabcd503e1d',
-					'format' : 'iframe',
-					'height' : 50,
-					'width' : 320,
-					'params' : {}
-				};
-			</script>
-			<script type="text/javascript" src="//www.highperformanceformat.com/855faef475412bf226c66eabcd503e1d/invoke.js"></script>
-		</div>		
+		<!-- Paid OTT  -->	
 
 		<div>
 			<h2 class="text-xl font-semibold mb-4">Paid OTT</h2>
