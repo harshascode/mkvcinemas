@@ -58,7 +58,24 @@
 			</div>
 		</div>
 
-		<!-- Paid OTT  -->	
+		<!-- Paid OTT  -->
+		<div>
+			<script
+				async
+				src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1041258011323535"
+				crossorigin="anonymous"
+			></script>
+			<ins
+				class="adsbygoogle"
+				style="display:block"
+				data-ad-format="autorelaxed"
+				data-ad-client="ca-pub-1041258011323535"
+				data-ad-slot="5166369298"
+			></ins>
+			<script>
+				(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+		</div>
 
 		<div>
 			<h2 class="text-xl font-semibold mb-4">Paid OTT</h2>

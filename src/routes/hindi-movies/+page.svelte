@@ -33,6 +33,24 @@
 		so you never miss out. Whether you want to stream, download, or just explore, we’ve got
 		everything you need.
 	</p>
+	<div>
+		<script
+			async
+			src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1041258011323535"
+			crossorigin="anonymous"
+		></script>
+		<ins
+			class="adsbygoogle"
+			style="display:block; text-align:center;"
+			data-ad-layout="in-article"
+			data-ad-format="fluid"
+			data-ad-client="ca-pub-1041258011323535"
+			data-ad-slot="1877990858"
+		></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
 	<div class="mx-auto pb-10">
 		<h2 class="text-center text-3xl font-bold mb-8">Bollywood Movies</h2>
 		<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
@@ -41,7 +59,14 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/12th-fail">
-					<img src="/i/12th-fail.webp" alt="12th Fail" width="1200" height="628" class="rounded-sm mb-4" loading="lazy" />
+					<img
+						src="/i/12th-fail.webp"
+						alt="12th Fail"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+						loading="lazy"
+					/>
 					<p class="movi-name">12th Fail</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -51,7 +76,14 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/stree-2">
-					<img src="/i/stree-2.webp" alt="Stree 2" width="1200" height="628" class="rounded-sm mb-4" loading="lazy" />
+					<img
+						src="/i/stree-2.webp"
+						alt="Stree 2"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+						loading="lazy"
+					/>
 					<p class="movi-name">Stree 2</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -64,7 +96,9 @@
 					<img
 						src="/i/khel-khel-mein.webp"
 						alt="Khel Khel Mein"
-						width="1200" height="628" class="rounded-sm mb-4"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
 						loading="lazy"
 					/>
 					<p class="movi-name">Khel Khel Mein</p>
@@ -76,7 +110,14 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/bad-newz">
-					<img src="/i/bad-newz.webp" alt="Bad Newz" width="1200" height="628" class="rounded-sm mb-4" loading="lazy" />
+					<img
+						src="/i/bad-newz.webp"
+						alt="Bad Newz"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+						loading="lazy"
+					/>
 					<p class="movi-name">Bad Newz</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -86,7 +127,14 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/sarfira">
-					<img src="/i/sarfira.webp" alt="Sarfira" width="1200" height="628" class="rounded-sm mb-4" loading="lazy" />
+					<img
+						src="/i/sarfira.webp"
+						alt="Sarfira"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+						loading="lazy"
+					/>
 					<p class="movi-name">Sarfira</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -95,7 +143,14 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/ulajh">
-					<img src="/i/ulajh.webp" alt="Ulajh" width="1200" height="628" class="rounded-sm mb-4" loading="lazy" />
+					<img
+						src="/i/ulajh.webp"
+						alt="Ulajh"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+						loading="lazy"
+					/>
 					<p class="movi-name">Ulajh</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -104,7 +159,14 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/maidaan">
-					<img src="/i/maidaan.webp" alt="Maidaan" width="1200" height="628" class="rounded-sm mb-4" loading="lazy" />
+					<img
+						src="/i/maidaan.webp"
+						alt="Maidaan"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+						loading="lazy"
+					/>
 					<p class="movi-name">Maidaan</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -113,7 +175,14 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/vedaa">
-					<img src="/i/vedaa.webp" alt="Vedaa" width="1200" height="628" class="rounded-sm mb-4" loading="lazy" />
+					<img
+						src="/i/vedaa.webp"
+						alt="Vedaa"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+						loading="lazy"
+					/>
 					<p class="movi-name">Vedaa</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -152,8 +221,8 @@
 			>Telugu cinema</a
 		>, you’ll find a wide range of Telugu movies. If you prefer
 		<a href="/tamil-movies" class="text-green-600">Tamil</a>
-		or <a href="/hindi-movies" class="text-green-600">Bollywood</a>, you’ll get a list of
-		options from those industries too. Plus, we also provide detailed information about the latest
-		movies from <a href="/kannada-movies" class="text-green-600">Kannada movies</a> and Malayalam cinema.
+		or <a href="/hindi-movies" class="text-green-600">Bollywood</a>, you’ll get a list of options
+		from those industries too. Plus, we also provide detailed information about the latest movies
+		from <a href="/kannada-movies" class="text-green-600">Kannada movies</a> and Malayalam cinema.
 	</p>
 </div>
