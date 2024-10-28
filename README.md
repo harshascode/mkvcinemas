@@ -1,4 +1,3 @@
-
 # 1: Copy the content from some website
 
 # 2: Rewrite the content with ChatGPT.
@@ -13,12 +12,7 @@
 
 # 7: That it now it ready to Add Image.
 
-
-
 VITE_UMAMI_WEBSITE_ID=cdd17ba7-37c3-4061-9ca8-99b5e2ead0b7
-
-
-
 
 By [Firstpost](https://www.firstpost.com/tech/news-analysis/hbos-mockumentary-silicon-valley-finds-fans-tech-3652309.html)
 
@@ -220,24 +214,7 @@ Use below Article as a Resource for your content. dont copy thire style or anyth
 ]
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// 
+//
 
 <script>
 	import Head from '$lib/components/layout/Head.svelte';
@@ -263,15 +240,7 @@ Use below Article as a Resource for your content. dont copy thire style or anyth
 
 <Blog {post} {author} />
 
-
-
-
-
-
-
 //
-
-
 
 <script>
 	import { config } from '$lib/config';
@@ -289,47 +258,41 @@ Use below Article as a Resource for your content. dont copy thire style or anyth
 </script>
 
 <svelte:head>
-	<title>{title} | {config.title}</title>
-	<meta name="description" content={description} />
-	<link rel="canonical" href={url} />
-	<meta
+<title>{title} | {config.title}</title>
+<meta name="description" content={description} />
+<link rel="canonical" href={url} />
+<meta
 		name="keywords"
 		content="{title}, mkvcinemas, mkvcinemas movies, mkvcinemas.com, mkvcinemas i, mkv cinemas, mkvcinemas movies, mkvcinemas in, mkvcinemas app, mkvcinemas mkv, mkvcinemas mkv 2024"
 	/>
-	<meta name="author" content={author} />
+<meta name="author" content={author} />
 
-	<!-- Facebook Meta Tags -->
-	<meta property="og:url" content={url} />
-	<meta property="og:type" content="website" />
-	<meta property="og:title" content={title} />
-	<meta property="og:description" content={description} />
-	<meta property="og:image" content={img} />
+    <!-- Facebook Meta Tags -->
+    <meta property="og:url" content={url} />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={img} />
 
-	<!-- Twitter Meta Tags -->
-	<meta name="twitter:card" content="summary_large_image" />
-	<meta property="twitter:domain" content={domain} />
-	<meta property="twitter:url" content={url} />
-	<meta name="twitter:title" content={title} />
-	<meta name="twitter:description" content={description} />
-	<meta name="twitter:image" content={img} />
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="twitter:domain" content={domain} />
+    <meta property="twitter:url" content={url} />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={img} />
+
 </svelte:head>
 
-
-
-
-
-
 [build]
-  command = "pnpm run build"
-  publish = "build"
+command = "pnpm run build"
+publish = "build"
 
 [functions]
-  directory = "functions"
+directory = "functions"
 
 [[redirects]]
-  from = "/*.php"
-  to = "/404"
-  status = 404
-  force = true
-
-  
+from = "/\*.php"
+to = "/404"
+status = 404
+force = true

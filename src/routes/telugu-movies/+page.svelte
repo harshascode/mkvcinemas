@@ -42,7 +42,13 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/kalki-2898-ad">
-					<img src="/i/kalki-2898-ad.webp" alt="Kalki 2898 AD" width="1200" height="628" class="rounded-sm mb-4" />
+					<img
+						src="/i/kalki-2898-ad.webp"
+						alt="Kalki 2898 AD"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+					/>
 					<p class="movi-name">Kalki 2898 AD</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -52,7 +58,13 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/maharaja">
-					<img src="/i/maharaja.webp" alt="Maharaja" width="1200" height="628" class="rounded-sm mb-4" />
+					<img
+						src="/i/maharaja.webp"
+						alt="Maharaja"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+					/>
 					<p class="movi-name">Maharaja</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -62,7 +74,13 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/aho-vikramaarka">
-					<img src="/i/aho-vikramaarka.webp" alt="Aho Vikramaarka" width="1200" height="628" class="rounded-sm mb-4" />
+					<img
+						src="/i/aho-vikramaarka.webp"
+						alt="Aho Vikramaarka"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+					/>
 					<p class="movi-name">Aho Vikramaarka</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -72,7 +90,13 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/buddy">
-					<img src="/i/buddy.webp" alt="Buddy (2024)" width="1200" height="628" class="rounded-sm mb-4" />
+					<img
+						src="/i/buddy.webp"
+						alt="Buddy (2024)"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+					/>
 					<p class="movi-name">Buddy (2024)</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -82,7 +106,13 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/devara-part1">
-					<img src="/i/devara-part1.webp" alt="Devara Part- 1" width="1200" height="628" class="rounded-sm mb-4" />
+					<img
+						src="/i/devara-part1.webp"
+						alt="Devara Part- 1"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+					/>
 					<p class="movi-name">Devara Part- 1</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -91,7 +121,13 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/double-ismart">
-					<img src="/i/double-ismart.webp" alt="Double iSmart" width="1200" height="628" class="rounded-sm mb-4" />
+					<img
+						src="/i/double-ismart.webp"
+						alt="Double iSmart"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+					/>
 					<p class="movi-name">Double iSmart</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -100,7 +136,13 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/family-star">
-					<img src="/i/family-star.webp" alt="Family Star" width="1200" height="628" class="rounded-sm mb-4" />
+					<img
+						src="/i/family-star.webp"
+						alt="Family Star"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+					/>
 					<p class="movi-name">Family Star</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -109,7 +151,13 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/kalinga">
-					<img src="/i/kalinga.webp" alt="Kalinga" width="1200" height="628" class="rounded-sm mb-4" />
+					<img
+						src="/i/kalinga.webp"
+						alt="Kalinga"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+					/>
 					<p class="movi-name">Kalinga</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -121,7 +169,9 @@
 					<img
 						src="/i/35-chinna-katha-kaadu.webp"
 						alt="35 – Chinna Katha Kaadu"
-						width="1200" height="628" class="rounded-sm mb-4"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
 					/>
 					<p class="movi-name">35–Chinna Katha Kaadu</p>
 					<p class="year-btn">2024</p>
@@ -131,7 +181,13 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/manamey">
-					<img src="/i/manamey.webp" alt="Manamey" width="1200" height="628" class="rounded-sm mb-4" />
+					<img
+						src="/i/manamey.webp"
+						alt="Manamey"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+					/>
 					<p class="movi-name">Manamey</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -140,7 +196,13 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/mr-bachchan">
-					<img src="/i/mr-bachchan.webp" alt="Mr. Bachchan" width="1200" height="628" class="rounded-sm mb-4" />
+					<img
+						src="/i/mr-bachchan.webp"
+						alt="Mr. Bachchan"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+					/>
 					<p class="movi-name">Mr. Bachchan</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -149,7 +211,13 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/prasanna-vadanam">
-					<img src="/i/prasanna-vadanam.webp" alt="Prasanna Vadanam" width="1200" height="628" class="rounded-sm mb-4" />
+					<img
+						src="/i/prasanna-vadanam.webp"
+						alt="Prasanna Vadanam"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+					/>
 					<p class="movi-name">Prasanna Vadanam</p>
 					<p class="year-btn">2024</p>
 				</a>

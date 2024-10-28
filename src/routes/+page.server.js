@@ -17,8 +17,6 @@ export const prerender = true;
 // 	}
 // }
 
-
-
 // export const prerender = true;
 // import { getEntries } from '$utils/entries.js';
 // import { error } from '@sveltejs/kit';
@@ -35,5 +33,3 @@ export const prerender = true;
 // 		posts: posts
 // 	};
 // }
-
-

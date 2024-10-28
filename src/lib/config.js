@@ -23,7 +23,7 @@ export const config = {
 	// supports buttondown, convertkit, emailoctopus, klaviyo, mailchimp, revue
 	// use false or null to disable newsletter
 	// check .env.example for settings needed values for each service
-	newsletter: 'mailchimp',
+	// newsletter: 'mailchimp',
 
 	multiuser: true
 };
@@ -33,7 +33,7 @@ export const user = {
 	// avatar value can be removed for image
 	avatar: '/logo.png',
 	// twitter value can be removed for no link to twitter
-	twitter: 'https://twitter.com/piedpiperplc'
+	twitter: 'https://twitter.com/mkvcinemas'
 };
 
 export const navLinks = [
@@ -58,47 +58,4 @@ export const openGraph = {
 export const analytics = {
 	googleAnalyticsId: '', // e.g. UA-000000-2 or G-XXXXXXX
 	plausibleDomain: '', // e.g. pied-piper-blog.netlify.app
-	simpleAnalytics: false // true or false
-};
-
-// supported providers: giscus, utterances
-export const comment = {
-	provider: 'giscus',
-	giscus: {
-		// Visit the link below, and follow the steps in the 'configuration' section
-		// https://giscus.app/
-		repo: 'harshascode/mkvcinemas.buzz',
-		reposId: 'R_kgDONCSwZw',
-		category: 'Sample Site Comments',
-		categoryId: 'DIC_kwDONCSwZ84Cjen2',
-		mapping: 'pathname', // supported options: pathname, url, title
-		reactionsEnabled: '1', // Emoji reactions: 1 = enable / 0 = disable
-		// Send discussion metadata periodically to the parent window: 1 = enable / 0 = disable
-		metadata: '0',
-		// theme example: light, dark, dark_dimmed, dark_high_contrast
-		// Place the comment box above the comments. options: bottom, top
-		inputPosition: 'bottom',
-		// Choose the language giscus will be displayed in. options: en, es, zh-CN, zh-TW, ko, ja etc
-		lang: 'en',
-		dataStrict: '0',
-		loading: 'lazy',
-		// theme example: light, dark, preferred_color_scheme, light_high_contrast, dark_high_contrast
-		// light_protanopia, dark_protanopiam, light_tritanopia, dark_tritanopia, dark_dimmed, transparent_dark
-		theme: 'preferred_color_scheme',
-		// theme when dark mode
-		darkTheme: 'dark',
-		themeURL: ''
-	},
-	utterances: {
-		// Visit the link below, and follow the steps in the 'configuration' section
-		// https://utteranc.es/
-		repo: 'https://github.com/harshascode/mkvcinemas.buzz',
-		issueTerm: 'pathname', // supported options: pathname, url, title
-		label: 'Comment 💬', // label (optional): Comment 💬
-		// theme example: github-light, github-dark, preferred-color-scheme
-		// github-dark-orange, icy-dark, dark-blue, photon-dark, boxy-light, gruvbox-dark"
-		theme: 'github-light',
-		// theme when dark mode
-		darkTheme: 'github-dark'
-	}
 };

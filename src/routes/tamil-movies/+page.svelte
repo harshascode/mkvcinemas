@@ -43,7 +43,14 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/thangalaan">
-					<img src="/i/thangalaan.webp" alt="Thangalaan" width="1200" height="628" class="rounded-sm mb-4" loading="lazy" />
+					<img
+						src="/i/thangalaan.webp"
+						alt="Thangalaan"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+						loading="lazy"
+					/>
 					<p class="movi-name">Thangalaan</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -53,7 +60,14 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/raayan">
-					<img src="/i/raayan.webp" alt="Raayan" width="1200" height="628" class="rounded-sm mb-4" loading="lazy" />
+					<img
+						src="/i/raayan.webp"
+						alt="Raayan"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+						loading="lazy"
+					/>
 					<p class="movi-name">Raayan</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -63,7 +77,14 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/garudan">
-					<img src="/i/garudan.webp" alt="Garudan" width="1200" height="628" class="rounded-sm mb-4" loading="lazy" />
+					<img
+						src="/i/garudan.webp"
+						alt="Garudan"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+						loading="lazy"
+					/>
 					<p class="movi-name">Garudan</p>
 					<p class="year-btn">2024</p>
 				</a>
@@ -73,7 +94,14 @@
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/lover">
-					<img src="/i/lover.webp" alt="Lover" width="1200" height="628" class="rounded-sm mb-4" loading="lazy" />
+					<img
+						src="/i/lover.webp"
+						alt="Lover"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+						loading="lazy"
+					/>
 					<p class="movi-name">Lover</p>
 					<p class="year-btn">2024</p>
 				</a>

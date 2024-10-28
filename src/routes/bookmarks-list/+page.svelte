@@ -46,7 +46,7 @@
 		<div class="mb-8">
 			<h2 class="text-xl font-semibold mb-4">Free OTT</h2>
 			<div class="grid grid-cols-3 sm:grid-cols-3 lg:grid-cols-6 gap-4">
-				{#each freeOttLinks as { href, src, alt, target = "_self" }}
+				{#each freeOttLinks as { href, src, alt, target = "_blank" }}
 					<a {href} {target} class="h-full">
 						<div
 							class="flex items-center justify-center p-1 rounded bg-blue-200 cursor-pointer h-fit"
@@ -65,12 +65,14 @@
 				src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1041258011323535"
 				crossorigin="anonymous"
 			></script>
+			<!-- horizontal ad -->
 			<ins
 				class="adsbygoogle"
 				style="display:block"
-				data-ad-format="autorelaxed"
 				data-ad-client="ca-pub-1041258011323535"
-				data-ad-slot="5166369298"
+				data-ad-slot="1710469898"
+				data-ad-format="auto"
+				data-full-width-responsive="true"
 			></ins>
 			<script>
 				(adsbygoogle = window.adsbygoogle || []).push({});
