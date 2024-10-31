@@ -13,13 +13,12 @@
 </svelte:head>
 
 <Middlebox />
-<div>
+<!-- <div>
 	<script
 		async
 		src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1041258011323535"
 		crossorigin="anonymous"
 	></script>
-	<!-- horizontal ad -->
 	<ins
 		class="adsbygoogle"
 		style="display:block"
@@ -31,7 +30,7 @@
 	<script>
 		(adsbygoogle = window.adsbygoogle || []).push({});
 	</script>
-</div>
+</div> -->
 
 <div class="pt-12">
 	<!-- <h1

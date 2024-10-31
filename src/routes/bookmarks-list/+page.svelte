@@ -59,13 +59,12 @@
 		</div>
 
 		<!-- Paid OTT  -->
-		<div>
+		<!-- <div>
 			<script
 				async
 				src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1041258011323535"
 				crossorigin="anonymous"
 			></script>
-			<!-- horizontal ad -->
 			<ins
 				class="adsbygoogle"
 				style="display:block"
@@ -77,7 +76,7 @@
 			<script>
 				(adsbygoogle = window.adsbygoogle || []).push({});
 			</script>
-		</div>
+		</div> -->
 
 		<div>
 			<h2 class="text-xl font-semibold mb-4">Paid OTT</h2>
