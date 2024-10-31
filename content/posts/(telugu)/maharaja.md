@@ -49,7 +49,7 @@ Vijay Sethupathi's performance, along with the contributions of the entire cast 
 
 ## Trailer
 
-<iframe width="100%" height="430" src="https://www.youtube.com/embed/2yRxitP6f0k?si=LvcIAo71346bcGrG" title={title} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="430" src="https://www.youtube.com/embed/2yRxitP6f0k?si=LvcIAo71346bcGrG" title={title} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
 
 ## FAQs
 

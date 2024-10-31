@@ -57,5 +57,5 @@ export const openGraph = {
 // supported systems: googleAnalytics, plausible, and simpleAnalytics
 export const analytics = {
 	googleAnalyticsId: '', // e.g. UA-000000-2 or G-XXXXXXX
-	plausibleDomain: '', // e.g. pied-piper-blog.netlify.app
+	plausibleDomain: '' // e.g. pied-piper-blog.netlify.app
 };

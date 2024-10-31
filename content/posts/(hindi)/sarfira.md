@@ -48,7 +48,7 @@ movie night!
 
 ## Trailer
 
-<iframe width="100%" height="380" src="https://www.youtube.com/embed/8Iy2geJD8HY?si=_aatD4E25wNpnopX" title={title} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube.com/embed/8Iy2geJD8HY?si=_aatD4E25wNpnopX" title={title} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
 
 ## FAQs
 

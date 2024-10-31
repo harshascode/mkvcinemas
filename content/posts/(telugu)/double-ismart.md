@@ -65,4 +65,4 @@ This film will have a pan-India release, allowing fans from various regions to e
 
 ## Trailer
 
-<iframe width="100%" height="430" src="https://www.youtube.com/embed/xPx1v4wMiPU?si=HjyjLHLgGi5FXmF3" title={title} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="430" src="https://www.youtube.com/embed/xPx1v4wMiPU?si=HjyjLHLgGi5FXmF3" title={title} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>

@@ -12,10 +12,14 @@
 		<meta name="google-site-verification" content="IzcWMgn5Qjf-LCtA337KTGjivsf9bmod_1pZ-jxYQh8" />
 		<meta name="robots" content="index, follow" />
 		%sveltekit.head%
-		<script>const theme=localStorage.getItem("theme");("dark"===theme||!theme&&window.matchMedia("(prefers-color-scheme: dark)").matches)&&document.documentElement.classList.add("dark");</script>
+		<script>
+			const theme = localStorage.getItem('theme');
+			('dark' === theme || (!theme && window.matchMedia('(prefers-color-scheme: dark)').matches)) &&
+				document.documentElement.classList.add('dark');
+		</script>
 	</head>
 	<body
-		class="bg-white text-black antialiased dark:bg-gray-950 dark:text-white"
+		class="bg-white text-black antialiased dark:bg-black dark:text-white"
 		data-sveltekit-prefetch
 	>
 		<div style="display: contents">%sveltekit.body%</div>

@@ -40,7 +40,7 @@ As the plot unfolds, Apoorva's journey through time reveals hidden layers of his
 
 ## Trailer
 
-<iframe width="100%" height="380" src="https://www.youtube.com/embed/QmmfQLWZ6xA?si=pXNSxoVuQ94yY217" title={title} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube.com/embed/QmmfQLWZ6xA?si=pXNSxoVuQ94yY217" title={title} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
 
 ## FAQs
 

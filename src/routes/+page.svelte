@@ -9,7 +9,90 @@
 
 <Head />
 <svelte:head>
-	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://mkvcinemas.buzz/#website","url":"https://mkvcinemas.buzz/","name":"mkvCinemas","description":"mkvCinemas PC and Smartphone Movies of Bollywood, Hollywood, Hindi Cartoon, Anime, TV Shows, Web Series at mkvCinemas","publisher":{"@id":"https://mkvcinemas.buzz/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://mkvcinemas.buzz/blog?query={search_term_string}","query-input":"required name=search_term_string"},"inLanguage":"en-US"},{"@type":"Organization","@id":"https://mkvcinemas.buzz/#organization","name":"mkvCinemas","url":"https://mkvcinemas.buzz/","logo":{"@type":"ImageObject","url":"https://www.mkvcinemas.buzz/logo.png","width":180,"height":180,"caption":"mkvCinemas"},"contactPoint":[{"@type":"ContactPoint","contactType":"Customer Support","email":"info@mkvcinemas.buzz","availableLanguage":"en"}]},{"@type":"BreadcrumbList","@id":"https://mkvcinemas.buzz/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://mkvcinemas.buzz/"},{"@type":"ListItem","position":2,"name":"Bollywood Movies","item":"https://mkvcinemas.buzz/hindi-movies"},{"@type":"ListItem","position":3,"name":"Telugu Movies","item":"https://mkvcinemas.buzz/telugu-movies"},{"@type":"ListItem","position":4,"name":"Kannada Movies","item":"https://mkvcinemas.buzz/kannada-movies"},{"@type":"ListItem","position":5,"name":"Tamil Movies","item":"https://mkvcinemas.buzz/tamil-movies"},{"@type":"ListItem","position":6,"name":"OTT Bookmarks","item":"https://mkvcinemas.buzz/bookmarks-list"}]}]}</script>
+	<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@graph": [
+				{
+					"@type": "WebSite",
+					"@id": "https://mkvcinemas.buzz/#website",
+					"url": "https://mkvcinemas.buzz/",
+					"name": "mkvCinemas",
+					"description": "mkvCinemas PC and Smartphone Movies of Bollywood, Hollywood, Hindi Cartoon, Anime, TV Shows, Web Series at mkvCinemas",
+					"publisher": { "@id": "https://mkvcinemas.buzz/#organization" },
+					"potentialAction": {
+						"@type": "SearchAction",
+						"target": "https://mkvcinemas.buzz/blog?query={search_term_string}",
+						"query-input": "required name=search_term_string"
+					},
+					"inLanguage": "en-US"
+				},
+				{
+					"@type": "Organization",
+					"@id": "https://mkvcinemas.buzz/#organization",
+					"name": "mkvCinemas",
+					"url": "https://mkvcinemas.buzz/",
+					"logo": {
+						"@type": "ImageObject",
+						"url": "https://www.mkvcinemas.buzz/logo.png",
+						"width": 180,
+						"height": 180,
+						"caption": "mkvCinemas"
+					},
+					"contactPoint": [
+						{
+							"@type": "ContactPoint",
+							"contactType": "Customer Support",
+							"email": "info@mkvcinemas.buzz",
+							"availableLanguage": "en"
+						}
+					]
+				},
+				{
+					"@type": "BreadcrumbList",
+					"@id": "https://mkvcinemas.buzz/#breadcrumb",
+					"itemListElement": [
+						{
+							"@type": "ListItem",
+							"position": 1,
+							"name": "Home",
+							"item": "https://mkvcinemas.buzz/"
+						},
+						{
+							"@type": "ListItem",
+							"position": 2,
+							"name": "Bollywood Movies",
+							"item": "https://mkvcinemas.buzz/hindi-movies"
+						},
+						{
+							"@type": "ListItem",
+							"position": 3,
+							"name": "Telugu Movies",
+							"item": "https://mkvcinemas.buzz/telugu-movies"
+						},
+						{
+							"@type": "ListItem",
+							"position": 4,
+							"name": "Kannada Movies",
+							"item": "https://mkvcinemas.buzz/kannada-movies"
+						},
+						{
+							"@type": "ListItem",
+							"position": 5,
+							"name": "Tamil Movies",
+							"item": "https://mkvcinemas.buzz/tamil-movies"
+						},
+						{
+							"@type": "ListItem",
+							"position": 6,
+							"name": "OTT Bookmarks",
+							"item": "https://mkvcinemas.buzz/bookmarks-list"
+						}
+					]
+				}
+			]
+		}
+	</script>
 </svelte:head>
 
 <Middlebox />
@@ -265,92 +348,6 @@
 	</p>
 </div>
 
-<!-- Tamil Movies Container -->
-<div class="mx-auto pb-10">
-	<h2 class="text-center text-3xl font-bold mb-8">Mkvcinemas Tamil Movies</h2>
-	<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-		<!-- Movie Card -->
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/thangalaan">
-				<img
-					src="/i/thangalaan.webp"
-					alt="Thangalaan"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Thangalaan</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/raayan">
-				<img
-					src="/i/raayan.webp"
-					alt="Raayan"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Raayan</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/garudan">
-				<img
-					src="/i/garudan.webp"
-					alt="Garudan"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Garudan</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/lover">
-				<img
-					src="/i/lover.webp"
-					alt="Lover"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Lover</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-	</div>
-	<p class="paragraph">
-		Tamil cinema is known for its unique blend of genres and strong narratives. Whether it's
-		thrillers, romantic dramas, historical epics, or comedy films, Tamil movies cater to a wide
-		range of audiences. Some of the biggest stars in Indian cinema, like Rajinikanth, Kamal Haasan,
-		and Vijay, come from the Tamil film industry.
-	</p>
-	<p class="paragraph">
-		Mkvcinemas makes it super easy to watch Tamil movies on online. You can stream movies on any
-		device whether it’s your smartphone, tablet, or computer. With a vast library of Tamil films,
-		you’ll always have something new and exciting to watch.
-	</p>
-</div>
-
 <!-- Bolywood Movies -->
 <div class="mx-auto pb-10">
 	<h2 class="text-center text-3xl font-bold mb-8">Bollywood Movies</h2>
@@ -488,6 +485,38 @@
 				<p class="year-btn">2024</p>
 			</a>
 		</div>
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/singham-again">
+				<img
+					src="/i/singham-again.webp"
+					alt="singham again"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Singham Again</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/amaran">
+				<img
+					src="/i/amaran.webp"
+					alt="amaran"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Amaran</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
 	</div>
 	<p class="paragraph">
 		Bollywood movies, based in Mumbai, is the largest film industry in India and one of the biggest
@@ -508,6 +537,92 @@
 		stories about relationships, family, and life’s ups and downs that really connect with viewers.
 		And let’s not forget the musicals, which are famous for their colorful dance numbers and catchy
 		songs that make the movies lively and fun. Discover these amazing genres and more on MKVCinemas.
+	</p>
+</div>
+
+<!-- Tamil Movies Container -->
+<div class="mx-auto pb-10">
+	<h2 class="text-center text-3xl font-bold mb-8">Mkvcinemas Tamil Movies</h2>
+	<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+		<!-- Movie Card -->
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/thangalaan">
+				<img
+					src="/i/thangalaan.webp"
+					alt="Thangalaan"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Thangalaan</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/raayan">
+				<img
+					src="/i/raayan.webp"
+					alt="Raayan"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Raayan</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/garudan">
+				<img
+					src="/i/garudan.webp"
+					alt="Garudan"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Garudan</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/lover">
+				<img
+					src="/i/lover.webp"
+					alt="Lover"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Lover</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+	</div>
+	<p class="paragraph">
+		Tamil cinema is known for its unique blend of genres and strong narratives. Whether it's
+		thrillers, romantic dramas, historical epics, or comedy films, Tamil movies cater to a wide
+		range of audiences. Some of the biggest stars in Indian cinema, like Rajinikanth, Kamal Haasan,
+		and Vijay, come from the Tamil film industry.
+	</p>
+	<p class="paragraph">
+		Mkvcinemas makes it super easy to watch Tamil movies on online. You can stream movies on any
+		device whether it’s your smartphone, tablet, or computer. With a vast library of Tamil films,
+		you’ll always have something new and exciting to watch.
 	</p>
 </div>
 

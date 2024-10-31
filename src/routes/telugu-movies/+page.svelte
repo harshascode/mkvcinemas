@@ -222,6 +222,21 @@
 					<p class="year-btn">2024</p>
 				</a>
 			</div>
+			<div
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			>
+				<a href="/lucky-lakshman">
+					<img
+						src="/i/lucky-lakshman.webp"
+						alt="Lucky Lakshman"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+					/>
+					<p class="movi-name">Lucky Lakshman</p>
+					<p class="year-btn">2024</p>
+				</a>
+			</div>
 		</div>
 
 		<p class="paragraph">

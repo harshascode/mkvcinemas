@@ -51,7 +51,7 @@ Shivarajkumar delivers a refreshing performance in a lighter role, showcasing hi
 
 ## Trailer
 
-<iframe width="100%" height="380" src="https://www.youtube.com/embed/11gLtAGg0Dc?si=RVumn-ktJcYMugPH" title={title} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube.com/embed/11gLtAGg0Dc?si=RVumn-ktJcYMugPH" title={title} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
 
 ## FAQs
 

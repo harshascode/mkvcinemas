@@ -39,4 +39,4 @@ With backing from notable producers like Rana Daggubati, "35 – Chinna Katha Ka
 
 ## Trailer
 
-<iframe width="100%" height="380" src="https://www.youtube.com/embed/046kopv5sCQ?si=fyoeLyVXz_NQDdEh" title={title} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube.com/embed/046kopv5sCQ?si=fyoeLyVXz_NQDdEh" title={title} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>

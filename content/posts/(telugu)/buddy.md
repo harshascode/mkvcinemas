@@ -36,7 +36,7 @@ Overall, "Buddy" has received positive reviews for its engaging storyline, impre
 
 ## Trailer
 
-<iframe width="100%" height="430" src="https://www.youtube.com/embed/-06zARMjr-o?si=USa3VYxDAvloq9_P" title={title} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="430" src="https://www.youtube.com/embed/-06zARMjr-o?si=USa3VYxDAvloq9_P" title={title} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
 
 ## FAQ,s
 

@@ -45,7 +45,7 @@ Overall, Shakhahaari stands out as a quality addition to Kannada cinema in 2024,
 
 ## Trailer
 
-<iframe width="100%" height="380" src="https://www.youtube.com/embed/HnzVItXIMro?si=cDluYsqx4kSJeBUz" title={title} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube.com/embed/HnzVItXIMro?si=cDluYsqx4kSJeBUz" title={title} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
 
 ## FAQs
 

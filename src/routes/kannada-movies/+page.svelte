@@ -139,6 +139,22 @@
 					<p class="year-btn">2024</p>
 				</a>
 			</div>
+			<div
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			>
+				<a href="/ellige-payana-yavudo-daari">
+					<img
+						src="/i/ellige-payana-yavudo-daari.webp"
+						alt="Ellige Payana Yavudo Daari"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+						loading="lazy"
+					/>
+					<p class="movi-name">Ellige Payana Yavudo Daari</p>
+					<p class="year-btn">2024</p>
+				</a>
+			</div>
 		</div>
 		<p class="paragraph">
 			Kannada movies are becoming increasingly popular, not just in Karnataka but across India and
