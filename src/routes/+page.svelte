@@ -3,7 +3,8 @@
 	import Blogs from '$lib/components/Blogs.svelte';
 	import Middlebox from '$lib/components/Middlebox.svelte';
 
-	export let data;
+	/** @type {{data: any}} */
+	let { data } = $props();
 	let posts = data.posts;
 </script>
 

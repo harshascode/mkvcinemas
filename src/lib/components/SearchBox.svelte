@@ -55,11 +55,13 @@
 </form> -->
 
 <script>
+	import { preventDefault } from 'svelte/legacy';
+
 	import { onMount } from 'svelte';
 	import { page } from '$app/stores';
 	import { goto } from '$app/navigation';
 
-	let search = '';
+	let search = $state('');
 
 	onMount(() => {
 		// Access search params only on the client side
@@ -79,7 +81,7 @@
 	}
 </script>
 
-<form on:submit|preventDefault={handleSubmit}>
+<form onsubmit={preventDefault(handleSubmit)}>
 	<div class="relative mb-2">
 		<input
 			bind:value={search}

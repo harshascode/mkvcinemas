@@ -1,9 +1,8 @@
 <script>
 	import { slug } from 'github-slugger';
 
-	export let text = '';
-	export let size = 'text-sm';
-	export let url = slug(text);
+	/** @type {{text?: string, size?: string, url?: any}} */
+	let { text = '', size = 'text-sm', url = slug(text) } = $props();
 </script>
 
 <a

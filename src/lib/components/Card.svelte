@@ -1,5 +1,6 @@
 <script>
-	export let card;
+	/** @type {{card: any}} */
+	let { card } = $props();
 </script>
 
 <div class="md p-4 md:w-1/2" style="max-width: '544px'">
