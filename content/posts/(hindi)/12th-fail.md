@@ -29,6 +29,10 @@ Vikrant Massey shines in Vidhu Vinod Chopra's latest film, 12th Fail, where he p
 | **Based On**           | Novel by Anurag Pathak                                |
 | **Target Audience**    | Students, Educators, General Audience                 |
 
+<a href="https://www.profitablecpmrate.com/zht8552qct?key=dd3a0d3c76c4f58956dd24d2605f1413">
+  <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
+</a>
+
 ## Review
 
 12th Fail tells the compelling story of Manoj Kumar Sharma, a 12th-grade dropout from Chambal, who dreams of passing the challenging UPSC exam. Vikrant Massey’s portrayal of Manoj is nothing short of remarkable, showcasing a wide range of emotions—from despair to determination.

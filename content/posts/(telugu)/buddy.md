@@ -26,6 +26,10 @@ Buddy, a Telugu action-comedy that blends excitement with laughter! Directed by 
 | **Production Company** | Studio Green Films                          |
 | **Music**              | Hiphop Tamizha                              |
 
+<a href="https://www.profitablecpmrate.com/zht8552qct?key=dd3a0d3c76c4f58956dd24d2605f1413">
+  <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
+</a>
+
 ## Review
 
 "Buddy" is a delightful mix of action and comedy, showcasing the story of a young man and his teddy bear partner. Allu Sirish shines in the lead role, bringing charm and versatility to both comedic and action-packed scenes. His co-star, Prisha Rajesh Singh, adds depth and sentiment to the narrative, while Ajmal Ameer and Ali contribute to the film’s drama and humor.

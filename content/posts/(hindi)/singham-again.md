@@ -23,6 +23,10 @@ Singam Again, the much-anticipated third installment in the Singham series, is s
 | **Director**  | Rohit Shetty                                                                            |
 | **Producers** | Rohit Shetty, Ajay Devgn, Jyoti Deshpande, Jio Studios, Reliance Entertainment, Cinergy |
 
+<a href="https://www.profitablecpmrate.com/zht8552qct?key=dd3a0d3c76c4f58956dd24d2605f1413">
+  <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
+</a>
+
 ## Plot
 
 In Singham Again, Bajirao Singham embarks on a daring cross-border mission to rescue his beloved wife, Avni Singham, who has been kidnapped by a powerful enemy. Facing an adversary unlike any other, Singham and his team put their lives on the line in an epic battle of good versus evil. The film promises a heart-pounding storyline with plenty of action and the indomitable spirit that has kept audiences engaged for over a decade.

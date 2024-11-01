@@ -39,6 +39,10 @@ Within Darkwood resides a tribe that has harmoniously adapted to its surrounding
 | **Production**     | MSK Films, NTR Arts, Yuvasudha Arts                                                                       |
 | **Certificate**    | U/A                                                                                                       |
 
+<a href="https://www.profitablecpmrate.com/zht8552qct?key=dd3a0d3c76c4f58956dd24d2605f1413">
+  <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
+</a>
+
 ## Review of Devara Part 1
 
 "Devara" is shaping up to be an exhilarating film packed with action, romance, and drama, all while carrying a strong social message. Under the skilled direction of Koratala Siva, the film showcases the incredible talent of Jr NTR, the menacing presence of Saif Ali Khan, and the elegance of Janhvi Kapoor. Coupled with the captivating music by Anirudh Ravichander, Devara Part 1 is easily one of the most anticipated movies of the year.

@@ -46,8 +46,8 @@
 		<div class="mb-8">
 			<h2 class="text-xl font-semibold mb-4">Free OTT</h2>
 			<div class="grid grid-cols-3 sm:grid-cols-3 lg:grid-cols-6 gap-4">
-				{#each freeOttLinks as { href, src, alt, target = "_blank" }}
-					<a {href} {target} class="h-full">
+				{#each freeOttLinks as { href, src, alt }}
+					<a {href} class="h-full">
 						<div
 							class="flex items-center justify-center p-1 rounded bg-blue-200 cursor-pointer h-fit"
 						>

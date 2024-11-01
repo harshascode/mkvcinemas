@@ -24,6 +24,10 @@ Stree 2: Sarkate Ka Aatank has hit the screens, and fans of the original are eag
 | **Language**     | Hindi                                                                                  |
 | **Setting**      | Chanderi, Madhya Pradesh                                                               |
 
+<a href="https://www.profitablecpmrate.com/zht8552qct?key=dd3a0d3c76c4f58956dd24d2605f1413">
+  <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
+</a>
+
 ## Review
 
 Stree 2: Sarkate Ka Aatank tries to pick up where its predecessor left off, with a unique blend of horror and comedy. The film is set in the town of Chanderi, where the once-feared ghost, Stree, is now a protector. However, the return of a new villain, Sarkata, disrupts the peace.
