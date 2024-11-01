@@ -7,18 +7,20 @@
 
 	export let data;
 	const post = data.post;
-	const author = data.author;
-	const description = post.description || post.summary;
+	// const author = data.author;
+	// const description = post.summary;
 
 	// Extract the current URL from the $page store (SSR-compatible)
 	// let currentUrl = get(page).url.href;
 
 	// Define title based on post data or defaults
 	let title = post.title || 'Mkvcinemas';
-	let img = post.image; // Adjust as needed for your image URL
+	let description = post.summary;
+	// let img = post.image; // Adjust as needed for your image URL
 </script>
 
 <!-- Use the URL in the Head component -->
 <Head {title} {description} />
 
-<Blog {post} {author} />
+<Blog {post} />
+<!-- <Blog {post} {author} /> -->

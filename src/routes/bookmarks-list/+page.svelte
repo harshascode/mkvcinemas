@@ -57,27 +57,7 @@
 				{/each}
 			</div>
 		</div>
-
 		<!-- Paid OTT  -->
-		<!-- <div>
-			<script
-				async
-				src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1041258011323535"
-				crossorigin="anonymous"
-			></script>
-			<ins
-				class="adsbygoogle"
-				style="display:block"
-				data-ad-client="ca-pub-1041258011323535"
-				data-ad-slot="1710469898"
-				data-ad-format="auto"
-				data-full-width-responsive="true"
-			></ins>
-			<script>
-				(adsbygoogle = window.adsbygoogle || []).push({});
-			</script>
-		</div> -->
-
 		<div>
 			<h2 class="text-xl font-semibold mb-4">Paid OTT</h2>
 			<div class="grid grid-cols-3 sm:grid-cols-3 lg:grid-cols-6 gap-4">
