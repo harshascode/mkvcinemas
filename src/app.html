@@ -10,13 +10,10 @@
 		<link rel="alternate" type="application/rss+xml" href="/feed.xml" />
 		<link rel="icon" href="%sveltekit.assets%/favicon.ico" />
 		<meta name="google-site-verification" content="IzcWMgn5Qjf-LCtA337KTGjivsf9bmod_1pZ-jxYQh8" />
+		<meta name="popads-verification-3526715" value="9b7b2e9fa40f1c7fb8f8219f36d98058" />
 		<meta name="robots" content="index, follow" />
 		%sveltekit.head%
-		<script>
-			const theme = localStorage.getItem('theme');
-			('dark' === theme || (!theme && window.matchMedia('(prefers-color-scheme: dark)').matches)) &&
-				document.documentElement.classList.add('dark');
-		</script>
+		<script>const theme=localStorage.getItem("theme");("dark"===theme||!theme&&window.matchMedia("(prefers-color-scheme: dark)").matches)&&document.documentElement.classList.add("dark");</script>
 	</head>
 	<body
 		class="bg-white text-black antialiased dark:bg-black dark:text-white"
