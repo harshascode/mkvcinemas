@@ -7,19 +7,10 @@ if (browser) {
 	throw new Error(`posts can only be imported server-side`);
 }
 
-// Memoized glob imports
+// Import posts eagerly
 const posts = Object.entries(import.meta.glob('/content/posts/**/*.md', { eager: true }));
 
-const getEntriesByType = (entryType) => {
-	switch (entryType) {
-		case 'posts':
-			return posts;
-		default:
-			throw new Error(`unknown entry type ${entryType}`);
-	}
-};
-
-const getMetadata = (entryType, filepath, entry) => {
+const getMetadata = (filepath, entry) => {
 	const { metadata } = entry;
 	const slugValue = filepath.replace(/(\/index)?\.md/, '').split('/').pop();
 
@@ -33,35 +24,172 @@ const getMetadata = (entryType, filepath, entry) => {
 };
 
 // Get all entries and add metadata
-export const getEntries = (entryType) => {
-	const entries = getEntriesByType(entryType);
-
-	return entries
-		.map(([filepath, entry]) => getMetadata(entryType, filepath, entry))
+export const getEntries = () => {
+	return posts
+		.map(([filepath, entry]) => getMetadata(filepath, entry))
 		.filter(entry => !entry.draft)
-		.sort((a, b) => b.date - a.date) // Directly comparing dates
-		.map((entry, index, allEntries) => ({
-			...entry,
-			next: allEntries[index - 1] || null,
-			prev: allEntries[index + 1] || null
-		}));
+		.sort((a, b) => b.date - a.date); // Sort by date, newest first
 };
 
 export const getTags = () => {
-	const posts = getEntries('posts');
-	return posts.flatMap(({ tags }) => tags)
-		.reduce((arr, tag) => {
+	const posts = getEntries();
+	const tagMap = new Map();
+
+	posts.forEach(({ tags }) => {
+		tags.forEach(tag => {
 			const slugValue = slug(tag);
-			const index = arr.findIndex(t => t.slug === slugValue);
-			if (index > -1) {
-				arr[index].count++;
+			if (tagMap.has(slugValue)) {
+				tagMap.get(slugValue).count++;
 			} else {
-				arr.push({ text: tag, slug: slugValue, count: 1 });
+				tagMap.set(slugValue, { text: tag, slug: slugValue, count: 1 });
 			}
-			return arr;
-		}, [])
+		});
+	});
+
+	return Array.from(tagMap.values())
 		.sort((a, b) => b.text.localeCompare(a.text));
 };
+
+
+
+
+// import { browser } from '$app/environment';
+// import { slug } from 'github-slugger';
+// import { config } from '$lib/config.js';
+
+// // Ensure this runs server-side only
+// if (browser) {
+// 	throw new Error(`posts can only be imported server-side`);
+// }
+
+// // Memoized glob imports
+// const posts = Object.entries(import.meta.glob('/content/posts/**/*.md', { eager: true }));
+
+// const getEntriesByType = (entryType) => {
+// 	switch (entryType) {
+// 		case 'posts':
+// 			return posts;
+// 		default:
+// 			throw new Error(`unknown entry type ${entryType}`);
+// 	}
+// };
+
+// const getMetadata = (entryType, filepath, entry) => {
+// 	const { metadata } = entry;
+// 	const slugValue = filepath.replace(/(\/index)?\.md/, '').split('/').pop();
+
+// 	return {
+// 		...metadata,
+// 		content: entry.default.render().html,
+// 		slug: slugValue,
+// 		tag: metadata.type?.split(' ').shift().toLowerCase() || null,
+// 		tags: metadata.tags || []
+// 	};
+// };
+
+// // Get all entries and add metadata
+// export const getEntries = (entryType) => {
+// 	const entries = getEntriesByType(entryType);
+
+// 	return entries
+// 		.map(([filepath, entry]) => getMetadata(entryType, filepath, entry))
+// 		.filter(entry => !entry.draft)
+// 		.sort((a, b) => b.date - a.date); // Sort by date, newest first
+// };
+
+// export const getTags = () => {
+// 	const posts = getEntries('posts');
+// 	return posts.flatMap(({ tags }) => tags)
+// 		.reduce((arr, tag) => {
+// 			const slugValue = slug(tag);
+// 			const index = arr.findIndex(t => t.slug === slugValue);
+// 			if (index > -1) {
+// 				arr[index].count++;
+// 			} else {
+// 				arr.push({ text: tag, slug: slugValue, count: 1 });
+// 			}
+// 			return arr;
+// 		}, [])
+// 		.sort((a, b) => b.text.localeCompare(a.text));
+// };
+
+
+
+
+// import { browser } from '$app/environment';
+// import { slug } from 'github-slugger';
+// import { config } from '$lib/config.js';
+
+// // Ensure this runs server-side only
+// if (browser) {
+// 	throw new Error(`posts can only be imported server-side`);
+// }
+
+// // Memoized glob imports
+// const posts = Object.entries(import.meta.glob('/content/posts/**/*.md', { eager: true }));
+
+// const getEntriesByType = (entryType) => {
+// 	switch (entryType) {
+// 		case 'posts':
+// 			return posts;
+// 		default:
+// 			throw new Error(`unknown entry type ${entryType}`);
+// 	}
+// };
+
+// const getMetadata = (entryType, filepath, entry) => {
+// 	const { metadata } = entry;
+// 	const slugValue = filepath.replace(/(\/index)?\.md/, '').split('/').pop();
+
+// 	return {
+// 		...metadata,
+// 		content: entry.default.render().html,
+// 		slug: slugValue,
+// 		tag: metadata.type?.split(' ').shift().toLowerCase() || null,
+// 		tags: metadata.tags || []
+// 	};
+// };
+
+// // Get all entries and add metadata
+// export const getEntries = (entryType) => {
+// 	const entries = getEntriesByType(entryType);
+
+// 	return entries
+// 		.map(([filepath, entry]) => getMetadata(entryType, filepath, entry))
+// 		.filter(entry => !entry.draft)
+// 		.sort((a, b) => b.date - a.date); // Sort by date, newest first
+// };
+
+// // Next - Prev removed
+// // export const getEntries = (entryType) => {
+// // 	const entries = getEntriesByType(entryType);
+
+// // 	return entries
+// // 		.map(([filepath, entry]) => getMetadata(entryType, filepath, entry))
+// // 		.filter(entry => !entry.draft)
+// // 		.sort((a, b) => b.date - a.date) // Directly comparing dates
+// // 		.map((entry, index, allEntries) => ({
+// // 			...entry,
+// // 			next: allEntries[index - 1] || null,
+// // 			prev: allEntries[index + 1] || null
+// // 		}));
+// // };
+
+// export const getTags = () => {
+// 	const posts = getEntries('posts');
+// 	return posts.flatMap(({ tags }) => tags)
+// 		.reduce((arr, tag) => {
+// 			const slugValue = slug(tag);
+// 			const index = arr.findIndex(t => t.slug === slugValue);
+// 			if (index > -1) {
+// 				arr[index].count++;
+// 			} else {
+// 				arr.push({ text: tag, slug: slugValue, count: 1 });
+// 			}
+// 			return arr;
+// 		}, [])
+// 		.sort((a, b) => b.text.localeCompare(a.text));
+// };
 
 
 

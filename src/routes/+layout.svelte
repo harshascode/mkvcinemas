@@ -14,6 +14,7 @@
 			<slot />
 		</main>
 		<Footer />
+		<script type='text/javascript' src='//pl24802779.profitablecpmrate.com/fa/59/dd/fa59ddcc9eb856b36b6e180e007e18eb.js'></script>
 	</div>
 </div>
 
@@ -22,11 +23,11 @@
 		type="text/javascript"
 		src="//pl24807966.profitablecpmrate.com/2d/12/60/2d12602921125a92309d8a6bacf0b97c.js"
 	></script> -->
-	<script
+	<!-- <script
 		async
 		src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1041258011323535"
 		crossorigin="anonymous"
-	></script>
+	></script> -->
 	<script
 		defer
 		data-website-id={import.meta.env.VITE_UMAMI_WEBSITE_ID}
