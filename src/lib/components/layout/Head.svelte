@@ -18,7 +18,7 @@
 </script>
 
 <svelte:head>
-	<title>{title} | {config.title}</title>
+	<title>{title}</title>
 	<meta name="description" content={description} />
 	<!-- Reactive canonical link -->
 	<link rel="canonical" href={$canonicalUrl} />

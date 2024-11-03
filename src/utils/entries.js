@@ -12,7 +12,10 @@ const posts = Object.entries(import.meta.glob('/content/posts/**/*.md', { eager:
 
 const getMetadata = (filepath, entry) => {
 	const { metadata } = entry;
-	const slugValue = filepath.replace(/(\/index)?\.md/, '').split('/').pop();
+	const slugValue = filepath
+		.replace(/(\/index)?\.md/, '')
+		.split('/')
+		.pop();
 
 	return {
 		...metadata,
@@ -27,7 +30,7 @@ const getMetadata = (filepath, entry) => {
 export const getEntries = () => {
 	return posts
 		.map(([filepath, entry]) => getMetadata(filepath, entry))
-		.filter(entry => !entry.draft)
+		.filter((entry) => !entry.draft)
 		.sort((a, b) => b.date - a.date); // Sort by date, newest first
 };
 
@@ -36,7 +39,7 @@ export const getTags = () => {
 	const tagMap = new Map();
 
 	posts.forEach(({ tags }) => {
-		tags.forEach(tag => {
+		tags.forEach((tag) => {
 			const slugValue = slug(tag);
 			if (tagMap.has(slugValue)) {
 				tagMap.get(slugValue).count++;
@@ -46,12 +49,8 @@ export const getTags = () => {
 		});
 	});
 
-	return Array.from(tagMap.values())
-		.sort((a, b) => b.text.localeCompare(a.text));
+	return Array.from(tagMap.values()).sort((a, b) => b.text.localeCompare(a.text));
 };
-
-
-
 
 // import { browser } from '$app/environment';
 // import { slug } from 'github-slugger';
@@ -112,9 +111,6 @@ export const getTags = () => {
 // 		}, [])
 // 		.sort((a, b) => b.text.localeCompare(a.text));
 // };
-
-
-
 
 // import { browser } from '$app/environment';
 // import { slug } from 'github-slugger';
@@ -190,9 +186,6 @@ export const getTags = () => {
 // 		}, [])
 // 		.sort((a, b) => b.text.localeCompare(a.text));
 // };
-
-
-
 
 // import { browser } from '$app/environment';
 // import { slug } from 'github-slugger';
@@ -290,7 +283,6 @@ export const getTags = () => {
 
 // 	return tags;
 // };
-
 
 // import { browser } from '$app/environment';
 // import { slug } from 'github-slugger';

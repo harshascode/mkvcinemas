@@ -14,7 +14,7 @@
 	// let currentUrl = get(page).url.href;
 
 	// Define title based on post data or defaults
-	let title = post.title || 'Mkvcinemas';
+	let title = post.title + " | MkvCinemas" || 'Mkvcinemas';
 	let description = post.summary;
 	// let img = post.image; // Adjust as needed for your image URL
 </script>

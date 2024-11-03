@@ -53,7 +53,7 @@
 	<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 		<!-- Movie Card -->
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
 		>
 			<a href="/kalki-2898-ad">
 				<img
@@ -70,7 +70,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
 		>
 			<a href="/maharaja">
 				<img
@@ -87,7 +87,23 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
+		>
+			<a href="/lucky-baskhar">
+				<img
+					src="/i/lucky-baskhar.webp"
+					alt="Lucky Baskhar"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+				/>
+				<p class="movi-name">Lucky Baskhar</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+
+		<div
+			class="movi-cards"
 		>
 			<a href="/aho-vikramaarka">
 				<img
@@ -104,7 +120,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
 		>
 			<a href="/buddy">
 				<img
@@ -121,7 +137,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
 		>
 			<a href="/devara-part1">
 				<img
@@ -137,7 +153,7 @@
 			</a>
 		</div>
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
 		>
 			<a href="/double-ismart">
 				<img
@@ -153,7 +169,7 @@
 			</a>
 		</div>
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
 		>
 			<a href="/family-star">
 				<img
@@ -169,7 +185,7 @@
 			</a>
 		</div>
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
 		>
 			<a href="/kalinga">
 				<img
@@ -185,7 +201,7 @@
 			</a>
 		</div>
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
 		>
 			<a href="/35-chinna-katha-kaadu">
 				<img
@@ -201,7 +217,7 @@
 			</a>
 		</div>
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
 		>
 			<a href="/manamey">
 				<img
@@ -217,7 +233,7 @@
 			</a>
 		</div>
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
 		>
 			<a href="/mr-bachchan">
 				<img
@@ -233,7 +249,7 @@
 			</a>
 		</div>
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
 		>
 			<a href="/prasanna-vadanam">
 				<img
@@ -271,7 +287,7 @@
 	<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 		<!-- Movie Card -->
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
 		>
 			<a href="/12th-fail">
 				<img
@@ -288,7 +304,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
 		>
 			<a href="/stree-2">
 				<img
@@ -305,7 +321,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
 		>
 			<a href="/khel-khel-mein">
 				<img
@@ -322,7 +338,24 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
+		>
+			<a href="/bhool-bhulaiyaa-3">
+				<img
+					src="/i/bhool-bhulaiyaa-3.webp"
+					alt="bhool-bhulaiyaa-3"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Bhool Bhulaiyaa 3</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+
+		<div
+			class="movi-cards"
 		>
 			<a href="/bad-newz">
 				<img
@@ -339,7 +372,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
 		>
 			<a href="/sarfira">
 				<img
@@ -355,7 +388,7 @@
 			</a>
 		</div>
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
 		>
 			<a href="/ulajh">
 				<img
@@ -371,7 +404,7 @@
 			</a>
 		</div>
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
 		>
 			<a href="/maidaan">
 				<img
@@ -387,7 +420,7 @@
 			</a>
 		</div>
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
 		>
 			<a href="/vedaa">
 				<img
@@ -403,7 +436,7 @@
 			</a>
 		</div>
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
 		>
 			<a href="/singham-again">
 				<img
@@ -419,7 +452,7 @@
 			</a>
 		</div>
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
 		>
 			<a href="/amaran">
 				<img
@@ -463,7 +496,24 @@
 	<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 		<!-- Movie Card -->
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
+		>
+			<a href="/vettaiyan">
+				<img
+					src="/i/vettaiyan.webp"
+					alt="Vettaiyan"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Vettaiyan</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+
+		<div
+			class="movi-cards"
 		>
 			<a href="/thangalaan">
 				<img
@@ -480,7 +530,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
 		>
 			<a href="/raayan">
 				<img
@@ -497,7 +547,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
 		>
 			<a href="/garudan">
 				<img
@@ -514,7 +564,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
 		>
 			<a href="/lover">
 				<img
@@ -549,7 +599,7 @@
 	<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 		<!-- Movie Card -->
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
 		>
 			<a href="/kantara">
 				<img
@@ -566,7 +616,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
 		>
 			<a href="/shakhahaari">
 				<img
@@ -583,7 +633,24 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
+		>
+			<a href="/bagheera">
+				<img
+					src="/i/bagheera.webp"
+					alt="bagheera"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Bagheera</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+
+		<div
+			class="movi-cards"
 		>
 			<a href="/martin">
 				<img
@@ -600,7 +667,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
 		>
 			<a href="/pepe">
 				<img
@@ -617,7 +684,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
 		>
 			<a href="/blink">
 				<img
@@ -634,7 +701,7 @@
 		</div>
 
 		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			class="movi-cards"
 		>
 			<a href="/karataka-damanaka">
 				<img

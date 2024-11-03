@@ -39,7 +39,7 @@
 		<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 			<!-- Movie Card -->
 			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+				class="movi-cards"
 			>
 				<a href="/kantara">
 					<img
@@ -56,7 +56,7 @@
 			</div>
 
 			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+				class="movi-cards"
 			>
 				<a href="/shakhahaari">
 					<img
@@ -73,7 +73,24 @@
 			</div>
 
 			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+				class="movi-cards"
+			>
+				<a href="/bagheera">
+					<img
+						src="/i/bagheera.webp"
+						alt="bagheera"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+						loading="lazy"
+					/>
+					<p class="movi-name">Bagheera</p>
+					<p class="year-btn">2024</p>
+				</a>
+			</div>
+
+			<div
+				class="movi-cards"
 			>
 				<a href="/martin">
 					<img
@@ -90,7 +107,7 @@
 			</div>
 
 			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+				class="movi-cards"
 			>
 				<a href="/pepe">
 					<img
@@ -107,7 +124,7 @@
 			</div>
 
 			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+				class="movi-cards"
 			>
 				<a href="/blink">
 					<img
@@ -124,7 +141,7 @@
 			</div>
 
 			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+				class="movi-cards"
 			>
 				<a href="/karataka-damanaka">
 					<img
@@ -140,7 +157,7 @@
 				</a>
 			</div>
 			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+				class="movi-cards"
 			>
 				<a href="/ellige-payana-yavudo-daari">
 					<img

@@ -1,5 +1,5 @@
 export const config = {
-	title: 'MkvCinemas.com',
+	title: 'MkvCinemas',
 	author: 'Harsh',
 	headerTitle: 'Mkvcinemas',
 	description:
