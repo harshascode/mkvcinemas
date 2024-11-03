@@ -14,10 +14,6 @@
 			<slot />
 		</main>
 		<Footer />
-		<script
-			type="text/javascript"
-			src="//pl24802779.profitablecpmrate.com/fa/59/dd/fa59ddcc9eb856b36b6e180e007e18eb.js"
-		></script>
 	</div>
 </div>
 
