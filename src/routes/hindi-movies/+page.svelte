@@ -39,7 +39,7 @@
 		<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 			<!-- Movie Card -->
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/12th-fail">
 					<img
@@ -56,7 +56,7 @@
 			</div>
 
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/stree-2">
 					<img
@@ -73,7 +73,7 @@
 			</div>
 
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/khel-khel-mein">
 					<img
@@ -90,7 +90,7 @@
 			</div>
 
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/bhool-bhulaiyaa-3">
 					<img
@@ -107,7 +107,7 @@
 			</div>
 
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/bad-newz">
 					<img
@@ -124,7 +124,7 @@
 			</div>
 
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/sarfira">
 					<img
@@ -140,7 +140,7 @@
 				</a>
 			</div>
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/ulajh">
 					<img
@@ -156,7 +156,7 @@
 				</a>
 			</div>
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/maidaan">
 					<img
@@ -172,7 +172,7 @@
 				</a>
 			</div>
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/vedaa">
 					<img
@@ -188,7 +188,7 @@
 				</a>
 			</div>
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/singham-again">
 					<img
@@ -204,7 +204,7 @@
 				</a>
 			</div>
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/amaran">
 					<img

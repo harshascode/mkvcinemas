@@ -39,7 +39,7 @@
 		<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 			<!-- Movie Card -->
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/kalki-2898-ad">
 					<img
@@ -55,7 +55,7 @@
 			</div>
 
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/maharaja">
 					<img
@@ -71,7 +71,7 @@
 			</div>
 
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/lucky-baskhar">
 					<img
@@ -87,7 +87,7 @@
 			</div>
 
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/aho-vikramaarka">
 					<img
@@ -103,7 +103,7 @@
 			</div>
 
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/buddy">
 					<img
@@ -119,7 +119,7 @@
 			</div>
 
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/devara-part1">
 					<img
@@ -134,7 +134,7 @@
 				</a>
 			</div>
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/double-ismart">
 					<img
@@ -149,7 +149,7 @@
 				</a>
 			</div>
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/family-star">
 					<img
@@ -164,7 +164,7 @@
 				</a>
 			</div>
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/kalinga">
 					<img
@@ -179,7 +179,7 @@
 				</a>
 			</div>
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/35-chinna-katha-kaadu">
 					<img
@@ -194,7 +194,7 @@
 				</a>
 			</div>
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/manamey">
 					<img
@@ -209,7 +209,7 @@
 				</a>
 			</div>
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/mr-bachchan">
 					<img
@@ -224,7 +224,7 @@
 				</a>
 			</div>
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/prasanna-vadanam">
 					<img
@@ -239,7 +239,7 @@
 				</a>
 			</div>
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/lucky-lakshman">
 					<img

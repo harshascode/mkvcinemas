@@ -40,7 +40,7 @@
 		<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 			<!-- Movie Card -->
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/vettaiyan">
 					<img
@@ -56,7 +56,7 @@
 				</a>
 			</div>
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/thangalaan">
 					<img
@@ -73,7 +73,7 @@
 			</div>
 
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/raayan">
 					<img
@@ -90,7 +90,7 @@
 			</div>
 
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/garudan">
 					<img
@@ -107,7 +107,7 @@
 			</div>
 
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/lover">
 					<img

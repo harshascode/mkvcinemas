@@ -39,7 +39,7 @@
 		<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 			<!-- Movie Card -->
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/kantara">
 					<img
@@ -56,7 +56,7 @@
 			</div>
 
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/shakhahaari">
 					<img
@@ -73,7 +73,7 @@
 			</div>
 
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/bagheera">
 					<img
@@ -90,7 +90,7 @@
 			</div>
 
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/martin">
 					<img
@@ -107,7 +107,7 @@
 			</div>
 
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/pepe">
 					<img
@@ -124,7 +124,7 @@
 			</div>
 
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/blink">
 					<img
@@ -141,7 +141,7 @@
 			</div>
 
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/karataka-damanaka">
 					<img
@@ -157,7 +157,7 @@
 				</a>
 			</div>
 			<div
-				class="movi-cards"
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/ellige-payana-yavudo-daari">
 					<img
