@@ -8,7 +8,7 @@ export async function GET() {
 		const feed = new RSS({
 			title: config.title + ' - RSS Feed',
 			site_url: config.siteUrl,
-			feed_url: config.siteUrl + '/feed.xml' // Ensure correct URL
+			feed_url: config.siteUrl + '/rss.xml'
 		});
 
 		const posts = getEntries('posts');
@@ -21,9 +21,10 @@ export async function GET() {
 			});
 		});
 
+		// Set cache to 12 hours (43,200 seconds)
 		return new Response(feed.xml({ indent: true }), {
 			headers: {
-				'Cache-Control': `max-age=0, s-maxage=${600}`, // 10 minutes
+				'Cache-Control': `max-age=0, s-maxage=${43200}`, // 12 hours
 				'Content-Type': 'application/rss+xml'
 			}
 		});

@@ -10,7 +10,7 @@ export async function GET() {
 
 	return new Response(body, {
 		headers: {
-			'Cache-Control': `max-age=0, s-maxage=${3600}`,
+			'Cache-Control': `max-age=0, s-maxage=${43200}`,
 			'Content-Type': 'application/xml'
 		}
 	});
