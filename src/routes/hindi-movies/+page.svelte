@@ -45,8 +45,8 @@
 					<img
 						src="/i/12th-fail.webp"
 						alt="12th Fail"
-						width="1200"
-						height="628"
+						width="1000"
+						height="428"
 						class="rounded-sm mb-4"
 						loading="lazy"
 					/>
@@ -62,8 +62,8 @@
 					<img
 						src="/i/stree-2.webp"
 						alt="Stree 2"
-						width="1200"
-						height="628"
+						width="1000"
+						height="428"
 						class="rounded-sm mb-4"
 						loading="lazy"
 					/>
@@ -79,8 +79,8 @@
 					<img
 						src="/i/khel-khel-mein.webp"
 						alt="Khel Khel Mein"
-						width="1200"
-						height="628"
+						width="1000"
+						height="428"
 						class="rounded-sm mb-4"
 						loading="lazy"
 					/>
@@ -96,8 +96,8 @@
 					<img
 						src="/i/bhool-bhulaiyaa-3.webp"
 						alt="bhool-bhulaiyaa-3"
-						width="1200"
-						height="628"
+						width="1000"
+						height="428"
 						class="rounded-sm mb-4"
 						loading="lazy"
 					/>
@@ -113,8 +113,8 @@
 					<img
 						src="/i/bad-newz.webp"
 						alt="Bad Newz"
-						width="1200"
-						height="628"
+						width="1000"
+						height="428"
 						class="rounded-sm mb-4"
 						loading="lazy"
 					/>
@@ -130,8 +130,8 @@
 					<img
 						src="/i/sarfira.webp"
 						alt="Sarfira"
-						width="1200"
-						height="628"
+						width="1000"
+						height="428"
 						class="rounded-sm mb-4"
 						loading="lazy"
 					/>
@@ -146,8 +146,8 @@
 					<img
 						src="/i/ulajh.webp"
 						alt="Ulajh"
-						width="1200"
-						height="628"
+						width="1000"
+						height="428"
 						class="rounded-sm mb-4"
 						loading="lazy"
 					/>
@@ -162,8 +162,8 @@
 					<img
 						src="/i/maidaan.webp"
 						alt="Maidaan"
-						width="1200"
-						height="628"
+						width="1000"
+						height="428"
 						class="rounded-sm mb-4"
 						loading="lazy"
 					/>
@@ -178,8 +178,8 @@
 					<img
 						src="/i/vedaa.webp"
 						alt="Vedaa"
-						width="1200"
-						height="628"
+						width="1000"
+						height="428"
 						class="rounded-sm mb-4"
 						loading="lazy"
 					/>
@@ -194,8 +194,8 @@
 					<img
 						src="/i/singham-again.webp"
 						alt="singham again"
-						width="1200"
-						height="628"
+						width="1000"
+						height="428"
 						class="rounded-sm mb-4"
 						loading="lazy"
 					/>
@@ -210,8 +210,8 @@
 					<img
 						src="/i/amaran.webp"
 						alt="amaran"
-						width="1200"
-						height="628"
+						width="1000"
+						height="428"
 						class="rounded-sm mb-4"
 						loading="lazy"
 					/>

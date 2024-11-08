@@ -42,8 +42,8 @@
 				<img
 					src="/i/kalki-2898-ad.webp"
 					alt="Kalki 2898 AD"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -59,8 +59,8 @@
 				<img
 					src="/i/maharaja.webp"
 					alt="Maharaja"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -76,8 +76,8 @@
 				<img
 					src="/i/aho-vikramaarka.webp"
 					alt="Aho Vikramaarka"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -93,8 +93,8 @@
 				<img
 					src="/i/buddy.webp"
 					alt="Buddy (2024)"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -110,8 +110,8 @@
 				<img
 					src="/i/devara-part1.webp"
 					alt="Devara Part- 1"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -126,8 +126,8 @@
 				<img
 					src="/i/double-ismart.webp"
 					alt="Double iSmart"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -142,8 +142,8 @@
 				<img
 					src="/i/family-star.webp"
 					alt="Family Star"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -158,8 +158,8 @@
 				<img
 					src="/i/kalinga.webp"
 					alt="Kalinga"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -174,8 +174,8 @@
 				<img
 					src="/i/35-chinna-katha-kaadu.webp"
 					alt="35 – Chinna Katha Kaadu"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -190,8 +190,8 @@
 				<img
 					src="/i/manamey.webp"
 					alt="Manamey"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -206,8 +206,8 @@
 				<img
 					src="/i/mr-bachchan.webp"
 					alt="Mr. Bachchan"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -222,8 +222,8 @@
 				<img
 					src="/i/prasanna-vadanam.webp"
 					alt="Prasanna Vadanam"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -260,8 +260,8 @@
 				<img
 					src="/i/12th-fail.webp"
 					alt="12th Fail"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -277,8 +277,8 @@
 				<img
 					src="/i/stree-2.webp"
 					alt="Stree 2"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -294,8 +294,8 @@
 				<img
 					src="/i/khel-khel-mein.webp"
 					alt="Khel Khel Mein"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -311,8 +311,8 @@
 				<img
 					src="/i/bhool-bhulaiyaa-3.webp"
 					alt="bhool-bhulaiyaa-3"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -324,29 +324,12 @@
 		<div
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
-			<a href="/bad-newz">
-				<img
-					src="/i/bad-newz.webp"
-					alt="Bad Newz"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Bad Newz</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
 			<a href="/sarfira">
 				<img
 					src="/i/sarfira.webp"
 					alt="Sarfira"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -361,8 +344,8 @@
 				<img
 					src="/i/ulajh.webp"
 					alt="Ulajh"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -377,8 +360,8 @@
 				<img
 					src="/i/maidaan.webp"
 					alt="Maidaan"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -393,28 +376,12 @@
 				<img
 					src="/i/singham-again.webp"
 					alt="singham again"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
 				<p class="movi-name">Singham Again</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/amaran">
-				<img
-					src="/i/amaran.webp"
-					alt="amaran"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Amaran</p>
 				<p class="year-btn">2024</p>
 			</a>
 		</div>
@@ -453,8 +420,8 @@
 				<img
 					src="/i/vettaiyan.webp"
 					alt="Vettaiyan"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -470,8 +437,8 @@
 				<img
 					src="/i/thangalaan.webp"
 					alt="Thangalaan"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -487,8 +454,8 @@
 				<img
 					src="/i/raayan.webp"
 					alt="Raayan"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -504,8 +471,8 @@
 				<img
 					src="/i/garudan.webp"
 					alt="Garudan"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -521,8 +488,8 @@
 				<img
 					src="/i/lover.webp"
 					alt="Lover"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -556,8 +523,8 @@
 				<img
 					src="/i/kantara.webp"
 					alt="Kantara"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -573,8 +540,8 @@
 				<img
 					src="/i/shakhahaari.webp"
 					alt="Shakhahaari"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -590,8 +557,8 @@
 				<img
 					src="/i/bagheera.webp"
 					alt="bagheera"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -607,8 +574,8 @@
 				<img
 					src="/i/martin.webp"
 					alt="Martin"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -624,8 +591,8 @@
 				<img
 					src="/i/pepe.webp"
 					alt="Pepe"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -641,8 +608,8 @@
 				<img
 					src="/i/blink.webp"
 					alt="Blink"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -651,22 +618,22 @@
 			</a>
 		</div>
 
-		<!-- <div
+		<div
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/karataka-damanaka">
 				<img
 					src="/i/karataka-damanaka.webp"
 					alt="Karataka Damanaka"
-					width="1200"
-					height="628"
+					width="1000"
+					height="428"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
 				<p class="movi-name">Karataka Damanaka</p>
 				<p class="year-btn">2024</p>
 			</a>
-		</div> -->
+		</div>
 	</div>
 	<p class="paragraph">
 		Kannada movies are becoming increasingly popular, not just in Karnataka but across India and
