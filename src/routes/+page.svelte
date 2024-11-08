@@ -1,10 +1,10 @@
 <script>
 	import Head from '$lib/components/layout/Head.svelte';
-	import Blogs from '$lib/components/Blogs.svelte';
 	import Middlebox from '$lib/components/Middlebox.svelte';
+	// import Blogs from '$lib/components/Blogs.svelte';
 
-	export let data;
-	let posts = data.posts;
+	// export let data;
+	// let posts = data.posts;
 </script>
 
 <Head />
@@ -21,7 +21,7 @@
 	>
 		Welcome to Mkvcinemas
 	</h1> -->
-	<p class="text-base prose-base">
+	<p class="text-base">
 		Looking for the latest HD-quality Mkv cinemas? MkvCinemas provides information on where to
 		stream or TV shows, and web series through free or popular paid platforms. You can access
 		content in multiple languages, including Tamil, Telugu, Hindi, English, Malayalam, Kannada,
@@ -42,10 +42,9 @@
 				<img
 					src="/i/kalki-2898-ad.webp"
 					alt="Kalki 2898 AD"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
-					loading="lazy"
 				/>
 				<p class="movi-name">Kalki 2898 AD</p>
 				<p class="year-btn">2024</p>
@@ -59,10 +58,9 @@
 				<img
 					src="/i/maharaja.webp"
 					alt="Maharaja"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
-					loading="lazy"
 				/>
 				<p class="movi-name">Maharaja</p>
 				<p class="year-btn">2024</p>
@@ -76,10 +74,9 @@
 				<img
 					src="/i/aho-vikramaarka.webp"
 					alt="Aho Vikramaarka"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
-					loading="lazy"
 				/>
 				<p class="movi-name">Aho Vikramaarka</p>
 				<p class="year-btn">2024</p>
@@ -93,10 +90,9 @@
 				<img
 					src="/i/buddy.webp"
 					alt="Buddy (2024)"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
-					loading="lazy"
 				/>
 				<p class="movi-name">Buddy (2024)</p>
 				<p class="year-btn">2024</p>
@@ -110,10 +106,9 @@
 				<img
 					src="/i/devara-part1.webp"
 					alt="Devara Part- 1"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
-					loading="lazy"
 				/>
 				<p class="movi-name">Devara Part- 1</p>
 				<p class="year-btn">2024</p>
@@ -126,10 +121,9 @@
 				<img
 					src="/i/double-ismart.webp"
 					alt="Double iSmart"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
-					loading="lazy"
 				/>
 				<p class="movi-name">Double iSmart</p>
 				<p class="year-btn">2024</p>
@@ -142,10 +136,9 @@
 				<img
 					src="/i/family-star.webp"
 					alt="Family Star"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
-					loading="lazy"
 				/>
 				<p class="movi-name">Family Star</p>
 				<p class="year-btn">2024</p>
@@ -158,10 +151,9 @@
 				<img
 					src="/i/kalinga.webp"
 					alt="Kalinga"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
-					loading="lazy"
 				/>
 				<p class="movi-name">Kalinga</p>
 				<p class="year-btn">2024</p>
@@ -174,8 +166,8 @@
 				<img
 					src="/i/35-chinna-katha-kaadu.webp"
 					alt="35 – Chinna Katha Kaadu"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -190,8 +182,8 @@
 				<img
 					src="/i/manamey.webp"
 					alt="Manamey"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -206,8 +198,8 @@
 				<img
 					src="/i/mr-bachchan.webp"
 					alt="Mr. Bachchan"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -222,8 +214,8 @@
 				<img
 					src="/i/prasanna-vadanam.webp"
 					alt="Prasanna Vadanam"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -260,8 +252,8 @@
 				<img
 					src="/i/12th-fail.webp"
 					alt="12th Fail"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -277,8 +269,8 @@
 				<img
 					src="/i/stree-2.webp"
 					alt="Stree 2"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -294,8 +286,8 @@
 				<img
 					src="/i/khel-khel-mein.webp"
 					alt="Khel Khel Mein"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -311,8 +303,8 @@
 				<img
 					src="/i/bhool-bhulaiyaa-3.webp"
 					alt="bhool-bhulaiyaa-3"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -328,8 +320,8 @@
 				<img
 					src="/i/sarfira.webp"
 					alt="Sarfira"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -344,8 +336,8 @@
 				<img
 					src="/i/ulajh.webp"
 					alt="Ulajh"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -360,8 +352,8 @@
 				<img
 					src="/i/maidaan.webp"
 					alt="Maidaan"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -376,8 +368,8 @@
 				<img
 					src="/i/singham-again.webp"
 					alt="singham again"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -420,8 +412,8 @@
 				<img
 					src="/i/vettaiyan.webp"
 					alt="Vettaiyan"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -437,8 +429,8 @@
 				<img
 					src="/i/thangalaan.webp"
 					alt="Thangalaan"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -454,8 +446,8 @@
 				<img
 					src="/i/raayan.webp"
 					alt="Raayan"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -471,8 +463,8 @@
 				<img
 					src="/i/garudan.webp"
 					alt="Garudan"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -488,8 +480,8 @@
 				<img
 					src="/i/lover.webp"
 					alt="Lover"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -523,8 +515,8 @@
 				<img
 					src="/i/kantara.webp"
 					alt="Kantara"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -540,8 +532,8 @@
 				<img
 					src="/i/shakhahaari.webp"
 					alt="Shakhahaari"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -557,8 +549,8 @@
 				<img
 					src="/i/bagheera.webp"
 					alt="bagheera"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -574,8 +566,8 @@
 				<img
 					src="/i/martin.webp"
 					alt="Martin"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -591,8 +583,8 @@
 				<img
 					src="/i/pepe.webp"
 					alt="Pepe"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -608,8 +600,8 @@
 				<img
 					src="/i/blink.webp"
 					alt="Blink"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
@@ -625,8 +617,8 @@
 				<img
 					src="/i/karataka-damanaka.webp"
 					alt="Karataka Damanaka"
-					width="1000"
-					height="428"
+					width="1200"
+					height="628"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
