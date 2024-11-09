@@ -7,7 +7,7 @@ image: /i/blink.webp
 tags:
   - Kannada
   - Hindi
-  - Telegu
+  - Telugu
   - Tamil
   - Malayalam
 author: Harsh

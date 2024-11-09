@@ -7,7 +7,7 @@ image: /i/vettaiyan.webp
 tags:
   - Tamil
   - Hindi
-  - Telegu
+  - Telugu
   - Kannada
   - Malayalam
 author: Harsh

@@ -7,7 +7,7 @@ image: /i/bagheera.webp
 tags:
   - Kannada
   - Hindi
-  - Telegu
+  - Telugu
 author: Harsh
 ---
 

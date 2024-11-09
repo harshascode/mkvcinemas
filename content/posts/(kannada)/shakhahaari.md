@@ -7,7 +7,7 @@ image: /i/shakhahaari.webp
 tags:
   - Kannada
   - Hindi
-  - Telegu
+  - Telugu
   - Tamil
   - Malayalam
 author: Harsh

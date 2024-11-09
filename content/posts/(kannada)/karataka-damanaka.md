@@ -7,7 +7,7 @@ image: /i/karataka-damanaka.webp
 tags:
   - Kannada
   - Hindi
-  - Telegu
+  - Telugu
   - Tamil
   - Malayalam
 author: Harsh

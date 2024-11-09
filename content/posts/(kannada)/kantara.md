@@ -7,7 +7,7 @@ image: /i/kantara.webp
 tags:
   - Kannada
   - Hindi
-  - Telegu
+  - Telugu
   - Tamil
   - Malayalam
 author: Harsh
