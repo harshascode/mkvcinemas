@@ -1,7 +1,6 @@
 <script>
-	export let title = 'Title';
-	export let subtitle = '';
-	export let h2 = false;
+	/** @type {{title?: string, subtitle?: string, h2?: boolean}} */
+	let { title = 'Title', subtitle = '', h2 = false } = $props();
 	let selected = h2 ? 'h2' : 'h1';
 </script>
 

@@ -1,7 +1,6 @@
 <script>
-	export let title = 'Mkvcinemas Terms and Conditions';
-	export let description = 'Mkvcinemas Terms and Conditions';
-	export let url = 'https://mkvcinemas.buzz/terms';
+	/** @type {{title?: string, description?: string, url?: string}} */
+	let { title = 'Mkvcinemas Terms and Conditions', description = 'Mkvcinemas Terms and Conditions', url = 'https://mkvcinemas.buzz/terms' } = $props();
 </script>
 
 <svelte:head>

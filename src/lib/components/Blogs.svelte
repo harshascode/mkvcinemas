@@ -6,21 +6,24 @@
 	import { page } from '$app/stores';
 	import fuzzySearch from '$utils/search.js';
 
-	export let title = '';
-	export let subtitle = '';
-	export let posts = [];
-	export let tags = [];
-	export let more = true;
-	export let search = true;
-	export let h2 = false;
-	export let count = 0;
+	/** @type {{title?: string, subtitle?: string, posts?: any, tags?: any, more?: boolean, search?: boolean, h2?: boolean, count?: number}} */
+	let {
+		title = '',
+		subtitle = '',
+		posts = $bindable([]),
+		tags = [],
+		more = true,
+		search = true,
+		h2 = false,
+		count = 0
+	} = $props();
 
 	if (count) {
 		posts = posts.slice(0, count);
 	}
 
-	$: filter = $page.url.searchParams.get('query');
-	$: currentPosts = filter ? fuzzySearch(posts, filter) : posts;
+	let filter = $derived($page.url.searchParams.get('query'));
+	let currentPosts = $derived(filter ? fuzzySearch(posts, filter) : posts);
 </script>
 
 <div class="divide-y divide-gray-200 dark:divide-gray-700">

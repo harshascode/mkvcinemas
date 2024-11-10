@@ -1,8 +1,6 @@
 <script>
-	export let title = 'Mkvcinemas Kannada Movies Watch online in HD | Mkvcinemas';
-	export let description =
-		'Watch your favorite Kannada movies on mkvcinemas in high-quality resolutions like 1080p, 720p, 480p, and 4K. Stream, Download latest Sandalwood hits';
-	export let url = 'https://mkvcinemas.buzz/kannada-movies';
+	/** @type {{title?: string, description?: string, url?: string}} */
+	let { title = 'Mkvcinemas Kannada Movies Watch online in HD | Mkvcinemas', description = 'Watch your favorite Kannada movies on mkvcinemas in high-quality resolutions like 1080p, 720p, 480p, and 4K. Stream, Download latest Sandalwood hits', url = 'https://mkvcinemas.buzz/kannada-movies' } = $props();
 </script>
 
 <svelte:head>

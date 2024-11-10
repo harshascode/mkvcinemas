@@ -3,10 +3,13 @@
 	import { derived } from 'svelte/store'; // Use derived to reactively get the URL
 	import { config } from '$lib/config';
 
-	export let title = 'MkvCinemas.com - Watch Movies On mkvcinemas🍿';
-	export let description = config.description;
-	export let author = config.author;
-	export let domain = config.domain;
+	/** @type {{title?: string, description?: any, author?: any, domain?: any}} */
+	let {
+		title = 'MkvCinemas.com - Watch Movies On mkvcinemas🍿',
+		description = config.description,
+		author = config.author,
+		domain = config.domain
+	} = $props();
 
 	// Reactively calculate the current page's URL
 	const canonicalUrl = derived(page, ($page) => {

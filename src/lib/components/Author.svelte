@@ -3,7 +3,8 @@
 	// import formatDate from '$utils/formatDate';
 
 	// export let author = '';
-	export let avatar = '';
+	/** @type {{avatar?: string}} */
+	let { avatar = '' } = $props();
 	// export let twitter = '';
 	// export let postDate = '';
 </script>
