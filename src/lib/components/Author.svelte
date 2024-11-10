@@ -1,6 +1,6 @@
 <script>
 	import SocialIcon from '$lib/components/SocialIcon.svelte';
-	import formatDate from '$utils/formatDate';
+	// import formatDate from '$utils/formatDate';
 
 	// export let author = '';
 	export let avatar = '';
