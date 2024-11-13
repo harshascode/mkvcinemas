@@ -17,12 +17,13 @@
 	</div>
 </div>
 
-<!-- <svelte:head>
-	<script
+<svelte:head>
+	<script>(function(d,z,s){s.src='https://'+d+'/401/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('reetahoo.com',8505412,document.createElement('script'))</script>
+	<!-- <script
 		defer
 		data-website-id={import.meta.env.VITE_UMAMI_WEBSITE_ID}
 		src="https://umami-psi-three.vercel.app/script.js"
-	></script>
-</svelte:head> -->
+	></script> -->
+</svelte:head>
 
 <!-- <Analytics /> -->
