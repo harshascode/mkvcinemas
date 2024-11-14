@@ -1,6 +1,8 @@
 import { config, navLinks } from '$lib/config';
 import { getEntries } from '$utils/entries.js';
 
+export const prerender = true;
+
 const trimSlash = (str) => str.replace(/^\/|\/$/g, '');
 
 export async function GET() {

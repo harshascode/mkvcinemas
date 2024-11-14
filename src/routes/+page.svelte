@@ -45,6 +45,7 @@
 					width="1200"
 					height="628"
 					class="rounded-sm mb-4"
+					loading="lazy"
 				/>
 				<p class="movi-name">Kalki 2898 AD</p>
 				<p class="year-btn">2024</p>
@@ -61,6 +62,7 @@
 					width="1200"
 					height="628"
 					class="rounded-sm mb-4"
+					loading="lazy"
 				/>
 				<p class="movi-name">Maharaja</p>
 				<p class="year-btn">2024</p>
@@ -77,6 +79,7 @@
 					width="1200"
 					height="628"
 					class="rounded-sm mb-4"
+					loading="lazy"
 				/>
 				<p class="movi-name">Aho Vikramaarka</p>
 				<p class="year-btn">2024</p>
@@ -93,6 +96,7 @@
 					width="1200"
 					height="628"
 					class="rounded-sm mb-4"
+					loading="lazy"
 				/>
 				<p class="movi-name">Buddy (2024)</p>
 				<p class="year-btn">2024</p>
@@ -109,6 +113,7 @@
 					width="1200"
 					height="628"
 					class="rounded-sm mb-4"
+					loading="lazy"
 				/>
 				<p class="movi-name">Devara Part- 1</p>
 				<p class="year-btn">2024</p>
@@ -124,6 +129,7 @@
 					width="1200"
 					height="628"
 					class="rounded-sm mb-4"
+					loading="lazy"
 				/>
 				<p class="movi-name">Double iSmart</p>
 				<p class="year-btn">2024</p>
@@ -139,6 +145,7 @@
 					width="1200"
 					height="628"
 					class="rounded-sm mb-4"
+					loading="lazy"
 				/>
 				<p class="movi-name">Family Star</p>
 				<p class="year-btn">2024</p>
@@ -154,6 +161,7 @@
 					width="1200"
 					height="628"
 					class="rounded-sm mb-4"
+					loading="lazy"
 				/>
 				<p class="movi-name">Kalinga</p>
 				<p class="year-btn">2024</p>

@@ -1,7 +1,6 @@
 export const prerender = true;
 import { error } from '@sveltejs/kit';
 import { getEntries } from '$utils/entries.js';
-
 /** @type {import('./$types').PageServerLoad} */
 export async function load({ params }) {
 	// Fetch posts only

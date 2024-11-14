@@ -2,6 +2,8 @@ import { browser } from '$app/environment';
 import { slug } from 'github-slugger';
 import { config } from '$lib/config.js';
 
+export const prerender = true;
+
 // Ensure this runs server-side only
 if (browser) {
 	throw new Error(`posts can only be imported server-side`);

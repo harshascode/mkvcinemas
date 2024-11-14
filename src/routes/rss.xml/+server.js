@@ -2,6 +2,8 @@ import RSS from 'rss';
 import { config } from '$lib/config.js';
 import { getEntries } from '$utils/entries.js';
 
+export const prerender = true;
+
 /** @type {import('@sveltejs/kit').RequestHandler} */
 export async function GET() {
 	try {
