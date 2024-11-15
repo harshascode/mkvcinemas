@@ -64,13 +64,15 @@
 				<div
 					class="divide-y divide-gray-200 dark:divide-gray-700 xl:col-span-3 xl:row-span-2 xl:pb-0"
 				>
-					<div class="prose text-base text-justify max-w-none pb-2 dark:prose-dark">
+					<div class="prose text-base lg:text-justify max-w-none pb-2 dark:prose-dark">
 						{#if post.image}
 							<div class="w-full">
 								<img
 									alt={post.title}
 									src={post.image}
-									class="object-cover object-center w-auto h-auto"
+									width="100%"
+									height="100%"
+									class="object-center"
 								/>
 							</div>
 						{/if}

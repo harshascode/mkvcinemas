@@ -10,6 +10,7 @@ package-lock.json
 pnpm-lock.yaml
 vite.config.js.*
 env-screts.md
+.gitpod.yml
 # Local Netlify folder
 .netlify
 functions
