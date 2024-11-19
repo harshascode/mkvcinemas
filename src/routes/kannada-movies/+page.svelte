@@ -58,6 +58,23 @@
 			<div
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
+				<a href="/bhairathi-ranagal">
+					<img
+						src="/i/bhairathi-ranagal.webp"
+						alt="Bhairathi Ranagal"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+						loading="lazy"
+					/>
+					<p class="movi-name">Bhairathi Ranagal</p>
+					<p class="year-btn">2024</p>
+				</a>
+			</div>
+
+			<div
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			>
 				<a href="/shakhahaari">
 					<img
 						src="/i/shakhahaari.webp"

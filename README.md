@@ -33,8 +33,7 @@ Hi, write a blog post: Write semantically relevant seo friendly. Write like even
 
 Use below Article as a Resource for your content.
 
-## Prompt for FAqs
-
+## Prompt for FAQs
 Hi, can you give me this below question and answer in Html, use Summery and Details tags so it can be colasable. you can use p tag for answer. no need to add css and js. no need to add biolerplate.
 
 # Prompt for content

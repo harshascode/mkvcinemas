@@ -17,14 +17,19 @@
 	</div>
 </div>
 
-<svelte:head>
-	<script>(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://shebudriftaiter.net/tag.min.js',8505402,document.body||document.documentElement)</script>
+<!-- <svelte:head> -->
+	<!-- <script>(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://shebudriftaiter.net/tag.min.js',8505402,document.body||document.documentElement)</script> -->
 	<!-- <script>(function(d,z,s){s.src='https://'+d+'/401/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('reetahoo.com',8505412,document.createElement('script'))</script> -->
-	<script
+	<!-- <script
 		defer
 		data-website-id={import.meta.env.VITE_UMAMI_WEBSITE_ID}
 		src="https://umami-psi-three.vercel.app/script.js"
-	></script>
-</svelte:head>
+	></script> -->
+<!-- </svelte:head> -->
 
 <!-- <Analytics /> -->
+
+<div>
+	<script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+	<noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif"alt=""referrerpolicy="no-referrer-when-downgrade" /></noscript>
+</div>
