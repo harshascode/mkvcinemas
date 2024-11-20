@@ -11,7 +11,8 @@
 <svelte:head>
 	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://mkvcinemas.buzz/#website","url":"https://mkvcinemas.buzz/","name":"mkvCinemas","description":"mkvCinemas PC and Smartphone Movies of Bollywood, Hollywood, Hindi Cartoon, Anime, TV Shows, Web Series at mkvCinemas","publisher":{"@id":"https://mkvcinemas.buzz/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://mkvcinemas.buzz/blog?query={search_term_string}","query-input":"required name=search_term_string"},"inLanguage":"en-US"},{"@type":"Organization","@id":"https://mkvcinemas.buzz/#organization","name":"mkvCinemas","url":"https://mkvcinemas.buzz/","logo":{"@type":"ImageObject","url":"https://www.mkvcinemas.buzz/logo.png","width":180,"height":180,"caption":"mkvCinemas"},"contactPoint":[{"@type":"ContactPoint","contactType":"Customer Support","email":"info@mkvcinemas.buzz","availableLanguage":"en"}]},{"@type":"BreadcrumbList","@id":"https://mkvcinemas.buzz/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://mkvcinemas.buzz/"},{"@type":"ListItem","position":2,"name":"Bollywood Movies","item":"https://mkvcinemas.buzz/hindi-movies"},{"@type":"ListItem","position":3,"name":"Telugu Movies","item":"https://mkvcinemas.buzz/telugu-movies"},{"@type":"ListItem","position":4,"name":"Kannada Movies","item":"https://mkvcinemas.buzz/kannada-movies"},{"@type":"ListItem","position":5,"name":"Tamil Movies","item":"https://mkvcinemas.buzz/tamil-movies"},{"@type":"ListItem","position":6,"name":"OTT Bookmarks","item":"https://mkvcinemas.buzz/bookmarks-list"}]}]}</script>
 	<!-- <script type="text/javascript" src="//pl24807966.profitablecpmrate.com/2d/12/60/2d12602921125a92309d8a6bacf0b97c.js"></script> -->
-	<script>(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://shebudriftaiter.net/tag.min.js',8505402,document.body||document.documentElement)</script>
+	<!-- <script>(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://shebudriftaiter.net/tag.min.js',8505402,document.body||document.documentElement)</script> -->
+	<script src="https://alwingulla.com/88/tag.min.js" data-zone="110167" async data-cfasync="false"></script>
 </svelte:head>
 
 <Middlebox />
@@ -242,10 +243,7 @@
 		reviews that help you decide what to watch next.
 	</p>
 	<p class="paragraph">
-		Mkvcinemas is your go-to platform for streaming and the best Telugu movies resource. Our
-		user-friendly site ensures that you can quickly find what you’re looking for whether it’s the
-		latest blockbuster or an old favorite. We also provide movie reviews to give you an idea of what
-		to expect from each film, helping you make informed viewing choices.
+		Mkvcinemas makes streaming Telugu movies effortless and fun. From the latest blockbusters to timeless classics, our platform ensures you’ll find your favorite films in no time. Plus, our movie reviews help you pick the perfect film for your next watch.
 	</p>
 </div>
 
