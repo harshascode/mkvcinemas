@@ -2,7 +2,7 @@
 	export let title = 'Mkvcinemas Kannada Movies Watch online in HD | Mkvcinemas';
 	export let description =
 		'Watch your favorite Kannada movies on mkvcinemas in high-quality resolutions like 1080p, 720p, 480p, and 4K. Stream, Download latest Sandalwood hits';
-	export let url = 'https://mkvcinemas.buzz/kannada-movies';
+	export let url = 'https://mkvcinemas.buzz/disclaimer';
 </script>
 
 <svelte:head>
