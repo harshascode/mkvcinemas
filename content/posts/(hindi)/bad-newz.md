@@ -24,6 +24,10 @@ Bad Newz offers a mix of comedy and drama that keeps you entertained, especially
 | **Release Date**    | July 19, 2024                         |
 | **Rating**          | ⭐⭐⭐ (2.5/5)                        |
 
+<a href="https://www.profitablecpmrate.com/zht8552qct?key=dd3a0d3c76c4f58956dd24d2605f1413">
+  <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
+</a>
+
 ## Review
 
 Bad Newz is a romantic comedy that starts off with plenty of humor and charm but loses its way in the second half. The film introduces us to Akhil Chadha, played by Vicky Kaushal, who is a hilarious, over-the-top character dealing with a complicated love life. His romantic interest, Saloni, played by Triptii Dimri, is a talented chef with dreams of culinary fame.

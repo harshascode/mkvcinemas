@@ -30,6 +30,10 @@ Raayan, the much-anticipated Tamil action thriller directed by Dhanush, is set t
 | Editor             | Prasanna GK                                                                                                                      |
 | Production Company | Sun Pictures, Sun TV Network                                                                                                     |
 
+<a href="https://www.profitablecpmrate.com/zht8552qct?key=dd3a0d3c76c4f58956dd24d2605f1413">
+  <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
+</a>
+
 ## Plot
 
 Raayan revolves around a gripping action-packed narrative, featuring intense fights and unexpected plot twists. Dhanush plays the lead role, bringing his unique style and emotional depth to the character. The film promises to keep the audience on the edge of their seats with its thrilling storyline and captivating visuals.

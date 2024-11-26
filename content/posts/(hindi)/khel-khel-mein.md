@@ -28,6 +28,10 @@ Khel Khel Mein is an romantic-comedy film directed by Mudassar Aziz, Known for b
 | **Editor**               | Ninad Khanolkar                                                                                 |
 | **Music Composers**      | Tanishk Bagchi, Rochak Kohli, Guru Randhawa, B Praak, Jassi Sidhu                               |
 
+<a href="https://www.profitablecpmrate.com/zht8552qct?key=dd3a0d3c76c4f58956dd24d2605f1413">
+  <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
+</a>
+
 ## Review
 
 Khel Khel Mein follows a group of seven friends who reunite for a wedding and decide to play a revealing game that uncovers secrets and tests their relationships. The ensemble cast includes Akshay Kumar as Rishabh, the responsible elder of the group; Taapsee Pannu as Happy, the outspoken member; and Ammy Virk as Harpreet, the light-hearted entertainer.

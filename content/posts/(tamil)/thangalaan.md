@@ -27,6 +27,10 @@ Thangalaan is a Tamil historical action-adventure film that hit theaters on Augu
 | **Genres**               | Action, Adventure, Historical                                     |
 | **Production Companies** | Studio Green, Neelam Productions                                  |
 
+<a href="https://www.profitablecpmrate.com/zht8552qct?key=dd3a0d3c76c4f58956dd24d2605f1413">
+  <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
+</a>
+
 ## Review
 
 Thangalaan takes us back to the British Raj era, showcasing the story of Thangalaan, a brave tribal leader played by Vikram. The film emphasizes themes of identity and resistance against colonial rule. Vikram's performance is intense and nuanced, making viewers feel the weight of his character's struggles. The female leads, portrayed by Parvathy Thiruvothu and Malavika Mohanan, add depth to the narrative with their strong and relatable characters.

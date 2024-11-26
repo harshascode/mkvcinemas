@@ -30,6 +30,10 @@ author: Harsh
 | Cinematographer      | Malay Prakash                                                                 |
 | Production Companies | Zee Studios, Emmay Entertainment, JA Entertainment                            |
 
+<a href="https://www.profitablecpmrate.com/zht8552qct?key=dd3a0d3c76c4f58956dd24d2605f1413">
+  <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
+</a>
+
 ## Review
 
 "Vedaa" tells a powerful story about a lower caste woman named Vedaa, played by Sharvari, living in a small village in Barmer, Rajasthan. The film explores her struggles against the caste system and social injustice, which adds depth to the action scenes. John Abraham plays a key role that enhances the film's action-oriented narrative.

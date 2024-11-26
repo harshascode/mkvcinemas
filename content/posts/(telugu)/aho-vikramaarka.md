@@ -29,6 +29,10 @@ Aho Vikramaarka is a South Indian crime thriller that hits theaters with a punch
 | **Editor**             | Tammiraju                                                                                                         |
 | **Production Company** | Dev Gill Productions                                                                                              |
 
+<a href="https://www.profitablecpmrate.com/zht8552qct?key=dd3a0d3c76c4f58956dd24d2605f1413">
+  <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
+</a>
+
 ## Review
 
 "Aho Vikramaarka" tells the gripping story of Vikram, played by Dev Gill, a merciless police officer driven by a desire for justice. The film begins with a seemingly simple search for a missing person, but quickly escalates into a thrilling ride filled with action and drama.

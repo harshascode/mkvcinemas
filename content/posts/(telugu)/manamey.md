@@ -27,6 +27,10 @@ Manamey is a Telugu romantic family drama directed by Sriram Adittya, featuring 
 | **Cinematographer**    | Vishnu Sarma                                                                                               |
 | **Production Company** | People Media Factory                                                                                       |
 
+<a href="https://www.profitablecpmrate.com/zht8552qct?key=dd3a0d3c76c4f58956dd24d2605f1413">
+  <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
+</a>
+
 ## Review
 
 "Manamey" explores the life of Vikram (played by Sharwanand), a carefree man living in London who enjoys a life filled with casual relationships and no serious commitments. This carefree attitude reflects his initial self-centered nature, but as the story unfolds, he is faced with responsibilities that challenge his way of life.

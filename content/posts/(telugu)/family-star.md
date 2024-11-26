@@ -32,6 +32,10 @@ Family Star is a Telugu drama film released on April 5, 2024. Directed by Parasu
 | **Rating**             | 3.0 out of 5 stars                                                                                                                                                                                                          |
 | **Trailer**            | Offers a glimpse of emotional and dramatic moments, setting the stage for Govardhan's journey and the unfolding mystery surrounding Indu.                                                                                   |
 
+<a href="https://www.profitablecpmrate.com/zht8552qct?key=dd3a0d3c76c4f58956dd24d2605f1413">
+  <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
+</a>
+
 ## Review
 
 Family Star presents a story with potential but suffers from a lack of engaging screenplay and cohesive direction by Parasuram Petla. While Gopi Sundar's music shines in some songs, it doesn't significantly enhance the emotional depth of crucial scenes. The cinematography is satisfactory, and the production values are decent; however, the editing could be more effective to improve narrative flow.

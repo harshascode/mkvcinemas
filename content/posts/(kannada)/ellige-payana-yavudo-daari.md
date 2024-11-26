@@ -27,6 +27,10 @@ Ellige Payana Yavudo Daari is a Kannada thriller film set against the beautiful 
 | **Choreography** | Jeevan Hallikar                    |
 | **Singer**       | Kiccha Sudeep                      |
 
+<a href="https://www.profitablecpmrate.com/zht8552qct?key=dd3a0d3c76c4f58956dd24d2605f1413">
+  <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
+</a>
+
 ## Plot
 
 The story takes place in a remote town encircled by misty, towering mountains. Here, innocent lives and budding romances are disrupted by a series of darker, psychological events. The film explores themes of lust, vengeance, and the impact of bitter experiences on human psychology, set against lush green landscapes that starkly contrast the twisted undercurrents. Ellige Payana Yavudo Daari showcases how complex emotions and unresolved issues shape the lives of ordinary people.

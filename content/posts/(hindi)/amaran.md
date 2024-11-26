@@ -29,6 +29,10 @@ Amaran is a stirring new film based on the heroic true story of Major Mukund Var
 | **Producers**    | Kamal Haasan, Sony Pictures International Productions, R. Mahendran |
 | **Music**        | G.V. Prakash Kumar                                                  |
 
+<a href="https://www.profitablecpmrate.com/zht8552qct?key=dd3a0d3c76c4f58956dd24d2605f1413">
+  <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
+</a>
+
 ## Plot
 
 The film follows the life of Major Mukund Varadarajan (played by Sivakarthikeyan), a courageous officer in the Indian Army’s Rajput Regiment. During a counter-terrorism mission in Jammu and Kashmir, Major Varadarajan heroically sacrifices his life, displaying extraordinary bravery. The movie not only focuses on his sacrifice but also showcases the strength and love of his wife, Indhu Rebecca Varghese, portrayed by Sai Pallavi, who supports him through every challenge.

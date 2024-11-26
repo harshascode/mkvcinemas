@@ -33,6 +33,10 @@ Director Sandeep Sunkad makes a notable entry into the film industry with Shakha
 | **Audience**        | Suitable for older teens and adults; primarily appeals to fans of crime thrillers and Kannada cinema.                                  |
 | **Viewing Options** | Check local streaming services for availability; primarily released in Kannada.                                                        |
 
+<a href="https://www.profitablecpmrate.com/zht8552qct?key=dd3a0d3c76c4f58956dd24d2605f1413">
+  <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
+</a>
+
 ## Review
 
 Shakhahaari revolves around Subbanna (played by Rangayana Raghu), a small hotel owner, and Mallikarjun (Gopalkrishna Deshpande), a police officer on the verge of a life-changing transfer. The plot thickens when a murder accused escapes, intertwining their lives in unexpected ways.

@@ -29,6 +29,10 @@ Lucky Lakshman, a Telugu drama film, was released in theaters on December 30, 20
 | **Editing**            | Prawin Pudi                                                        |
 | **Music**              | Anup Rubens                                                        |
 
+<a href="https://www.profitablecpmrate.com/zht8552qct?key=dd3a0d3c76c4f58956dd24d2605f1413">
+  <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
+</a>
+
 ## Review
 
 Lucky Lakshman dives into the life of Sohel, a middle-class guy who struggles with strained relationships—with his parents, his girlfriend, and even his friends. His life takes a sudden turn when an unexpected incident shifts his perspective, pushing him to see what truly matters.

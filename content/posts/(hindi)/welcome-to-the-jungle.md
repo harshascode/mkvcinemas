@@ -31,7 +31,7 @@ author: Harsh
 | **Booking Updates**   | BookMyShow and other platforms to open bookings soon; mark interest for notifications.                                                                 |
 | **Where to Watch**    | Expected to release in cinemas with possible streaming options in the future.                                                                         |
 
-<a href="https://whomeenoaglauns.com/4/8531475">
+<a href="https://www.profitablecpmrate.com/zht8552qct?key=dd3a0d3c76c4f58956dd24d2605f1413">
   <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
 </a>
 

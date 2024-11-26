@@ -25,6 +25,10 @@ author: Harsh
 | **Production Companies** | S Originals, Suresh Productions, Waltair Productions                  |
 | **Genres**               | Drama, Family, Kids                                                   |
 
+<a href="https://www.profitablecpmrate.com/zht8552qct?key=dd3a0d3c76c4f58956dd24d2605f1413">
+  <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
+</a>
+
 ## Review
 
 "35 – Chinna Katha Kaadu" is all about family! The story focuses on three main characters representing different generations, showcasing how they navigate their relationships. Nivetha Thomas plays Kavya, an idealistic daughter who believes in family values. Priyadarshi provides comic relief with his lighthearted character, while VishwaDev Rachakonda plays Kavya's elder brother, adding depth to the family dynamic.

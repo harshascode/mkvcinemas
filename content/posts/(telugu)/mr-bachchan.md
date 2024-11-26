@@ -26,6 +26,10 @@ Mr. Bachchan – The Last Ray of Hope. Directed by Harish Shankar and featuring 
 | **Production Companies** | People Media Factory, T-Series             |
 | **Music**                | Mickey J. Meyer                            |
 
+<a href="https://www.profitablecpmrate.com/zht8552qct?key=dd3a0d3c76c4f58956dd24d2605f1413">
+  <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
+</a>
+
 ## Review
 
 "Mr. Bachchan" is set to be a captivating story centered around the character played by Ravi Teja. Known for his energetic performances, Teja's role is expected to draw viewers into a narrative filled with hope and resilience. The supporting cast, including Bhagyashri Borse and the seasoned Jagapati Babu, adds further depth, promising a well-rounded cinematic experience.
