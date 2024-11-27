@@ -39,10 +39,11 @@ Hi, can you give me this below question and answer in Html, use Summery and Deta
 # Prompt for content
 
 Hi, write a blog post: Write semantically relevant seo friendly. Write like even 8th grader can understand. use below format.
-1: Short and sweet intro. use keyword 'mkvcinemas' somewhere in the intro if it possible to add.
+1: Short and sweet intro.
 2: Table. (format: Markdown)
-3: Review.
-4: Give me simple 5 Faqs. 4. Give a 150 character seo friendly meta description.
+3: Story, Cast, Review, Conclusion
+4: Give me simple 5 - 7 Faqs. 
+5: Give a 150 character seo friendly meta description.
 
 Use below Article as a Resource for your content. dont copy thire style or anything write like any famouse writer style. ok?
 

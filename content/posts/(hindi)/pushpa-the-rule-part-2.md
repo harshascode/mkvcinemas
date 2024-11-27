@@ -1,6 +1,6 @@
 ---
 title: Pushpa The Rule - Part 2
-date: '2024-11-09'
+date: '2024-11-27'
 draft: false
 summary: 'Pushpa: The Rule - Part 2 – release date, cast, story, and more. Discover what fans can expect from this epic sequel'
 image: /i/pushpa-the-rule-part-2.webp
