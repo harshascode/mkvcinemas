@@ -7,42 +7,40 @@ import { getEntries } from '$utils/entries.js';
 const slugCache = new Map();
 
 function generateSlugs(tags) {
-    if (!tags) return [];
+	if (!tags) return [];
 
-    // Create a unique key for the tags array to use for caching
-    const key = tags.join(',');
-    
-    if (slugCache.has(key)) {
-        return slugCache.get(key);
-    }
+	// Create a unique key for the tags array to use for caching
+	const key = tags.join(',');
 
-    const slugs = tags.map(tag => slug(tag));
-    slugCache.set(key, slugs);
-    return slugs;
+	if (slugCache.has(key)) {
+		return slugCache.get(key);
+	}
+
+	const slugs = tags.map((tag) => slug(tag));
+	slugCache.set(key, slugs);
+	return slugs;
 }
 
 /** @type {import('./$types').PageServerLoad} */
 export async function load({ params }) {
-    const { tag } = params;
-    const posts = getEntries('posts');
-    
-    // Create a Set for faster lookups
-    const filteredPosts = posts.filter(post => {
-        const slugSet = new Set(generateSlugs(post.tags));
-        return slugSet.has(tag);
-    });
+	const { tag } = params;
+	const posts = getEntries('posts');
 
-    if (filteredPosts.length === 0) {
-        throw error(404, 'No post found');
-    }
+	// Create a Set for faster lookups
+	const filteredPosts = posts.filter((post) => {
+		const slugSet = new Set(generateSlugs(post.tags));
+		return slugSet.has(tag);
+	});
 
-    return {
-        tag,
-        posts: filteredPosts
-    };
+	if (filteredPosts.length === 0) {
+		throw error(404, 'No post found');
+	}
+
+	return {
+		tag,
+		posts: filteredPosts
+	};
 }
-
-
 
 // export const prerender = false;
 // import { error } from '@sveltejs/kit';

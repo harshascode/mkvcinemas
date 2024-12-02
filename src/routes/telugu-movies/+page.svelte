@@ -41,6 +41,22 @@
 			<div
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
+				<a href="/pushpa-the-rule-part-2">
+					<img
+						src="/i/pushpa-the-rule-part-2.webp"
+						alt="pushpa-the-rule-part-2"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+						loading="lazy"
+					/>
+					<p class="movi-name">Pushpa The Rule</p>
+					<p class="year-btn">2024</p>
+				</a>
+			</div>
+			<div
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			>
 				<a href="/kalki-2898-ad">
 					<img
 						src="/i/kalki-2898-ad.webp"
@@ -53,7 +69,6 @@
 					<p class="year-btn">2024</p>
 				</a>
 			</div>
-
 			<div
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
@@ -72,14 +87,24 @@
 			<div
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
-				<a href="/matka">
+				<a href="/pushpa-the-rise-part-01">
 					<img
-						src="/i/matka.webp"
-						alt="Matka"
+						src="/i/pushpa-the-rise-part-01.webp"
+						alt="pushpa-the-rise-part-01"
 						width="1200"
 						height="628"
 						class="rounded-sm mb-4"
+						loading="lazy"
 					/>
+					<p class="movi-name">Pushpa The Rise - Part 01</p>
+					<p class="year-btn">2024</p>
+				</a>
+			</div>
+			<div
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			>
+				<a href="/matka">
+					<img src="/i/matka.webp" alt="Matka" width="1200" height="628" class="rounded-sm mb-4" />
 					<p class="movi-name">Matka</p>
 					<p class="year-btn">2024</p>
 				</a>

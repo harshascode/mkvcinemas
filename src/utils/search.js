@@ -1,21 +1,21 @@
 const fuzzySearch = (items, query) => {
-    if (!query || !items.length) return []; // Return empty if no query or items
+	if (!query || !items.length) return []; // Return empty if no query or items
 
-    const searchTerms = query.toLowerCase().split(' ').filter(Boolean); // Remove empty terms
+	const searchTerms = query.toLowerCase().split(' ').filter(Boolean); // Remove empty terms
 
-    console.log('search >>>', searchTerms);
+	console.log('search >>>', searchTerms);
 
-    const includesTerm = (value, term) => {
-        return value.toString().toLowerCase().includes(term);
-    };
+	const includesTerm = (value, term) => {
+		return value.toString().toLowerCase().includes(term);
+	};
 
-    return items.filter(item => {
-        return searchTerms.every(term => {
-            return Object.values(item).some(value => {
-                return value != null && includesTerm(value, term); // Check for null/undefined
-            });
-        });
-    });
+	return items.filter((item) => {
+		return searchTerms.every((term) => {
+			return Object.values(item).some((value) => {
+				return value != null && includesTerm(value, term); // Check for null/undefined
+			});
+		});
+	});
 };
 
 export default fuzzySearch;
@@ -26,7 +26,7 @@ export default fuzzySearch;
 //     const searchTerms = query.toLowerCase().split(' ');
 
 //     console.log('search >>>', searchTerms);
-    
+
 //     return items.filter(item => {
 //         return searchTerms.every(term => {
 //             return Object.values(item).some(value => {

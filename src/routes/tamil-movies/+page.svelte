@@ -103,6 +103,22 @@
 					<p class="year-btn">2024</p>
 				</a>
 			</div>
+			<div
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			>
+				<a href="/leo">
+					<img
+						src="/i/leo.webp"
+						alt="Leo"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+						loading="lazy"
+					/>
+					<p class="movi-name">Leo</p>
+					<p class="year-btn">2024</p>
+				</a>
+			</div>
 
 			<div
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"

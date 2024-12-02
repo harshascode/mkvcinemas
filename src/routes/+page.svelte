@@ -10,7 +10,7 @@
 <Head />
 <svelte:head>
 	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://mkvcinemas.buzz/#website","url":"https://mkvcinemas.buzz/","name":"mkvCinemas","description":"mkvCinemas PC and Smartphone Movies of Bollywood, Hollywood, Hindi Cartoon, Anime, TV Shows, Web Series at mkvCinemas","publisher":{"@id":"https://mkvcinemas.buzz/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://mkvcinemas.buzz/blog?query={search_term_string}","query-input":"required name=search_term_string"},"inLanguage":"en-US"},{"@type":"Organization","@id":"https://mkvcinemas.buzz/#organization","name":"mkvCinemas","url":"https://mkvcinemas.buzz/","logo":{"@type":"ImageObject","url":"https://www.mkvcinemas.buzz/logo.png","width":180,"height":180,"caption":"mkvCinemas"},"contactPoint":[{"@type":"ContactPoint","contactType":"Customer Support","email":"info@mkvcinemas.buzz","availableLanguage":"en"}]},{"@type":"BreadcrumbList","@id":"https://mkvcinemas.buzz/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://mkvcinemas.buzz/"},{"@type":"ListItem","position":2,"name":"Bollywood Movies","item":"https://mkvcinemas.buzz/hindi-movies"},{"@type":"ListItem","position":3,"name":"Telugu Movies","item":"https://mkvcinemas.buzz/telugu-movies"},{"@type":"ListItem","position":4,"name":"Kannada Movies","item":"https://mkvcinemas.buzz/kannada-movies"},{"@type":"ListItem","position":5,"name":"Tamil Movies","item":"https://mkvcinemas.buzz/tamil-movies"},{"@type":"ListItem","position":6,"name":"OTT Bookmarks","item":"https://mkvcinemas.buzz/bookmarks-list"}]}]}</script>
-	<script type='text/javascript' src='//pl24807966.profitablecpmrate.com/2d/12/60/2d12602921125a92309d8a6bacf0b97c.js'></script>
+	<script type="text/javascript" src="//pl24807966.profitablecpmrate.com/2d/12/60/2d12602921125a92309d8a6bacf0b97c.js"></script>
 </svelte:head>
 
 <Middlebox />
@@ -241,7 +241,9 @@
 		reviews that help you decide what to watch next.
 	</p>
 	<p class="paragraph">
-		Mkvcinemas makes streaming Telugu movies effortless and fun. From the latest blockbusters to timeless classics, our platform ensures you’ll find your favorite films in no time. Plus, our movie reviews help you pick the perfect film for your next watch.
+		Mkvcinemas makes streaming Telugu movies effortless and fun. From the latest blockbusters to
+		timeless classics, our platform ensures you’ll find your favorite films in no time. Plus, our
+		movie reviews help you pick the perfect film for your next watch.
 	</p>
 </div>
 
@@ -318,20 +320,36 @@
 			</a>
 		</div>
 		<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
-				<a href="/welcome-to-the-jungle">
-					<img
-						src="/i/welcome-to-the-jungle.webp"
-						alt="Welcome to the Jungle"
-						width="1200"
-						height="628"
-						class="rounded-sm mb-4"
-						loading="lazy"
-					/>
-					<p class="movi-name">Welcome to the Jungle</p>
-					<p class="year-btn">2024</p>
-				</a>
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/welcome-to-the-jungle">
+				<img
+					src="/i/welcome-to-the-jungle.webp"
+					alt="Welcome to the Jungle"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Welcome to the Jungle</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/pushpa-the-rule-part-2">
+				<img
+					src="/i/pushpa-the-rule-part-2.webp"
+					alt="pushpa-the-rule-part-2"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Pushpa The Rule</p>
+				<p class="year-btn">2024</p>
+			</a>
 		</div>
 
 		<div
@@ -351,20 +369,20 @@
 			</a>
 		</div>
 		<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
-				<a href="/the-sabarmati-report">
-					<img
-						src="/i/the-sabarmati-report.webp"
-						alt="The Sabarmati Report"
-						width="1200"
-						height="628"
-						class="rounded-sm mb-4"
-						loading="lazy"
-					/>
-					<p class="movi-name">The Sabarmati Report</p>
-					<p class="year-btn">2024</p>
-				</a>
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/the-sabarmati-report">
+				<img
+					src="/i/the-sabarmati-report.webp"
+					alt="The Sabarmati Report"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">The Sabarmati Report</p>
+				<p class="year-btn">2024</p>
+			</a>
 		</div>
 		<div
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
@@ -383,20 +401,20 @@
 			</a>
 		</div>
 		<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
-				<a href="/amaran">
-					<img
-						src="/i/amaran.webp"
-						alt="amaran"
-						width="1200"
-						height="628"
-						class="rounded-sm mb-4"
-						loading="lazy"
-					/>
-					<p class="movi-name">Amaran</p>
-					<p class="year-btn">2024</p>
-				</a>
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/amaran">
+				<img
+					src="/i/amaran.webp"
+					alt="amaran"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Amaran</p>
+				<p class="year-btn">2024</p>
+			</a>
 		</div>
 		<div
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
@@ -417,34 +435,18 @@
 		<div
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
-			<a href="/ulajh">
+			<a href="/vedaa">
 				<img
-					src="/i/ulajh.webp"
-					alt="Ulajh"
+					src="/i/vedaa.webp"
+					alt="Vedaa"
 					width="1200"
 					height="628"
 					class="rounded-sm mb-4"
 					loading="lazy"
 				/>
-				<p class="movi-name">Ulajh</p>
+				<p class="movi-name">Vedaa</p>
 				<p class="year-btn">2024</p>
 			</a>
-		</div>
-		<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
-				<a href="/vedaa">
-					<img
-						src="/i/vedaa.webp"
-						alt="Vedaa"
-						width="1200"
-						height="628"
-						class="rounded-sm mb-4"
-						loading="lazy"
-					/>
-					<p class="movi-name">Vedaa</p>
-					<p class="year-btn">2024</p>
-				</a>
 		</div>
 	</div>
 	<p class="paragraph">
@@ -595,20 +597,20 @@
 		</div>
 
 		<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
-				<a href="/bhairathi-ranagal">
-					<img
-						src="/i/bhairathi-ranagal.webp"
-						alt="Bhairathi Ranagal"
-						width="1200"
-						height="628"
-						class="rounded-sm mb-4"
-						loading="lazy"
-					/>
-					<p class="movi-name">Bhairathi Ranagal</p>
-					<p class="year-btn">2024</p>
-				</a>
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/bhairathi-ranagal">
+				<img
+					src="/i/bhairathi-ranagal.webp"
+					alt="Bhairathi Ranagal"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Bhairathi Ranagal</p>
+				<p class="year-btn">2024</p>
+			</a>
 		</div>
 
 		<div

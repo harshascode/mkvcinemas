@@ -13,28 +13,29 @@ The Sabarmati Report is a highly anticipated Hindi-language drama thriller that 
 
 ## Key Details About Movie:
 
-| **Feature**                | **Details**                                                                                     |
-|----------------------------|-------------------------------------------------------------------------------------------------|
-| **Title**                  | The Sabarmati Report                                                                            |
-| **Language**               | Hindi                                                                                           |
-| **Genre**                  | Drama, Thriller                                                                                 |
-| **Director**               | Dheeraj Sarna (replaced Ranjan Chandel)                                                         |
-| **Writers**                | Avinash Singh Tomar, Arjun Bhandegaonkar                                                        |
-| **Producers**              | Ekta Kapoor, Shobha Kapoor, Amul V Mohan, Anshul Mohan, Vipin Agnihotri                         |
-| **Cinematography**         | Amalendu Chaudhary                                                                              |
-| **Editing**                | Manan Sagar                                                                                     |
-| **Music**                  | Kartik Kush, Ramashrit Joshi, Aikarth Purohit, Ketan Sodha                                      |
-| **Runtime**                | 126.51 minutes                                                                                  |
-| **BBFC Rating**            | U/A, with some cuts and alterations                                                             |
-| **Release Date**           | November 15, 2024                                                                              |
-| **Production Companies**   | Balaji Motion Pictures, Vikir Films Production, Vipin Agnihotri Films                           |
-| **Distribution**           | Zee Studios                                                                                    |
+| **Feature**              | **Details**                                                             |
+| ------------------------ | ----------------------------------------------------------------------- |
+| **Title**                | The Sabarmati Report                                                    |
+| **Language**             | Hindi                                                                   |
+| **Genre**                | Drama, Thriller                                                         |
+| **Director**             | Dheeraj Sarna (replaced Ranjan Chandel)                                 |
+| **Writers**              | Avinash Singh Tomar, Arjun Bhandegaonkar                                |
+| **Producers**            | Ekta Kapoor, Shobha Kapoor, Amul V Mohan, Anshul Mohan, Vipin Agnihotri |
+| **Cinematography**       | Amalendu Chaudhary                                                      |
+| **Editing**              | Manan Sagar                                                             |
+| **Music**                | Kartik Kush, Ramashrit Joshi, Aikarth Purohit, Ketan Sodha              |
+| **Runtime**              | 126.51 minutes                                                          |
+| **BBFC Rating**          | U/A, with some cuts and alterations                                     |
+| **Release Date**         | November 15, 2024                                                       |
+| **Production Companies** | Balaji Motion Pictures, Vikir Films Production, Vipin Agnihotri Films   |
+| **Distribution**         | Zee Studios                                                             |
 
 <a href="https://www.profitablecpmrate.com/zht8552qct?key=dd3a0d3c76c4f58956dd24d2605f1413">
   <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
 </a>
 
 ## The Sabarmati Report: A Review
+
 The Sabarmati Report follows the journey of Samar Kumar (played by Vikrant Massey), a determined young journalist investigating the 2002 Godhra train incident. With Raashii Khanna by his side, Samar faces intimidation from powerful figures who want to bury the truth.
 
 The film, inspired by real events, tackles sensitive themes of media ethics, truth, and resilience. Director Dheeraj Sarna’s portrayal is intense, yet sensitive, as he dives into the complexities of the Godhra incident. The screenplay by Avinash Singh Tomar and Arjun Bhandegaonkar focuses on the dangers and ethical dilemmas faced by journalists committed to revealing the truth.
@@ -42,6 +43,7 @@ The film, inspired by real events, tackles sensitive themes of media ethics, tru
 The cinematography by Amalendu Chaudhary enhances the dramatic tension, using close-ups and dim lighting to evoke a sense of foreboding. Manan Sagar’s editing keeps the pace tight, making the 126-minute runtime feel justified. Kartik Kush, Ramashrit Joshi, Aikarth Purohit, and Ketan Sodha’s music adds emotional depth, complementing the narrative’s intensity.
 
 ### Overall Impression:
+
 The Sabarmati Report is a powerful exploration of truth versus suppression, set against one of the most tragic events in modern Indian history. This is a must-watch for those interested in intense dramas inspired by real events.
 
 ## Trailer
@@ -74,4 +76,3 @@ The Sabarmati Report is a powerful exploration of truth versus suppression, set 
   <summary>Is The Sabarmati Report based on true events?</summary>
   <p>Yes, it’s based on the true events of the Godhra train burning incident.</p>
 </details>
-

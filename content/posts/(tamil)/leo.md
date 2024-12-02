@@ -1,6 +1,6 @@
 ---
 title: Leo
-date: '2024-11-25'
+date: '2024-12-02'
 draft: false
 summary: 'Leo is an Indian Tamil action-thriller starring Vijay. Read about its story, cast, review, and why this film is a must-watch for action lovers!'
 image: /i/leo.webp
@@ -16,26 +16,28 @@ author: Harsh
 
 ## Key Details:
 
-| Feature         | Details                                                                 |
-|-----------------|-------------------------------------------------------------------------|
-| Movie           | Leo                                                                     |
-| Language        | Tamil, Kannada, Telugu, Hindi                                          |
-| Release Date    | 19 October 2023                                                         |
-| Genre           | Action, Thriller                                                        |
-| Director        | Lokesh Kanagaraj                                                        |
-| Cast            | Vijay, Trisha, Sanjay Dutt, Arjun Sarja, Gautham Vasudev Menon, Priya Anand |
-| Producer        | S. S. Lalit Kumar, Jagadish Palanisamy                                  |
-| Cinematography  | Manoj Paramahamsa                                                       |
-| Music           | Anirudh Ravichander                                                     |
-| Editor          | Philomin Raj                                                            |
-| Production      | Seven Screen Studio                                                     |
+| Feature        | Details                                                                     |
+| -------------- | --------------------------------------------------------------------------- |
+| Movie          | Leo                                                                         |
+| Language       | Tamil, Kannada, Telugu, Hindi                                               |
+| Release Date   | 19 October 2023                                                             |
+| Genre          | Action, Thriller                                                            |
+| Director       | Lokesh Kanagaraj                                                            |
+| Cast           | Vijay, Trisha, Sanjay Dutt, Arjun Sarja, Gautham Vasudev Menon, Priya Anand |
+| Producer       | S. S. Lalit Kumar, Jagadish Palanisamy                                      |
+| Cinematography | Manoj Paramahamsa                                                           |
+| Music          | Anirudh Ravichander                                                         |
+| Editor         | Philomin Raj                                                                |
+| Production     | Seven Screen Studio                                                         |
 
 ## Story
+
 "Leo" revolves around a high-stakes battle where the protagonist, played by Vijay, confronts his dark past and fights against powerful adversaries. The story is packed with twists, intense action, and emotional moments. Set in both urban and rugged terrains, the plot weaves a tale of loyalty, betrayal, and redemption.
 
 The journey of "Leo" began as "Thalapathy 67," reflecting Vijay’s 67th film. Fans eagerly anticipated its release after the title reveal, and the film lived up to the hype with its engaging storyline.
 
 ## Cast
+
 The movie boasts a powerful ensemble of seasoned and emerging talents:
 
 - Vijay: The leading star, delivering a commanding performance.
@@ -43,9 +45,10 @@ The movie boasts a powerful ensemble of seasoned and emerging talents:
 - Sanjay Dutt: A formidable antagonist.
 - Arjun Sarja: Adding depth with a pivotal role.
 - Gautham Vasudev Menon, Priya Anand, and Mysskin: Supporting roles that enhance the narrative.
-Each actor brought their best, making the characters memorable and relatable.
+  Each actor brought their best, making the characters memorable and relatable.
 
 ## Review
+
 "Leo" is a visual treat, filmed in stunning locations like Chennai and Kashmir. The cinematography by Manoj Paramahamsa immerses viewers in breathtaking landscapes and dynamic action sequences. Anirudh Ravichander’s music elevates the film’s emotional impact with an unforgettable score.
 
 Lokesh Kanagaraj's direction ties everything together, blending action, drama, and suspense seamlessly. Although the pacing slows down in parts, the gripping narrative and outstanding performances make up for it.
@@ -55,6 +58,7 @@ Lokesh Kanagaraj's direction ties everything together, blending action, drama, a
 <iframe width="100%" height="380" src="https://www.youtube.com/embed/Po3jStA673E" title={title} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
 
 ## Conclusion
+
 "Leo" delivers a thrilling cinematic experience with stellar performances and captivating visuals. It’s a treat for action-thriller enthusiasts, offering emotional depth and nail-biting moments. Whether you're a fan of Vijay or just love well-made movies, "Leo" is worth watching.
 
 ## FAQs

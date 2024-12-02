@@ -4,37 +4,37 @@ import { config } from '$lib/config';
 const THEME_KEY = 'theme'; // Use a constant for the theme key
 
 const isLocalStorageAvailable = () => {
-    try {
-        const testKey = '__test__'; // Use a test key for checking localStorage
-        localStorage.setItem(testKey, testKey);
-        localStorage.removeItem(testKey);
-        return true;
-    } catch (e) {
-        return false; // Return false if localStorage is not available
-    }
+	try {
+		const testKey = '__test__'; // Use a test key for checking localStorage
+		localStorage.setItem(testKey, testKey);
+		localStorage.removeItem(testKey);
+		return true;
+	} catch (e) {
+		return false; // Return false if localStorage is not available
+	}
 };
 
 const getPreferredTheme = () => {
-    if (isLocalStorageAvailable() && localStorage.getItem(THEME_KEY)) {
-        return localStorage.getItem(THEME_KEY);
-    }
-    return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : config.theme;
+	if (isLocalStorageAvailable() && localStorage.getItem(THEME_KEY)) {
+		return localStorage.getItem(THEME_KEY);
+	}
+	return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : config.theme;
 };
 
 const isDarkMode = () => {
-    return browser ? getPreferredTheme() === 'dark' : false; // Simplified logic
+	return browser ? getPreferredTheme() === 'dark' : false; // Simplified logic
 };
 
 const setDarkMode = (darkMode, save = true) => {
-    document.documentElement.classList.toggle('dark', darkMode); // Use toggle for cleaner code
-    if (save && isLocalStorageAvailable()) {
-        localStorage.setItem(THEME_KEY, darkMode ? 'dark' : 'light'); // Use setItem for consistency
-    }
-    return darkMode;
+	document.documentElement.classList.toggle('dark', darkMode); // Use toggle for cleaner code
+	if (save && isLocalStorageAvailable()) {
+		localStorage.setItem(THEME_KEY, darkMode ? 'dark' : 'light'); // Use setItem for consistency
+	}
+	return darkMode;
 };
 
 const toggleDarkMode = () => {
-    return setDarkMode(!isDarkMode());
+	return setDarkMode(!isDarkMode());
 };
 
 export { isDarkMode, setDarkMode, toggleDarkMode };

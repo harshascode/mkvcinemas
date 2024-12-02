@@ -3,11 +3,11 @@
 @import 'tailwindcss/utilities';
 
 @font-face {
-    font-family: 'Saira';
-    src: url('https://mkvcinemas.buzz/fonts/Saira-Bold.ttf');
+	font-family: 'Saira';
+	src: url('https://mkvcinemas.buzz/fonts/Saira-Bold.ttf');
 	font-weight: 700;
 	font-style: normal;
-    font-display: swap; 
+	font-display: swap;
 }
 
 @layer base {
@@ -15,7 +15,10 @@
 		@apply font-body antialiased;
 	}
 
-	h1, h2, h3, h4 {
+	h1,
+	h2,
+	h3,
+	h4 {
 		@apply font-title font-extrabold;
 	}
 
@@ -38,22 +41,23 @@
 	/* Disable autofill background transition */
 	input:-webkit-autofill,
 	input:-webkit-autofill:focus {
-		transition: background-color 0s, color 0s;
+		transition:
+			background-color 0s,
+			color 0s;
 	}
 
 	.paragraph {
 		@apply pb-6 text-base prose-base;
 	}
-	
+
 	.year-btn {
 		@apply text-yellow-400 text-xs bg-amber-950 w-fit px-2 py-1 rounded-sm;
 	}
-	
+
 	.movi-name {
 		@apply text-sm font-semibold mb-2;
 	}
 }
-
 
 /* @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Saira:wght@700&display=swap'); */
 /* @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&family=Saira:wght@700&display=swap'); */

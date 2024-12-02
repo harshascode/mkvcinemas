@@ -13,38 +13,40 @@ author: Harsh
 
 ## Key Details About Movie:
 
-| Feature         | Details                                                               |
-|-----------------|-----------------------------------------------------------------------|
-| Movie           | Bhool Bhulaiyaa 3                                                     |
-| Language        | Hindi                                                                  |
-| Genre           | Comedy, Horror                                                         |
-| Director        | Anees Bazmee                                                           |
-| Release Date    | November 1, 2024                                                       |
-| Setting         | Kolkata, West Bengal                                                   |
-| Cast            | Kartik Aaryan, Vidya Balan, Madhuri Dixit, Triptii Dimri              |
-| Cinematography  | Manu Anand                                                             |
-| Music           | Tanishk Bagchi, Pritam, Amaal Mallik, Sachet–Parampara                 |
-| Producers       | T-Series Films and Cine1 Studios                                       |
-| Box Office      | ₹405 crore (US$49 million) after 26 days                               |
-
+| Feature        | Details                                                  |
+| -------------- | -------------------------------------------------------- |
+| Movie          | Bhool Bhulaiyaa 3                                        |
+| Language       | Hindi                                                    |
+| Genre          | Comedy, Horror                                           |
+| Director       | Anees Bazmee                                             |
+| Release Date   | November 1, 2024                                         |
+| Setting        | Kolkata, West Bengal                                     |
+| Cast           | Kartik Aaryan, Vidya Balan, Madhuri Dixit, Triptii Dimri |
+| Cinematography | Manu Anand                                               |
+| Music          | Tanishk Bagchi, Pritam, Amaal Mallik, Sachet–Parampara   |
+| Producers      | T-Series Films and Cine1 Studios                         |
+| Box Office     | ₹405 crore (US$49 million) after 26 days                 |
 
 <a href="https://www.profitablecpmrate.com/zht8552qct?key=dd3a0d3c76c4f58956dd24d2605f1413">
   <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
 </a>
 
 ## Story
+
 Set in the vibrant city of Kolkata, "Bhool Bhulaiyaa 3" follows a chilling yet humorous tale. Kartik Aaryan reprises his role as the quirky psychiatrist, uncovering paranormal secrets in a haunted mansion. Vidya Balan returns in her iconic role as Manjulika, weaving terror and mystery into the plot.
 
 With Madhuri Dixit and Triptii Dimri adding layers of depth and charm, the story balances spooky encounters and laugh-out-loud moments. The plot explores ancient curses, clever twists, and a satisfying mix of humor and suspense.
 
 ## Cast
+
 - Kartik Aaryan: The lively psychiatrist who solves paranormal mysteries.
 - Vidya Balan: Returning as the unforgettable and haunting Manjulika.
 - Madhuri Dixit: A pivotal character with a mysterious backstory.
 - Triptii Dimri: Adds a fresh perspective to the unfolding drama.
-The ensemble cast delivers compelling performances, making the story both engaging and memorable.
+  The ensemble cast delivers compelling performances, making the story both engaging and memorable.
 
 ## Review
+
 "Bhool Bhulaiyaa 3" received mixed reviews from critics but won the hearts of many viewers. Fans of the series appreciated the humor, scares, and nostalgic references to the previous installments. However, some critics felt the storyline lacked originality.
 
 The cinematography by Manu Anand highlights the eerie yet beautiful locations, from Kolkata’s historic streets to the haunting landscapes of Orchha and Leh. The soundtrack, featuring hits like "Mere Dholna 3.0," adds to the film's spooky charm.
@@ -54,6 +56,7 @@ The cinematography by Manu Anand highlights the eerie yet beautiful locations, f
 <iframe width="100%" height="380" src="https://www.youtube.com/embed/sp3Io6rcA8E" title={title} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
 
 ## Conclusion
+
 "Bhool Bhulaiyaa 3" successfully blends horror and humor, continuing the franchise's appeal to audiences. It’s a fun ride for fans of ghostly comedies and a great pick for family entertainment. Whether you're here for the laughs, the scares, or the nostalgia, this movie has something for everyone.
 
 ## FAQs

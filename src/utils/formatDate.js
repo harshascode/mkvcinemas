@@ -1,19 +1,18 @@
 const formatDate = (date, locale = 'en-US') => {
-    if (!date || isNaN(new Date(date))) {
-        throw new Error('Invalid date provided');
-    }
+	if (!date || isNaN(new Date(date))) {
+		throw new Error('Invalid date provided');
+	}
 
-    const options = {
-        year: 'numeric',
-        month: 'long',
-        day: 'numeric'
-    };
+	const options = {
+		year: 'numeric',
+		month: 'long',
+		day: 'numeric'
+	};
 
-    return new Intl.DateTimeFormat(locale, options).format(new Date(date));
+	return new Intl.DateTimeFormat(locale, options).format(new Date(date));
 };
 
 export default formatDate;
-
 
 // import { config } from '$lib/config.js';
 
