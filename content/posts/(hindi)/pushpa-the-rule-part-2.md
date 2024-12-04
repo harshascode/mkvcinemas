@@ -1,6 +1,6 @@
 ---
 title: Pushpa The Rule - Part 2
-date: '2024-12-02'
+date: '2024-12-04'
 draft: false
 summary: 'Pushpa: The Rule - Part 2 – release date, cast, story, and more. Discover what fans can expect from this epic sequel'
 image: /i/pushpa-the-rule-part-2.webp
@@ -13,7 +13,7 @@ tags:
 author: Harsh
 ---
 
-Pushpa: The Rule - Part 2 is one of the most anticipated Indian movies of 2024, a follow-up to the 2021 blockbuster Pushpa: The Rise. Fans are eagerly awaiting the return of Allu Arjun’s intense character, Pushpa Raj, with even higher stakes in this exciting sequel. Here’s a breakdown of what we know so far.
+Pushpa: The Rule - Part 2 is one of the most anticipated Indian movies of 2024, a follow-up to the 2021 blockbuster Pushpa: The Rise. Fans are eagerly awaiting the return of Allu Arjun’s intense character, Pushpa Raj, with even higher stakes in this exciting sequel. Here's everything you need to know about this epic sequel.
 
 ## Key Details About Movie:
 
@@ -39,17 +39,23 @@ Pushpa 2: The Rule is set to continue the tale of Pushpa Raj, the rugged anti-he
 
 Allu Arjun has set the bar high with his powerful performance in the first movie, and fans are expecting even more intensity in the sequel. Rashmika Mandanna returns as his love interest, adding depth to Pushpa’s life. Fahadh Faasil, who joined the franchise in Pushpa: The Rise, is expected to have a major role, adding to the excitement.
 
-## 3. High Production Values
+## 3. Record-Breaking Hype and Ticket Sales
+
+The anticipation for Pushpa: The Rule is reflected in its record-breaking ticket sales. On BookMyShow, the movie has become the fastest to cross one million tickets sold, surpassing hits like Kalki 2898 AD, Bahubali 2, and KGF 2. Premiere show tickets for December 4 are priced at ₹944 (including GST) at select theatres, highlighting the massive buzz around the release.
+
+## 4. High Production Values
 
 With an impressive budget of ₹400-500 crore, Pushpa: The Rule is set to be a visually stunning experience. Fans can expect top-notch action scenes, incredible sets, and an immersive soundtrack, all contributing to the movie’s grandeur.
 
-## 4. Language and Release
+## 5. Language and Release
 
 While the movie is primarily in Telugu, it will be released in multiple languages to reach a broader audience, similar to Pushpa: The Rise. This approach shows the film’s growing popularity beyond regional borders.
 
-## 5. Delayed Release Date
+## 6. Delayed Release Date
 
 The film was initially slated for an August 15, 2024, release but was postponed to December 5, 2024. This delay has only increased the anticipation, as fans are eagerly counting down the days to witness the return of Pushpa Raj.
+
+Know about: [Pushpa The Rise - Part 01](https://mkvcinemas.buzz/pushpa-the-rise-part-01)
 
 ## Trailer
 
