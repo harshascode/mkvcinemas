@@ -1,5 +1,5 @@
 # Build stage
-FROM node:19.7-alpine AS sk-build
+FROM node:20-alpine AS sk-build
 WORKDIR /usr/src/app
 
 ARG TZ=Europe/Stockholm
@@ -15,7 +15,7 @@ RUN npm install
 RUN npm run build
 
 # Production stage
-FROM node:19.7-alpine
+FROM node:20-alpine
 WORKDIR /usr/src/app
 
 ARG TZ=Europe/Stockholm
