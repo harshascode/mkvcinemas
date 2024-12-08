@@ -1,4 +1,4 @@
-import adapter from '@sveltejs/adapter-auto';
+import adapter from '@sveltejs/adapter-node';
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 import { mdsvex } from 'mdsvex';
 import mdsvexConfig from './mdsvex.config.js';
@@ -7,7 +7,8 @@ import mdsvexConfig from './mdsvex.config.js';
 const config = {
 	extensions: ['.svelte', ...mdsvexConfig.extensions],
 	kit: {
-		adapter: adapter(),
+		adapter: adapter({ out: 'build' }),
+		// adapter: adapter(),
 		prerender: {
 			entries: ['*'], // Prerender all routes except those explicitly excluded
 			handleHttpError: 'warn' // Warn on HTTP errors but don't fail the build
