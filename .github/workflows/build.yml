@@ -50,9 +50,9 @@ jobs:
             PUBLIC_HELLO=world
 
       - name: Deploy on CapRover
-       uses: caprover/deploy-from-github@v1.1.2
-       with:
-         server: https://timesofsouth.ninja
-         app: 'mkvcinemas'
-         token: '${{ secrets.APP_TOKEN }}'
-         image: 'ghcr.io/harshascode/mkvcinemas:main'
+        uses: caprover/deploy-from-github@v1.1.2
+        with:
+          server: https://timesofsouth.ninja
+          app: 'mkvcinemas'
+          token: '${{ secrets.APP_TOKEN }}'
+          image: 'ghcr.io/harshascode/mkvcinemas:main'
