@@ -1,5 +1,7 @@
 # 1: Copy the content from some website
 oid
+smalcange
+
 
 # 2: Rewrite the content with ChatGPT.
 
