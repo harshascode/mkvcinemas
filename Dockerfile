@@ -1,38 +1,54 @@
-# Build stage
 FROM node:20-alpine AS sk-build
 WORKDIR /usr/src/app
 
-# Install build dependencies in one layer
-RUN apk --no-cache add curl python3 make g++
+ARG PUBLIC_HELLO
 
-# Copy package.json and package-lock.json first for cache efficiency
-COPY package.json package-lock.json /usr/src/app/
+COPY package*.json ./
 RUN npm install
-
-# Copy application files and build the app
-COPY . /usr/src/app
+COPY . .
 RUN npm run build
 
-# Production stage
+# Stage 2: Production
 FROM node:20-alpine
 WORKDIR /usr/src/app
 
-# Install only production dependencies (without build tools)
-RUN apk --no-cache add curl
+COPY --from=sk-build /usr/src/app/package*.json ./
+RUN npm install --omit=dev
 
-# Copy only the necessary files from the build stage
-COPY --from=sk-build /usr/src/app/package.json /usr/src/app/package.json
-COPY --from=sk-build /usr/src/app/package-lock.json /usr/src/app/package-lock.json
-RUN npm install --only=production
+COPY --from=sk-build /usr/src/app/build ./
 
-# Copy the built files from the build stage
-COPY --from=sk-build /usr/src/app/build /usr/src/app/build
-
-# Switch to non-root user for security (optional)
+# Use the default non-root user provided by the base image
 USER node
 
-# Expose the application port
 EXPOSE 3000
-
-# Start the application
 CMD ["node", "build/index.js"]
+
+
+
+
+# FROM node:20-alpine AS sk-build
+# WORKDIR /usr/src/app
+
+# ARG PUBLIC_HELLO
+
+# COPY . /usr/src/app
+# RUN apk --no-cache add curl
+# RUN npm install
+# RUN npm run build
+
+# # Stage 2: Production
+# FROM node:20-alpine
+# WORKDIR /usr/src/app
+
+# RUN apk --no-cache add curl
+
+# COPY --from=sk-build /usr/src/app/package.json /usr/src/app/package.json
+# COPY --from=sk-build /usr/src/app/package-lock.json /usr/src/app/package-lock.json
+# RUN npm install --only=production
+
+# COPY --from=sk-build /usr/src/app/build /usr/src/app/build
+
+# USER node
+
+# EXPOSE 3000
+# CMD ["node", "build/index.js"]

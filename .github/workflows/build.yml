@@ -19,6 +19,11 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      - name: Set up Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
       - name: Set up QEMU
         uses: docker/setup-qemu-action@v3
 
@@ -39,7 +44,7 @@ jobs:
           password: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Build and Push Docker Image
-        uses: docker/build-push-action@v3
+        uses: docker/build-push-action@v5
         with:
           context: .
           platforms: linux/amd64 #, linux/arm64 <-- Add for ARM support
@@ -52,7 +57,7 @@ jobs:
       - name: Deploy on CapRover
         uses: caprover/deploy-from-github@v1.1.2
         with:
-          server: https://timesofsouth.ninja
-          app: 'mkvcinemas'
+          server: '${{ secrets.CAPROVER_SERVER }}'
+          app: '${{ secrets.APP_NAME }}'
           token: '${{ secrets.APP_TOKEN }}'
           image: 'ghcr.io/harshascode/mkvcinemas:main'
