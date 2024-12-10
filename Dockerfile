@@ -18,7 +18,7 @@ RUN npm install --omit=dev
 COPY --from=sk-build /usr/src/app/build ./
 
 # Use the default non-root user provided by the base image
-USER node
+#USER node
 
 EXPOSE 3000
 CMD ["node", "build/index.js"]
