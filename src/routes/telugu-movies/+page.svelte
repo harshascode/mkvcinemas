@@ -103,6 +103,22 @@
 			<div
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
+				<a href="/rrr">
+					<img
+						src="/i/rrr.webp"
+						alt="RRR"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+						loading="lazy"
+					/>
+					<p class="movi-name">RRR</p>
+					<p class="year-btn">2024</p>
+				</a>
+			</div>
+			<div
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			>
 				<a href="/matka">
 					<img src="/i/matka.webp" alt="Matka" width="1200" height="628" class="rounded-sm mb-4" />
 					<p class="movi-name">Matka</p>
