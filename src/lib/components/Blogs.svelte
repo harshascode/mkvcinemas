@@ -4,7 +4,7 @@
 	import Author from '$lib/components/Author.svelte';
 	import SearchBox from '$lib/components/SearchBox.svelte';
 	import { page } from '$app/stores';
-	import fuzzySearch from '$utils/search.js';
+	import fuzzySearch from '$lib/utils/search.js';
 
 	export let title = '';
 	export let subtitle = '';

@@ -1,7 +1,7 @@
 export const prerender = false;
 import { error } from '@sveltejs/kit';
 import { slug } from 'github-slugger';
-import { getEntries } from '$utils/entries.js';
+import { getEntries } from '$lib/utils/entries.js';
 
 // Cache for slug generation
 const slugCache = new Map();
@@ -45,7 +45,7 @@ export async function load({ params }) {
 // export const prerender = false;
 // import { error } from '@sveltejs/kit';
 // import { slug } from 'github-slugger';
-// import { getEntries } from '$utils/entries.js';
+// import { getEntries } from '$lib/utils/entries.js';
 
 // function slugsArray(tags) {
 // 	return tags?.map((t) => slug(t)) || [];

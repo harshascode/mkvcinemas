@@ -1,6 +1,6 @@
 import RSS from 'rss';
 import { config } from '$lib/config.js';
-import { getEntries } from '$utils/entries.js';
+import { getEntries } from '$lib/utils/entries.js';
 
 export const prerender = true;
 

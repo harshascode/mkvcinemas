@@ -53,7 +53,7 @@
 // 			"$lib": ["./src/lib"],
 // 			"$lib/*": ["./src/lib/*"],
 // 			"$utils": ["./src/utils"],
-// 			"$utils/*": ["./src/utils/*"]
+// 			"$lib/utils/*": ["./src/utils/*"]
 // 		}
 // 	},
 // 	"include": ["src/**/*.d.ts", "src/**/*.js", "src/**/*.svelte"]

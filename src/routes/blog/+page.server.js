@@ -1,5 +1,5 @@
 export const prerender = false;
-import { getEntries, getTags } from '$utils/entries.js';
+import { getEntries, getTags } from '$lib/utils/entries.js';
 import { error } from '@sveltejs/kit';
 
 /** @type {import('./$types').PageServerLoad} */
@@ -29,7 +29,7 @@ export async function load() {
 }
 
 // this can bottle neck
-// import { getEntries, getTags } from '$utils/entries.js';
+// import { getEntries, getTags } from '$lib/utils/entries.js';
 // import { error } from '@sveltejs/kit';
 
 // /** @type {import('./$types').PageServerLoad} */
@@ -59,7 +59,7 @@ export async function load() {
 // }
 
 // export const prerender = false;
-// import { getEntries, getTags } from '$utils/entries.js';
+// import { getEntries, getTags } from '$lib/utils/entries.js';
 // // import { tags } from '$lib/data/tags';
 // import { error } from '@sveltejs/kit';
 

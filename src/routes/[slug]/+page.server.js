@@ -1,6 +1,6 @@
 export const prerender = true;
 import { error } from '@sveltejs/kit';
-import { getEntries } from '$utils/entries.js';
+import { getEntries } from '$lib/utils/entries.js';
 /** @type {import('./$types').PageServerLoad} */
 export async function load({ params }) {
 	// Fetch posts only
@@ -22,7 +22,7 @@ export async function load({ params }) {
 }
 
 // import { error } from '@sveltejs/kit';
-// import { getEntries } from '$utils/entries.js';
+// import { getEntries } from '$lib/utils/entries.js';
 
 // /** @type {import('./$types').PageServerLoad} */
 // export async function load({ params }) {
@@ -54,7 +54,7 @@ export async function load({ params }) {
 // }
 
 // import { error } from '@sveltejs/kit';
-// import { getEntries } from '$utils/entries.js';
+// import { getEntries } from '$lib/utils/entries.js';
 
 // /** @type {import('./$types').PageServerLoad} */
 // export async function load({ params }) {

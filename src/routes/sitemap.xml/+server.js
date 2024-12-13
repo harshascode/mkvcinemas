@@ -1,5 +1,5 @@
 import { config, navLinks } from '$lib/config';
-import { getEntries } from '$utils/entries.js';
+import { getEntries } from '$lib/utils/entries.js';
 
 export const prerender = true;
 
