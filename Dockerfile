@@ -23,6 +23,8 @@ USER node
 EXPOSE 3000
 CMD ["node", "build/index.js"]
 
+# docker build -t my-image:latest .
+# docker run <id>
 
 
 # FROM node:20-alpine AS sk-build
