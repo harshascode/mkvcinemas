@@ -8,6 +8,7 @@
 </script>
 
 <Head />
+
 <svelte:head>
 	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://mkvcinemas.buzz/#website","url":"https://mkvcinemas.buzz/","name":"mkvCinemas","description":"mkvCinemas PC and Smartphone Movies of Bollywood, Hollywood, Hindi Cartoon, Anime, TV Shows, Web Series at mkvCinemas","publisher":{"@id":"https://mkvcinemas.buzz/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://mkvcinemas.buzz/blog?query={search_term_string}","query-input":"required name=search_term_string"},"inLanguage":"en-US"},{"@type":"Organization","@id":"https://mkvcinemas.buzz/#organization","name":"mkvCinemas","url":"https://mkvcinemas.buzz/","logo":{"@type":"ImageObject","url":"https://www.mkvcinemas.buzz/logo.png","width":180,"height":180,"caption":"mkvCinemas"},"contactPoint":[{"@type":"ContactPoint","contactType":"Customer Support","email":"info@mkvcinemas.buzz","availableLanguage":"en"}]},{"@type":"BreadcrumbList","@id":"https://mkvcinemas.buzz/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://mkvcinemas.buzz/"},{"@type":"ListItem","position":2,"name":"Bollywood Movies","item":"https://mkvcinemas.buzz/hindi-movies"},{"@type":"ListItem","position":3,"name":"Telugu Movies","item":"https://mkvcinemas.buzz/telugu-movies"},{"@type":"ListItem","position":4,"name":"Kannada Movies","item":"https://mkvcinemas.buzz/kannada-movies"},{"@type":"ListItem","position":5,"name":"Tamil Movies","item":"https://mkvcinemas.buzz/tamil-movies"},{"@type":"ListItem","position":6,"name":"OTT Bookmarks","item":"https://mkvcinemas.buzz/bookmarks-list"}]}]}</script>
 	<script type="text/javascript" src="//pl24807966.profitablecpmrate.com/2d/12/60/2d12602921125a92309d8a6bacf0b97c.js"></script>
@@ -31,7 +32,232 @@
 
 <!-- <Blogs title="Latest Posts" h2 {posts} search={false} count={15} /> -->
 
+<!-- Bolywood Movies -->
 <div class="mx-auto py-10">
+	<h2 class="text-center text-3xl font-bold mb-8">Mkvcinemas Hindi Movies</h2>
+	<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+		<!-- Movie Card -->
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/pushpa-the-rule-part-2">
+				<img
+					src="/i/pushpa-the-rule-part-2.webp"
+					alt="pushpa-the-rule-part-2"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Pushpa The Rule</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/bhool-bhulaiyaa-3">
+				<img
+					src="/i/bhool-bhulaiyaa-3.webp"
+					alt="bhool-bhulaiyaa-3"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Bhool Bhulaiyaa 3</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/12th-fail">
+				<img
+					src="/i/12th-fail.webp"
+					alt="12th Fail"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">12th Fail</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/stree-2">
+				<img
+					src="/i/stree-2.webp"
+					alt="Stree 2"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Stree 2</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/khel-khel-mein">
+				<img
+					src="/i/khel-khel-mein.webp"
+					alt="Khel Khel Mein"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Khel Khel Mein</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/welcome-to-the-jungle">
+				<img
+					src="/i/welcome-to-the-jungle.webp"
+					alt="Welcome to the Jungle"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Welcome to the Jungle</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/amaran">
+				<img
+					src="/i/amaran.webp"
+					alt="amaran"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Amaran</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/singham-again">
+				<img
+					src="/i/singham-again.webp"
+					alt="singham again"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Singham Again</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/sarfira">
+				<img
+					src="/i/sarfira.webp"
+					alt="Sarfira"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Sarfira</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/the-sabarmati-report">
+				<img
+					src="/i/the-sabarmati-report.webp"
+					alt="The Sabarmati Report"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">The Sabarmati Report</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/vanvaas">
+				<img
+					src="/i/vanvaas.webp"
+					alt="Vanvaas"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Vanvaas</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/vedaa">
+				<img
+					src="/i/vedaa.webp"
+					alt="Vedaa"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Vedaa</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+	</div>
+	<p class="paragraph">
+		Bollywood movies, based in Mumbai, is the largest film industry in India and one of the biggest
+		in the world. Known for its vibrant storytelling, catchy music, and colorful dance sequences,
+		Bollywood movies have captured the hearts of audiences both in India and around the globe.
+	</p>
+	<p class="paragraph">
+		Bollywood movies are loved for many reasons. They often combine action, drama, romance, and
+		comedy into one film, creating a unique viewing experience. Whether you enjoy watching
+		heartwarming love stories, thrilling action scenes, or funny comedies, Bollywood has something
+		for everyone.
+	</p>
+	<p class="paragraph">
+		Bollywood movies come in many exciting genres, each offering something special. If you love love
+		stories, romantic films will make you laugh and cry. Action movies are filled with thrilling
+		stunts and intense fight scenes that keep you on the edge of your seat. For a good laugh,
+		Bollywood comedies are packed with funny characters and silly situations. Dramas tell powerful
+		stories about relationships, family, and life’s ups and downs that really connect with viewers.
+		And let’s not forget the musicals, which are famous for their colorful dance numbers and catchy
+		songs that make the movies lively and fun. Discover these amazing genres and more on MKVCinemas.
+	</p>
+</div>
+
+<div class="mx-auto pb-10">
 	<h2 class="text-center text-3xl font-bold mb-8">Mkvcinemas Telugu Movies 2024</h2>
 	<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 		<!-- Movie Card -->
@@ -248,235 +474,27 @@
 	</p>
 </div>
 
-<!-- Bolywood Movies -->
-<div class="mx-auto pb-10">
-	<h2 class="text-center text-3xl font-bold mb-8">Bollywood Movies</h2>
-	<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-		<!-- Movie Card -->
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/12th-fail">
-				<img
-					src="/i/12th-fail.webp"
-					alt="12th Fail"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">12th Fail</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/stree-2">
-				<img
-					src="/i/stree-2.webp"
-					alt="Stree 2"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Stree 2</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/khel-khel-mein">
-				<img
-					src="/i/khel-khel-mein.webp"
-					alt="Khel Khel Mein"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Khel Khel Mein</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/bhool-bhulaiyaa-3">
-				<img
-					src="/i/bhool-bhulaiyaa-3.webp"
-					alt="bhool-bhulaiyaa-3"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Bhool Bhulaiyaa 3</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/welcome-to-the-jungle">
-				<img
-					src="/i/welcome-to-the-jungle.webp"
-					alt="Welcome to the Jungle"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Welcome to the Jungle</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/pushpa-the-rule-part-2">
-				<img
-					src="/i/pushpa-the-rule-part-2.webp"
-					alt="pushpa-the-rule-part-2"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Pushpa The Rule</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/sarfira">
-				<img
-					src="/i/sarfira.webp"
-					alt="Sarfira"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Sarfira</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/the-sabarmati-report">
-				<img
-					src="/i/the-sabarmati-report.webp"
-					alt="The Sabarmati Report"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">The Sabarmati Report</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/maidaan">
-				<img
-					src="/i/maidaan.webp"
-					alt="Maidaan"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Maidaan</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/amaran">
-				<img
-					src="/i/amaran.webp"
-					alt="amaran"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Amaran</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/singham-again">
-				<img
-					src="/i/singham-again.webp"
-					alt="singham again"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Singham Again</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/vedaa">
-				<img
-					src="/i/vedaa.webp"
-					alt="Vedaa"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Vedaa</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-	</div>
-	<p class="paragraph">
-		Bollywood movies, based in Mumbai, is the largest film industry in India and one of the biggest
-		in the world. Known for its vibrant storytelling, catchy music, and colorful dance sequences,
-		Bollywood movies have captured the hearts of audiences both in India and around the globe.
-	</p>
-	<p class="paragraph">
-		Bollywood movies are loved for many reasons. They often combine action, drama, romance, and
-		comedy into one film, creating a unique viewing experience. Whether you enjoy watching
-		heartwarming love stories, thrilling action scenes, or funny comedies, Bollywood has something
-		for everyone.
-	</p>
-	<p class="paragraph">
-		Bollywood movies come in many exciting genres, each offering something special. If you love love
-		stories, romantic films will make you laugh and cry. Action movies are filled with thrilling
-		stunts and intense fight scenes that keep you on the edge of your seat. For a good laugh,
-		Bollywood comedies are packed with funny characters and silly situations. Dramas tell powerful
-		stories about relationships, family, and life’s ups and downs that really connect with viewers.
-		And let’s not forget the musicals, which are famous for their colorful dance numbers and catchy
-		songs that make the movies lively and fun. Discover these amazing genres and more on MKVCinemas.
-	</p>
-</div>
-
 <!-- Tamil Movies Container -->
 <div class="mx-auto pb-10">
 	<h2 class="text-center text-3xl font-bold mb-8">Mkvcinemas Tamil Movies</h2>
 	<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 		<!-- Movie Card -->
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/viduthalai-part-2">
+				<img
+					src="/i/viduthalai-part-2.webp"
+					alt="Viduthalai Part - 2"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Viduthalai Part - 2</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
 		<div
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
@@ -511,7 +529,7 @@
 			</a>
 		</div>
 
-		<div
+		<!-- <div
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
 			<a href="/raayan">
@@ -526,7 +544,7 @@
 				<p class="movi-name">Raayan</p>
 				<p class="year-btn">2024</p>
 			</a>
-		</div>
+		</div> -->
 
 		<div
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
@@ -544,23 +562,6 @@
 				<p class="year-btn">2024</p>
 			</a>
 		</div>
-
-		<!-- <div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/lover">
-				<img
-					src="/i/lover.webp"
-					alt="Lover"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Lover</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div> -->
 	</div>
 	<p class="paragraph">
 		Tamil cinema is known for its unique blend of genres and strong narratives. Whether it's
@@ -580,6 +581,22 @@
 	<h2 class="text-center text-3xl font-bold mb-8">Kannada Movies</h2>
 	<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 		<!-- Movie Card -->
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/ui">
+				<img
+					src="/i/ui.webp"
+					alt="UI movie"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">UI</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
 		<div
 			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 		>
@@ -695,23 +712,6 @@
 					loading="lazy"
 				/>
 				<p class="movi-name">Blink</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/karataka-damanaka">
-				<img
-					src="/i/karataka-damanaka.webp"
-					alt="Karataka Damanaka"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Karataka Damanaka</p>
 				<p class="year-btn">2024</p>
 			</a>
 		</div>

@@ -1,6 +1,6 @@
 ---
 title: Pushpa The Rule - Part 2
-date: '2024-12-11'
+date: '2024-12-20'
 draft: false
 summary: 'Pushpa: The Rule - Part 2 – release date, cast, story, and more. Discover what fans can expect from this epic sequel'
 image: /i/pushpa-the-rule-part-2.webp
@@ -57,14 +57,23 @@ Originally scheduled for August 15, 2024, the film’s release was postponed to 
 
 ## 7. Pushpa 2 Box Office Success
 
-Pushpa: The Rule achieved a major milestone at the box office. It became the fastest Indian movie to cross the ₹1000 crore mark worldwide in just six days. Below is the breakdown of its record-setting performance:
+Pushpa 2 Box Office Collection: The film has collected over ₹990 crore net at the box office in India, with ₹725.8 crore net in its first-week run. On its 15th day, it made approximately ₹15.97 crore net, bringing its total to around ₹988.92 crore net.
 
-- Day 0 + 1 (Worldwide): ₹294 crore (gross)
-- Day 2: ₹449 crore
-- Day 3: ₹621 crore
-- Day 4: ₹829 crore
-- Day 5: ₹922 crore
-- Day 6: ₹1000 crore +
+- Day 1: ₹162.45 crore
+- Day 2: ₹143.95 crore
+- Day 3: ₹135.55 crore
+- Day 4: ₹128.15 crore
+- Day 5: ₹123.45 crore
+- Day 6: ₹118.95 crore
+- Day 7: ₹115.35 crore
+- Day 8: ₹105.55 crore
+- Day 9: ₹98.15 crore
+- Day 10: ₹93.45 crore
+- Day 11: ₹88.95 crore
+- Day 12: ₹85.35 crore
+- Day 13: ₹82.15 crore
+- Day 14: ₹20.45 crore
+- Day 15: ₹15.35 crore
 
 The film also became the highest-opening Indian movie in Australia and New Zealand. Globally, Pushpa 2 collected $97.7 million during its first extended weekend. In the US, it earned nearly $5 million, ranking fifth at the box office. The film's success comes from strong performances in the Telugu and Hindi markets, surpassing the opening records of RRR and Baahubali 2.
 
