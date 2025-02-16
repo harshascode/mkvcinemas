@@ -41,34 +41,33 @@
 			<div
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
-				<a href="/12th-fail">
+				<a href="/chhaava">
 					<img
-						src="/i/12th-fail.webp"
-						alt="12th Fail"
+						src="/i/chhaava.webp"
+						alt="Chhaava"
 						width="1200"
 						height="628"
 						class="rounded-sm mb-4"
 						loading="lazy"
 					/>
-					<p class="movi-name">12th Fail</p>
-					<p class="year-btn">2024</p>
+					<p class="movi-name">Chhaava</p>
+					<p class="year-btn">2025</p>
 				</a>
 			</div>
-
 			<div
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
-				<a href="/stree-2">
+				<a href="/sky-force">
 					<img
-						src="/i/stree-2.webp"
-						alt="Stree 2"
+						src="/i/sky-force.webp"
+						alt="Sky Force"
 						width="1200"
 						height="628"
 						class="rounded-sm mb-4"
 						loading="lazy"
 					/>
-					<p class="movi-name">Stree 2</p>
-					<p class="year-btn">2024</p>
+					<p class="movi-name">Sky Force</p>
+					<p class="year-btn">2025</p>
 				</a>
 			</div>
 
@@ -134,6 +133,40 @@
 						loading="lazy"
 					/>
 					<p class="movi-name">Pushpa The Rule</p>
+					<p class="year-btn">2024</p>
+				</a>
+			</div>
+
+			<div
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			>
+				<a href="/12th-fail">
+					<img
+						src="/i/12th-fail.webp"
+						alt="12th Fail"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+						loading="lazy"
+					/>
+					<p class="movi-name">12th Fail</p>
+					<p class="year-btn">2024</p>
+				</a>
+			</div>
+
+			<div
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			>
+				<a href="/stree-2">
+					<img
+						src="/i/stree-2.webp"
+						alt="Stree 2"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+						loading="lazy"
+					/>
+					<p class="movi-name">Stree 2</p>
 					<p class="year-btn">2024</p>
 				</a>
 			</div>
