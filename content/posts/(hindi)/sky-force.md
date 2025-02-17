@@ -2,7 +2,7 @@
 title: Sky Force
 date: '2025-02-16'
 draft: false
-summary: 'Sky Force movie review: Akshay Kumar leads an intense war drama on India's 1965 airstrike. Story, cast, review, and more.'
+summary: 'Sky Force movie review: Akshay Kumar leads an intense war drama on Indias 1965 airstrike. Story, cast, review, and more.'
 image: /i/sky-force.webp
 tags:
   - Hindi
