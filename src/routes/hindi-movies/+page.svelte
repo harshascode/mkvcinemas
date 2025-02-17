@@ -39,6 +39,38 @@
 		<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 			<!-- Movie Card -->
 			<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/chhaava">
+				<img
+					src="/i/chhaava.webp"
+					alt="Chhaava"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Chhaava</p>
+				<p class="year-btn">2025</p>
+			</a>
+		</div>
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/sky-force">
+				<img
+					src="/i/sky-force.webp"
+					alt="Sky Force"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Sky Force</p>
+				<p class="year-btn">2025</p>
+			</a>
+		</div>
+			<div
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>
 				<a href="/12th-fail">
