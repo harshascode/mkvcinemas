@@ -20,19 +20,17 @@ export async function GET() {
 
 const sitemap = (posts, pages) => `<?xml version="1.0" encoding="UTF-8" ?>
   <urlset
-    xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   >
     <url>
       <loc>${config.siteUrl}</loc>
-      <changefreq>daily</changefreq>
-      <priority>0.7</priority>
+      <priority>0.8</priority>
     </url>
     ${pages
 			.map(
 				(page) => `
     <url>
       <loc>${config.siteUrl}/${trimSlash(page.href)}</loc>
-      <changefreq>daily</changefreq>
       <priority>0.7</priority>
     </url>
     `
@@ -45,7 +43,6 @@ const sitemap = (posts, pages) => `<?xml version="1.0" encoding="UTF-8" ?>
 					: `
     <url>
       <loc>${config.siteUrl}/${post.slug}</loc>
-      <changefreq>daily</changefreq>
       <priority>0.7</priority>
     </url>
     `
