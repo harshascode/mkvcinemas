@@ -27,7 +27,7 @@ Ellige Payana Yavudo Daari is a Kannada thriller film set against the beautiful 
 | **Choreography** | Jeevan Hallikar                    |
 | **Singer**       | Kiccha Sudeep                      |
 
-<a href="https://www.profitablecpmrate.com/zht8552qct?key=dd3a0d3c76c4f58956dd24d2605f1413">
+<a href="https://mkvcinemas.buzz/bookmarks-list">
   <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
 </a>
 

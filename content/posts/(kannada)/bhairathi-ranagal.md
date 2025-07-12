@@ -26,7 +26,7 @@ The Kannada film industry presented Bhairathi Ranagal, a gripping neo-noir actio
 | **FAQs**                     | Common questions answered about Bhairathi Ranagal and its storyline                     |
 | **Conclusion**               | Final thoughts on Bhairathi Ranagal and its impact on the Kannada film industry         |
 
-<a href="https://www.profitablecpmrate.com/zht8552qct?key=dd3a0d3c76c4f58956dd24d2605f1413">
+<a href="https://mkvcinemas.buzz/bookmarks-list">
   <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
 </a>
 

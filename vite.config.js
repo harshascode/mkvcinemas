@@ -10,7 +10,14 @@ const config = {
 			$utils: path.resolve('./src/utils')
 		}
 	},
-	plugins: [sveltekit(), svg(svgPluginOptions)]
+	plugins: [sveltekit(), svg(svgPluginOptions)],
+
+	server: {
+        allowedHosts: [
+            '.gitpod.io',
+			'.mkvcinemas.buzz'
+        ]
+    }
 };
 
 const svgPluginOptions = {

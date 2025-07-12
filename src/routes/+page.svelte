@@ -11,7 +11,7 @@
 
 <svelte:head>
 	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://mkvcinemas.buzz/#website","url":"https://mkvcinemas.buzz/","name":"mkvCinemas","description":"mkvCinemas PC and Smartphone Movies of Bollywood, Hollywood, Hindi Cartoon, Anime, TV Shows, Web Series at mkvCinemas","publisher":{"@id":"https://mkvcinemas.buzz/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://mkvcinemas.buzz/blog?query={search_term_string}","query-input":"required name=search_term_string"},"inLanguage":"en-US"},{"@type":"Organization","@id":"https://mkvcinemas.buzz/#organization","name":"mkvCinemas","url":"https://mkvcinemas.buzz/","logo":{"@type":"ImageObject","url":"https://www.mkvcinemas.buzz/logo.png","width":180,"height":180,"caption":"mkvCinemas"},"contactPoint":[{"@type":"ContactPoint","contactType":"Customer Support","email":"info@mkvcinemas.buzz","availableLanguage":"en"}]},{"@type":"BreadcrumbList","@id":"https://mkvcinemas.buzz/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://mkvcinemas.buzz/"},{"@type":"ListItem","position":2,"name":"Bollywood Movies","item":"https://mkvcinemas.buzz/hindi-movies"},{"@type":"ListItem","position":3,"name":"Telugu Movies","item":"https://mkvcinemas.buzz/telugu-movies"},{"@type":"ListItem","position":4,"name":"Kannada Movies","item":"https://mkvcinemas.buzz/kannada-movies"},{"@type":"ListItem","position":5,"name":"Tamil Movies","item":"https://mkvcinemas.buzz/tamil-movies"},{"@type":"ListItem","position":6,"name":"OTT Bookmarks","item":"https://mkvcinemas.buzz/bookmarks-list"}]}]}</script>
-	<script type="text/javascript" src="//pl24807966.profitablecpmrate.com/2d/12/60/2d12602921125a92309d8a6bacf0b97c.js"></script>
+	<!-- <script type="text/javascript" src="//pl24807966.profitablecpmrate.com/2d/12/60/2d12602921125a92309d8a6bacf0b97c.js"></script> -->
 </svelte:head>
 
 <Middlebox />
@@ -32,8 +32,225 @@
 
 <!-- <Blogs title="Latest Posts" h2 {posts} search={false} count={15} /> -->
 
-<!-- Bolywood Movies -->
 <div class="mx-auto py-10">
+	<h2 class="text-center text-3xl font-bold mb-8">Mkvcinemas Telugu Movies 2024</h2>
+	<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+		<!-- Movie Card -->
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/kalki-2898-ad">
+				<img
+					src="/i/kalki-2898-ad.webp"
+					alt="Kalki 2898 AD"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Kalki 2898 AD</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/maharaja">
+				<img
+					src="/i/maharaja.webp"
+					alt="Maharaja"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Maharaja</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/rrr">
+				<img
+					src="/i/rrr.webp"
+					alt="RRR"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">RRR</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/aho-vikramaarka">
+				<img
+					src="/i/aho-vikramaarka.webp"
+					alt="Aho Vikramaarka"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Aho Vikramaarka</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/buddy">
+				<img
+					src="/i/buddy.webp"
+					alt="Buddy (2024)"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Buddy (2024)</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/devara-part1">
+				<img
+					src="/i/devara-part1.webp"
+					alt="Devara Part- 1"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Devara Part- 1</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/double-ismart">
+				<img
+					src="/i/double-ismart.webp"
+					alt="Double iSmart"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Double iSmart</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/family-star">
+				<img
+					src="/i/family-star.webp"
+					alt="Family Star"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Family Star</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/kalinga">
+				<img
+					src="/i/kalinga.webp"
+					alt="Kalinga"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Kalinga</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/manamey">
+				<img
+					src="/i/manamey.webp"
+					alt="Manamey"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Manamey</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/mr-bachchan">
+				<img
+					src="/i/mr-bachchan.webp"
+					alt="Mr. Bachchan"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Mr. Bachchan</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+		<div
+			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+		>
+			<a href="/prasanna-vadanam">
+				<img
+					src="/i/prasanna-vadanam.webp"
+					alt="Prasanna Vadanam"
+					width="1200"
+					height="628"
+					class="rounded-sm mb-4"
+					loading="lazy"
+				/>
+				<p class="movi-name">Prasanna Vadanam</p>
+				<p class="year-btn">2024</p>
+			</a>
+		</div>
+	</div>
+
+	<p class="paragraph">
+		Telugu cinema, often referred to as Tollywood, has become a significant part of Indian cinema
+		and is loved by audiences worldwide. Whether it’s the action-packed thrillers, emotional dramas,
+		or family-friendly comedies, Telugu movies offer something for everyone. At MKVCinemas, we
+		provide an easy way for you to stream the latest and greatest Telugu films and read insightful
+		reviews that help you decide what to watch next.
+	</p>
+	<p class="paragraph">
+		Mkvcinemas makes streaming Telugu movies effortless and fun. From the latest blockbusters to
+		timeless classics, our platform ensures you’ll find your favorite films in no time. Plus, our
+		movie reviews help you pick the perfect film for your next watch.
+	</p>
+</div>
+
+<!-- Bolywood Movies -->
+<div class="mx-auto pb-10">
 	<h2 class="text-center text-3xl font-bold mb-8">Mkvcinemas Hindi Movies</h2>
 	<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 		<!-- Movie Card -->
@@ -286,223 +503,6 @@
 		stories about relationships, family, and life’s ups and downs that really connect with viewers.
 		And let’s not forget the musicals, which are famous for their colorful dance numbers and catchy
 		songs that make the movies lively and fun. Discover these amazing genres and more on MKVCinemas.
-	</p>
-</div>
-
-<div class="mx-auto pb-10">
-	<h2 class="text-center text-3xl font-bold mb-8">Mkvcinemas Telugu Movies 2024</h2>
-	<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-		<!-- Movie Card -->
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/kalki-2898-ad">
-				<img
-					src="/i/kalki-2898-ad.webp"
-					alt="Kalki 2898 AD"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Kalki 2898 AD</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/maharaja">
-				<img
-					src="/i/maharaja.webp"
-					alt="Maharaja"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Maharaja</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/rrr">
-				<img
-					src="/i/rrr.webp"
-					alt="RRR"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">RRR</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/aho-vikramaarka">
-				<img
-					src="/i/aho-vikramaarka.webp"
-					alt="Aho Vikramaarka"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Aho Vikramaarka</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/buddy">
-				<img
-					src="/i/buddy.webp"
-					alt="Buddy (2024)"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Buddy (2024)</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/devara-part1">
-				<img
-					src="/i/devara-part1.webp"
-					alt="Devara Part- 1"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Devara Part- 1</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/double-ismart">
-				<img
-					src="/i/double-ismart.webp"
-					alt="Double iSmart"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Double iSmart</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/family-star">
-				<img
-					src="/i/family-star.webp"
-					alt="Family Star"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Family Star</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/kalinga">
-				<img
-					src="/i/kalinga.webp"
-					alt="Kalinga"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Kalinga</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/manamey">
-				<img
-					src="/i/manamey.webp"
-					alt="Manamey"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Manamey</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/mr-bachchan">
-				<img
-					src="/i/mr-bachchan.webp"
-					alt="Mr. Bachchan"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Mr. Bachchan</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/prasanna-vadanam">
-				<img
-					src="/i/prasanna-vadanam.webp"
-					alt="Prasanna Vadanam"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Prasanna Vadanam</p>
-				<p class="year-btn">2024</p>
-			</a>
-		</div>
-	</div>
-
-	<p class="paragraph">
-		Telugu cinema, often referred to as Tollywood, has become a significant part of Indian cinema
-		and is loved by audiences worldwide. Whether it’s the action-packed thrillers, emotional dramas,
-		or family-friendly comedies, Telugu movies offer something for everyone. At MKVCinemas, we
-		provide an easy way for you to stream the latest and greatest Telugu films and read insightful
-		reviews that help you decide what to watch next.
-	</p>
-	<p class="paragraph">
-		Mkvcinemas makes streaming Telugu movies effortless and fun. From the latest blockbusters to
-		timeless classics, our platform ensures you’ll find your favorite films in no time. Plus, our
-		movie reviews help you pick the perfect film for your next watch.
 	</p>
 </div>
 

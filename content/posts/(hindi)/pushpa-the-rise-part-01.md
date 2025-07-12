@@ -29,7 +29,7 @@ Pushpa: The Rise - Part 01 is an action-packed Telugu film that takes viewers on
 | Awards Won         | Mirchi Music Award (Male Vocalist of The Year), SIIMA (Special Jury for Production Design) |
 | Box Office Success | Strong opening day, high occupancy in Tamil theaters                                       |
 
-<a href="https://www.profitablecpmrate.com/zht8552qct?key=dd3a0d3c76c4f58956dd24d2605f1413">
+<a href="https://mkvcinemas.buzz/bookmarks-list">
   <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
 </a>
 

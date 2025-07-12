@@ -29,7 +29,7 @@ Amaran is a stirring new film based on the heroic true story of Major Mukund Var
 | **Producers**    | Kamal Haasan, Sony Pictures International Productions, R. Mahendran |
 | **Music**        | G.V. Prakash Kumar                                                  |
 
-<a href="https://www.profitablecpmrate.com/zht8552qct?key=dd3a0d3c76c4f58956dd24d2605f1413">
+<a href="https://mkvcinemas.buzz/bookmarks-list">
   <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
 </a>
 
