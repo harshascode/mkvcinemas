@@ -6,9 +6,21 @@
 	import IconLinkedin from '$lib/icons/linkedin.svelte';
 	import IconTwitter from '$lib/icons/twitter.svelte';
 
-	export let url = '';
-	export let icon = '';
-	export let small = false;
+	/**
+	 * @typedef {Object} Props
+	 * @property {string} [url]
+	 * @property {string} [icon]
+	 * @property {boolean} [small]
+	 * @property {import('svelte').Snippet} [children]
+	 */
+
+	/** @type {Props} */
+	let {
+		url = '',
+		icon = '',
+		small = false,
+		children
+	} = $props();
 
 	let size = small ? 'w-5' : 'w-7';
 
@@ -25,6 +37,7 @@
 </script>
 
 {#if url}
+	{@const SvelteComponent = svg}
 	<a
 		class="flex gap-x-2 text-gray-500 transition hover:text-primary-600"
 		href={url || '#'}
@@ -32,9 +45,9 @@
 		rel="noreferrer"
 	>
 		<span class="sr-only">{icon}</span>
-		<svelte:component this={svg} class="{size} " />
+		<SvelteComponent class="{size} " />
 		<span>
-			<slot />
+			{@render children?.()}
 		</span>
 	</a>
 {/if}

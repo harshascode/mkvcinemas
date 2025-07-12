@@ -1,7 +1,13 @@
 <script>
-	export let title = 'Title';
-	export let subtitle = '';
-	export let h2 = false;
+	/**
+	 * @typedef {Object} Props
+	 * @property {string} [title]
+	 * @property {string} [subtitle]
+	 * @property {boolean} [h2]
+	 */
+
+	/** @type {Props} */
+	let { title = 'Title', subtitle = '', h2 = false } = $props();
 	let selected = h2 ? 'h2' : 'h1';
 </script>
 

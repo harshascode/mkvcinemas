@@ -2,7 +2,7 @@
 	import Head from '$lib/components/layout/Head.svelte';
 	import Blogs from '$lib/components/Blogs.svelte';
 
-	export let data;
+	let { data } = $props();
 	const posts = data.posts;
 	const tags = data.tags;
 </script>

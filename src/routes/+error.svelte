@@ -7,11 +7,11 @@
 </div>
 
 <!-- <script>
-	import { page } from '$app/stores';
+	import { page } from '$app/state';
 </script>
 
 <div class="py-20 mx-auto w-64 text-center">
-	{#if $page.status === 404}
+	{#if page.status === 404}
 		<h1 class="text-9xl font-bold text-outline">404</h1>
 		<p class="text-2xl font-semibold">Page not found</p>
 	{:else}

@@ -23,10 +23,15 @@
 		{ src: '/img/manoramamax.svg', link: 'https://www.manoramamax.com' }
 	];
 
-	export let title = 'Bookmarks list';
-	export let description =
-		'Mkvcinemas.buzz: Your go-to bookmark site for top free movie streaming platforms, latest Mkvmovies, and must-see reviews and trailers all in one place😎';
-	export let url = 'https://mkvcinemas.buzz/bookmarks-list';
+	/**
+	 * @typedef {Object} Props
+	 * @property {string} [title]
+	 * @property {string} [description]
+	 * @property {string} [url]
+	 */
+
+	/** @type {Props} */
+	let { title = 'Bookmarks list', description = 'Mkvcinemas.buzz: Your go-to bookmark site for top free movie streaming platforms, latest Mkvmovies, and must-see reviews and trailers all in one place😎', url = 'https://mkvcinemas.buzz/bookmarks-list' } = $props();
 </script>
 
 <svelte:head>

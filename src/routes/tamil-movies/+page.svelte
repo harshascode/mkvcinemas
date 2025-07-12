@@ -1,8 +1,13 @@
 <script>
-	export let title = 'Mkvcinemas Tamil Movies Watch online in HD | Mkvcinemas';
-	export let description =
-		'Watch your favorite Tamil movies on Mkvcinemas in 1080p, 720p, 480p, and 4K quality. Enjoy a wide range of films';
-	export let url = 'https://mkvcinemas.buzz/tamil-movies';
+	/**
+	 * @typedef {Object} Props
+	 * @property {string} [title]
+	 * @property {string} [description]
+	 * @property {string} [url]
+	 */
+
+	/** @type {Props} */
+	let { title = 'Mkvcinemas Tamil Movies Watch online in HD | Mkvcinemas', description = 'Watch your favorite Tamil movies on Mkvcinemas in 1080p, 720p, 480p, and 4K quality. Enjoy a wide range of films', url = 'https://mkvcinemas.buzz/tamil-movies' } = $props();
 </script>
 
 <svelte:head>

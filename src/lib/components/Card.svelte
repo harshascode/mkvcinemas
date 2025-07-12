@@ -1,5 +1,5 @@
 <script>
-	export let card;
+	let { card } = $props();
 </script>
 
 <div class="md p-4 md:w-1/2" style="max-width: '544px'">

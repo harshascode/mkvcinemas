@@ -1,12 +1,18 @@
 <script>
-	export let title = 'Mkvcinemas Contact us';
-	export let description = 'Mkvcinemas Contact us';
-	export let url = 'https://mkvcinemas.buzz/contact';
+	/**
+	 * @typedef {Object} Props
+	 * @property {string} [title]
+	 * @property {string} [description]
+	 * @property {string} [url]
+	 */
 
-	let name = '';
-	let email = '';
-	let subject = '';
-	let message = '';
+	/** @type {Props} */
+	let { title = 'Mkvcinemas Contact us', description = 'Mkvcinemas Contact us', url = 'https://mkvcinemas.buzz/contact' } = $props();
+
+	let name = $state('');
+	let email = $state('');
+	let subject = $state('');
+	let message = $state('');
 
 	function handleSubmit(event) {
 		event.preventDefault();
@@ -25,7 +31,7 @@
 
 <div class="flex items-center justify-center p-12">
 	<div class="mx-auto w-full max-w-[550px]">
-		<form on:submit={handleSubmit}>
+		<form onsubmit={handleSubmit}>
 			<div class="mb-5">
 				<label for="name" class="mb-3 block text-base font-medium"> Full Name </label>
 				<input

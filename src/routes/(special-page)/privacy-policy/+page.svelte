@@ -1,7 +1,13 @@
 <script>
-	export let title = 'Mkvcinemas Privacy Policy';
-	export let description = 'Mkvcinemas Privacy Policy';
-	export let url = 'https://mkvcinemas.buzz/privacy-policy';
+	/**
+	 * @typedef {Object} Props
+	 * @property {string} [title]
+	 * @property {string} [description]
+	 * @property {string} [url]
+	 */
+
+	/** @type {Props} */
+	let { title = 'Mkvcinemas Privacy Policy', description = 'Mkvcinemas Privacy Policy', url = 'https://mkvcinemas.buzz/privacy-policy' } = $props();
 </script>
 
 <svelte:head>

@@ -4,6 +4,13 @@
 	import Footer from '$lib/components/layout/Footer.svelte';
 	// import Analytics from '$lib/components/analytics/index.svelte';
 	import '../app.css';
+	/**
+	 * @typedef {Object} Props
+	 * @property {import('svelte').Snippet} [children]
+	 */
+
+	/** @type {Props} */
+	let { children } = $props();
 </script>
 
 <div class="mx-auto max-w-7xl px-4 sm:px-6 xl:max-w-7xl xl:px-0">
@@ -11,7 +18,7 @@
 	<div class="flex h-screen flex-col justify-between">
 		<Header />
 		<main class="mb-auto">
-			<slot />
+			{@render children?.()}
 		</main>
 		<Footer />
 	</div>

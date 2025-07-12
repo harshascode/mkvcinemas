@@ -1,7 +1,7 @@
 <script>
 	import { navLinks } from '$lib/config';
 
-	let isOpen = false;
+	let isOpen = $state(false);
 
 	function toggleDarkMode() {
 		if (isOpen) {
@@ -19,7 +19,7 @@
 		type="button"
 		class="ml-1 mr-1 h-8 w-8 rounded py-1"
 		aria-label="Toggle Menu"
-		on:click={toggleDarkMode}
+		onclick={toggleDarkMode}
 	>
 		<svg
 			xmlns="http://www.w3.org/2000/svg"
@@ -44,7 +44,7 @@
 				type="button"
 				class="mr-5 mt-11 h-8 w-8 rounded"
 				aria-label="Toggle Menu"
-				on:click={toggleDarkMode}
+				onclick={toggleDarkMode}
 			>
 				<svg
 					xmlns="http://www.w3.org/2000/svg"
@@ -66,7 +66,7 @@
 					<a
 						href={link.href}
 						class="text-2xl font-bold tracking-widest text-gray-900 dark:text-gray-100"
-						on:click={toggleDarkMode}
+						onclick={toggleDarkMode}
 					>
 						{link.title}
 					</a>
