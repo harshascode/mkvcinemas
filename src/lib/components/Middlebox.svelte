@@ -8,7 +8,7 @@
 			target="_blank"
 			rel="noopener noreferrer"
 		>
-			v6.0
+			v7.0
 		</a>
 	</div>
 	<h1 class="text-5xl font-extrabold mb-4 text-white text-center">
