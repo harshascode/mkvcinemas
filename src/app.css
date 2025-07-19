@@ -2,13 +2,13 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
-@font-face {
+/* @font-face {
 	font-family: 'Saira';
 	src: url('https://mkvcinemas.buzz/fonts/Saira-Bold.ttf');
 	font-weight: 700;
 	font-style: normal;
 	font-display: swap;
-}
+} */
 
 @layer base {
 	html {
