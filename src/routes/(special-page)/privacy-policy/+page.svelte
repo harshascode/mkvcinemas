@@ -7,7 +7,11 @@
 	 */
 
 	/** @type {Props} */
-	let { title = 'Mkvcinemas Privacy Policy', description = 'Mkvcinemas Privacy Policy', url = 'https://mkvcinemas.buzz/privacy-policy' } = $props();
+	let {
+		title = 'Mkvcinemas Privacy Policy',
+		description = 'Mkvcinemas Privacy Policy',
+		url = 'https://mkvcinemas.buzz/privacy-policy'
+	} = $props();
 </script>
 
 <svelte:head>

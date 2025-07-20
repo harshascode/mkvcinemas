@@ -7,7 +7,11 @@
 	 */
 
 	/** @type {Props} */
-	let { title = 'Mkvcinemas Contact us', description = 'Mkvcinemas Contact us', url = 'https://mkvcinemas.buzz/contact' } = $props();
+	let {
+		title = 'Mkvcinemas Contact us',
+		description = 'Mkvcinemas Contact us',
+		url = 'https://mkvcinemas.buzz/contact'
+	} = $props();
 
 	let name = $state('');
 	let email = $state('');

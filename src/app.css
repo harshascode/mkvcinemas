@@ -2,6 +2,8 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
+@import '@fontsource-variable/saira';
+
 /* @font-face {
 	font-family: 'Saira';
 	src: url('https://mkvcinemas.buzz/fonts/Saira-Bold.ttf');
@@ -20,6 +22,7 @@
 	h3,
 	h4 {
 		@apply font-title font-extrabold;
+		font-family: 'Saira Variable', sans-serif;
 	}
 
 	.task-list-item {

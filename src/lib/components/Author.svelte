@@ -2,7 +2,6 @@
 	import SocialIcon from '$lib/components/SocialIcon.svelte';
 	// import formatDate from '$lib/utils/formatDate';
 
-	
 	/**
 	 * @typedef {Object} Props
 	 * @property {string} [avatar] - export let author = ''; - export let twitter = '';
@@ -10,7 +9,7 @@
 
 	/** @type {Props} */
 	let { avatar = '' } = $props();
-	
+
 	// export let postDate = '';
 </script>
 

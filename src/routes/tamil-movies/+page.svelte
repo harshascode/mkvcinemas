@@ -7,7 +7,11 @@
 	 */
 
 	/** @type {Props} */
-	let { title = 'Mkvcinemas Tamil Movies Watch online in HD | Mkvcinemas', description = 'Watch your favorite Tamil movies on Mkvcinemas in 1080p, 720p, 480p, and 4K quality. Enjoy a wide range of films', url = 'https://mkvcinemas.buzz/tamil-movies' } = $props();
+	let {
+		title = 'Mkvcinemas Tamil Movies Watch online in HD | Mkvcinemas',
+		description = 'Watch your favorite Tamil movies on Mkvcinemas in 1080p, 720p, 480p, and 4K quality. Enjoy a wide range of films',
+		url = 'https://mkvcinemas.buzz/tamil-movies'
+	} = $props();
 </script>
 
 <svelte:head>

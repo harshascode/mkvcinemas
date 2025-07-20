@@ -15,12 +15,7 @@
 	 */
 
 	/** @type {Props} */
-	let {
-		url = '',
-		icon = '',
-		small = false,
-		children
-	} = $props();
+	let { url = '', icon = '', small = false, children } = $props();
 
 	let size = small ? 'w-5' : 'w-7';
 

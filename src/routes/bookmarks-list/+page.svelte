@@ -31,7 +31,11 @@
 	 */
 
 	/** @type {Props} */
-	let { title = 'Bookmarks list', description = 'Mkvcinemas.buzz: Your go-to bookmark site for top free movie streaming platforms, latest Mkvmovies, and must-see reviews and trailers all in one place😎', url = 'https://mkvcinemas.buzz/bookmarks-list' } = $props();
+	let {
+		title = 'Bookmarks list',
+		description = 'Mkvcinemas.buzz: Your go-to bookmark site for top free movie streaming platforms, latest Mkvmovies, and must-see reviews and trailers all in one place😎',
+		url = 'https://mkvcinemas.buzz/bookmarks-list'
+	} = $props();
 </script>
 
 <svelte:head>

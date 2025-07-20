@@ -13,7 +13,7 @@ const config = {
 	plugins: [sveltekit(), svg(svgPluginOptions)],
 
 	server: {
-		allowedHosts: ['.gitpod.io', '.mkvcinemas.buzz', '.netlify.app']
+		allowedHosts: ['.gitpod.io', '.mkvcinemas.buzz', '.netlify.app', '.pages.dev']
 	}
 };
 

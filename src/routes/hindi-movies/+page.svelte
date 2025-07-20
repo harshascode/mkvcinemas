@@ -7,7 +7,11 @@
 	 */
 
 	/** @type {Props} */
-	let { title = 'Mkvcinemas Hindi Movies Watch online in HD', description = 'Watch your favorite mkvCinemas Hindi movies in stunning 1080p, 720p, 480p, and 4K quality. Enjoy a seamless streaming experience with top Bollywood hits', url = 'https://mkvcinemas.buzz/hindi-movies' } = $props();
+	let {
+		title = 'Mkvcinemas Hindi Movies Watch online in HD',
+		description = 'Watch your favorite mkvCinemas Hindi movies in stunning 1080p, 720p, 480p, and 4K quality. Enjoy a seamless streaming experience with top Bollywood hits',
+		url = 'https://mkvcinemas.buzz/hindi-movies'
+	} = $props();
 </script>
 
 <svelte:head>
@@ -44,37 +48,37 @@
 		<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 			<!-- Movie Card -->
 			<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/chhaava">
-				<img
-					src="/i/chhaava.webp"
-					alt="Chhaava"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Chhaava</p>
-				<p class="year-btn">2025</p>
-			</a>
-		</div>
-		<div
-			class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-		>
-			<a href="/sky-force">
-				<img
-					src="/i/sky-force.webp"
-					alt="Sky Force"
-					width="1200"
-					height="628"
-					class="rounded-sm mb-4"
-					loading="lazy"
-				/>
-				<p class="movi-name">Sky Force</p>
-				<p class="year-btn">2025</p>
-			</a>
-		</div>
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			>
+				<a href="/chhaava">
+					<img
+						src="/i/chhaava.webp"
+						alt="Chhaava"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+						loading="lazy"
+					/>
+					<p class="movi-name">Chhaava</p>
+					<p class="year-btn">2025</p>
+				</a>
+			</div>
+			<div
+				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
+			>
+				<a href="/sky-force">
+					<img
+						src="/i/sky-force.webp"
+						alt="Sky Force"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+						loading="lazy"
+					/>
+					<p class="movi-name">Sky Force</p>
+					<p class="year-btn">2025</p>
+				</a>
+			</div>
 			<div
 				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
 			>

@@ -7,7 +7,11 @@
 	 */
 
 	/** @type {Props} */
-	let { title = 'Mkvcinemas Telugu Movies Watch online in HD | Mkvcinemas', description = 'Mkvcinemas Telugu movies in stunning 1080p, 720p, 480p, and 4K quality. Enjoy a vast collection of films available for free streaming', url = 'https://mkvcinemas.buzz/telugu-movies' } = $props();
+	let {
+		title = 'Mkvcinemas Telugu Movies Watch online in HD | Mkvcinemas',
+		description = 'Mkvcinemas Telugu movies in stunning 1080p, 720p, 480p, and 4K quality. Enjoy a vast collection of films available for free streaming',
+		url = 'https://mkvcinemas.buzz/telugu-movies'
+	} = $props();
 </script>
 
 <svelte:head>

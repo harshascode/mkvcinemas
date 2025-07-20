@@ -1,7 +1,6 @@
 <script>
 	import { config } from '$lib/config';
 	import Tag from '$lib/components/Tag.svelte';
-	
 
 	/**
 	 * @typedef {Object} Props
@@ -10,7 +9,6 @@
 
 	/** @type {Props} */
 	let { post } = $props();
-	
 </script>
 
 <div class="mx-auto max-w-5xl px-0 sm:px-4 xl:max-w-5xl xl:px-0">

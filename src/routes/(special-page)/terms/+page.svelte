@@ -7,7 +7,11 @@
 	 */
 
 	/** @type {Props} */
-	let { title = 'Mkvcinemas Terms and Conditions', description = 'Mkvcinemas Terms and Conditions', url = 'https://mkvcinemas.buzz/terms' } = $props();
+	let {
+		title = 'Mkvcinemas Terms and Conditions',
+		description = 'Mkvcinemas Terms and Conditions',
+		url = 'https://mkvcinemas.buzz/terms'
+	} = $props();
 </script>
 
 <svelte:head>
