@@ -1,6 +1,6 @@
 ---
 title: Buddy (2024)
-date: '2024-10-12'
+date: '2025-07-20'
 draft: false
 summary: 'Buddy This Telugu action-comedy, features Allu Sirish.'
 image: /i/buddy.webp

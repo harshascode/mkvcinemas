@@ -1,6 +1,6 @@
 ---
 title: Mr. Bachchan
-date: '2024-10-12'
+date: '2025-07-20'
 draft: false
 summary: 'Get ready to watch "Mr. Bachchan" Discover its plot, cast, and more at mkvcinemas.'
 image: /i/mr-bachchan.webp

@@ -1,6 +1,6 @@
 ---
 title: Bhairathi Ranagal
-date: '2024-11-19'
+date: '2025-07-20'
 draft: false
 summary: 'Bhairathi Ranagal, a 2024 Kannada action thriller. Follow the journey of Bhairathi from lawyer to crime boss in this critically acclaimed film.'
 image: /i/bhairathi-ranagal.webp

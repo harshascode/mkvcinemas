@@ -1,6 +1,6 @@
 ---
 title: Lucky Baskhar
-date: '2024-11-03'
+date: '2025-07-20'
 draft: false
 summary: 'Lucky Baskhar – a gripping crime thriller starring Dulquer Salmaan. Directed by Venky Atluri, it’s a thrilling journey of survival and deception.'
 image: /i/lucky-baskhar.webp

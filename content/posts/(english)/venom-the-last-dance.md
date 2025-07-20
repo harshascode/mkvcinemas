@@ -1,6 +1,6 @@
 ---
 title: Venom The Last Dance
-date: '2024-11-09'
+date: '2025-07-20'
 draft: true
 summary: 'Venom: The Last Dance, released October 25, 2024, concludes the Venom trilogy. Tom Hardy stars in this action-packed superhero film with a $317 million box office performance.'
 image: /i/venom-the-last-dance.webp

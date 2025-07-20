@@ -1,6 +1,6 @@
 ---
 title: Sarfira
-date: '2024-10-15'
+date: '2025-07-20'
 draft: false
 summary: 'Explore Sarfira, a biographical drama starring Akshay Kumar, Discover its inspiring story and cast details'
 image: /i/sarfira.webp

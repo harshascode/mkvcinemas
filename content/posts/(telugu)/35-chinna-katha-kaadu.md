@@ -1,6 +1,6 @@
 ---
 title: 35 – Chinna Katha Kaadu
-date: '2024-10-12'
+date: '2025-07-20'
 draft: false
 summary: '35 – Chinna Katha Kaadu, a heartfelt family drama exploring love and bonds. Releasing September 6, 2024, with a talented cast'
 image: /i/35-chinna-katha-kaadu.webp

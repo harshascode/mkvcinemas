@@ -1,6 +1,6 @@
 ---
 title: 12th Fail
-date: '2024-10-15'
+date: '2025-07-20'
 draft: false
 summary: 'Experience Vikrant Massey best performance in 12th Fail, a gripping tale of determination and the challenges faced by UPSC aspirants.'
 image: /i/12th-fail.webp

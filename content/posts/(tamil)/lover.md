@@ -1,6 +1,6 @@
 ---
 title: Lover
-date: '2024-10-14'
+date: '2025-07-20'
 draft: false
 summary: 'Lover, a Tamil romantic drama that explores modern relationships.'
 image: /i/lover.webp

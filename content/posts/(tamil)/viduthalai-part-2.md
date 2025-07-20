@@ -1,6 +1,6 @@
 ---
 title: Viduthalai Part - 2
-date: '2024-12-21'
+date: '2025-07-20'
 draft: false
 summary: 'Viduthalai Part 2: A gripping Tamil crime thriller by Vetrimaaran, starring Vijay Sethupathi. Bold storytelling on revolution and oppression. '
 image: /i/viduthalai-part-2.webp

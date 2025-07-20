@@ -1,6 +1,6 @@
 ---
 title: Vedaa
-date: '2024-10-14'
+date: '2025-07-20'
 draft: false
 summary: 'Discover the action-packed film "Vedaa" on mkvcinemas Learn about its release date, cast, and more'
 image: /i/vedaa.webp

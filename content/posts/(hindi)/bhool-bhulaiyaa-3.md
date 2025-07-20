@@ -1,6 +1,6 @@
 ---
 title: Bhool Bhulaiyaa 3
-date: '2024-11-27'
+date: '2025-07-20'
 draft: false
 summary: 'Bhool Bhulaiyaa 3 – A hilarious, spooky return to the haunted haveli with Vidya Balan, Kartik Aaryan, and more! Comedy and horror await.'
 image: /i/bhool-bhulaiyaa-3.webp

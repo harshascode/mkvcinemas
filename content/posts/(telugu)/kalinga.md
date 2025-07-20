@@ -1,6 +1,6 @@
 ---
 title: Kalinga
-date: '2024-10-12'
+date: '2025-07-20'
 draft: false
 summary: 'Discover "Kalinga," a gripping Telugu horror film that explores fear and courage.'
 image: /i/kalinga.webp

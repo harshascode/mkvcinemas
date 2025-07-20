@@ -1,6 +1,6 @@
 ---
 title: Vettaiyan
-date: '2024-11-03'
+date: '2025-07-20'
 draft: false
 summary: 'Vettaiyan (2024), starring Rajinikanth, is an action-packed drama exploring justice and redemption.'
 image: /i/vettaiyan.webp

@@ -1,6 +1,6 @@
 ---
 title: Blink
-date: '2024-10-16'
+date: '2025-07-20'
 draft: false
 summary: 'Discover the gripping time-travel drama Blink, where Dheekshith Shetty navigates past mysteries in a captivating narrative'
 image: /i/blink.webp

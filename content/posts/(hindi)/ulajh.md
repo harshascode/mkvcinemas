@@ -1,6 +1,6 @@
 ---
 title: Ulajh
-date: '2024-10-15'
+date: '2025-07-20'
 draft: false
 summary: 'Discover the political spy thriller Ulajh starring Janhvi Kapoor. Read our review online on MKVCinemas'
 image: /i/ulajh.webp

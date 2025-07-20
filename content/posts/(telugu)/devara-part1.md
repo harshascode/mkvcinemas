@@ -1,6 +1,6 @@
 ---
 title: Devara Part- 1
-date: '2024-10-12'
+date: '2025-07-20'
 draft: false
 summary: 'Devara Part-1 takes viewers on an epic journey filled with action, drama, and stunning visuals, exploring themes of loyalty and sacrifice. Dont miss it'
 image: /i/devara-part1.webp

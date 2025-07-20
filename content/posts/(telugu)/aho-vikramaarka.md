@@ -1,6 +1,6 @@
 ---
 title: Aho Vikramaarka
-date: '2024-10-12'
+date: '2025-07-20'
 draft: false
 summary: 'Explore "Aho Vikramaarka," a thrilling South Indian crime drama flim'
 image: /i/aho-vikramaarka.webp

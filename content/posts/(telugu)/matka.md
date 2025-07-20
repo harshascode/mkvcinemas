@@ -1,6 +1,6 @@
 ---
 title: Matka
-date: '2024-11-19'
+date: '2025-07-20'
 draft: false
 summary: 'Matka is a Telugu period thriller about Vasu’s rise in the gambling world, facing love, ambition, and moral dilemmas. Directed by Karuna Kumar.'
 image: /i/matka.webp

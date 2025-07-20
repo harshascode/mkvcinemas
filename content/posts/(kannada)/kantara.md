@@ -1,6 +1,6 @@
 ---
 title: Kantara
-date: '2024-10-16'
+date: '2025-07-20'
 draft: false
 summary: 'Experience Rishab Shetty,s Kantara, a stunning blend of action and mythology rooted in Indian culture!'
 image: /i/kantara.webp

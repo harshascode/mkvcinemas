@@ -1,6 +1,6 @@
 ---
 title: Mufasa The Lion King
-date: '2024-11-09'
+date: '2025-07-20'
 draft: true
 summary: 'Disneys Mufasa: The Lion King, releasing Dec 20, 2024. Discover Mufasa’s untold backstory, voice cast, and special dedication to James Earl Jones.'
 image: /i/mufasa-the-lion-king.webp

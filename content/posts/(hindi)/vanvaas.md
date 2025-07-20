@@ -1,6 +1,6 @@
 ---
 title: Vanvaas
-date: '2024-12-20'
+date: '2025-07-20'
 draft: false
 summary: 'Vanvaas (2024): A poignant family drama about an aging father, dementia, and redemption. Starring Nana Patekar, releasing December 20. Discover the story'
 image: /i/vanvaas.webp

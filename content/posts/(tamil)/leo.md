@@ -1,6 +1,6 @@
 ---
 title: Leo
-date: '2024-12-02'
+date: '2025-07-20'
 draft: false
 summary: 'Leo is an Indian Tamil action-thriller starring Vijay. Read about its story, cast, review, and why this film is a must-watch for action lovers!'
 image: /i/leo.webp

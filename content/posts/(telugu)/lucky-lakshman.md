@@ -1,6 +1,6 @@
 ---
 title: Lucky Lakshman
-date: '2024-10-31'
+date: '2025-07-20'
 draft: false
 summary: 'Lucky Lakshman, a heartfelt Telugu drama about life’s ups and downs, featuring a talented cast and an inspiring storyline.'
 image: /i/lucky-lakshman.webp

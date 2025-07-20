@@ -1,6 +1,6 @@
 ---
 title: Shakhahaari
-date: '2024-10-16'
+date: '2025-07-20'
 draft: false
 summary: 'Dive into the gripping crime thriller Shakhahaari, directed by Sandeep Sunkad. Explore the intertwining lives of its lead characters in this Kannada film'
 image: /i/shakhahaari.webp

@@ -1,6 +1,6 @@
 ---
 title: Amaran
-date: '2024-10-31'
+date: '2025-07-20'
 draft: false
 summary: 'Amaran – The true story of Major Mukund Varadarajan, an Indian Army hero. Featuring Sivakarthikeyan and Sai Pallavi, a must-watch emotional drama'
 image: /i/amaran.webp

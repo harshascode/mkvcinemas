@@ -1,6 +1,6 @@
 ---
 title: Sookshmadarshini
-date: '2024-12-01'
+date: '2025-07-20'
 draft: true
 summary: 'Sookshmadarshini is a gripping Malayalam thriller with humor, suspense, and a clever narrative. Discover this engaging story of mystery and curiosity.'
 image: /i/sookshmadarshini.webp

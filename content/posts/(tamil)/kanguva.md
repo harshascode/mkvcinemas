@@ -1,6 +1,6 @@
 ---
 title: Kanguva
-date: '2024-11-09'
+date: '2025-07-20'
 draft: false
 summary: 'Kanguva, a Tamil fantasy action film starring Suriya, releases Nov 14, 2024. Explore its storyline, cast, and release details across eight languages.'
 image: /i/kanguva.webp

@@ -1,6 +1,6 @@
 ---
 title: Welcome to the Jungle
-date: '2024-11-19'
+date: '2025-07-20'
 draft: false
 summary: 'Welcome to the Jungle, a Hindi comedy with a star-studded cast including Akshay Kumar, Sanjay Dutt, and Raveena Tandon. Directed by Ahmed Khan, this movie promises a thrilling blend of humor and action.'
 image: /i/welcome-to-the-jungle.webp

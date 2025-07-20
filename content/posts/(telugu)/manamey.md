@@ -1,6 +1,6 @@
 ---
 title: Manamey
-date: '2024-10-12'
+date: '2025-07-20'
 draft: false
 summary: 'Experience "Manamey," a touching Telugu romantic drama that explores love and responsibility.'
 image: /i/manamey.webp

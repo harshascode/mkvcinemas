@@ -1,6 +1,6 @@
 ---
 title: Martin
-date: '2024-10-16'
+date: '2025-07-20'
 draft: false
 summary: 'Get ready for "Martin," the action-packed film releasing on October 11, 2024. Explore its thrilling story, star cast, and more'
 image: /i/martin.webp

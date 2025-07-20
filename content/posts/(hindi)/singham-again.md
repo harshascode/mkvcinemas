@@ -1,6 +1,6 @@
 ---
 title: Singham Again
-date: '2024-11-27'
+date: '2025-07-20'
 draft: false
 summary: 'Singham Again - Join Bajirao Singham on a thrilling mission to save his wife. Featuring Ajay Devgn, Kareena Kapoor, and more, this is action at its best'
 image: /i/singham-again.webp

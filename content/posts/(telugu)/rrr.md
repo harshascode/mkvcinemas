@@ -1,6 +1,6 @@
 ---
 title: RRR
-date: '2024-12-11'
+date: '2025-07-20'
 draft: false
 summary: 'RRR Movie, cast, story, and more. RRR is a Indian historical action drama directed by S. S. Rajamouli.'
 image: /i/rrr.webp

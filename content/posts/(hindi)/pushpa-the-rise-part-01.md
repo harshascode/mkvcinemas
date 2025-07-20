@@ -1,6 +1,6 @@
 ---
 title: Pushpa The Rise - Part 01
-date: '2024-12-02'
+date: '2025-07-20'
 draft: false
 summary: 'Pushpa: The Rise - Part 01 is a thrilling Telugu drama about ambition, smuggling, and resilience. Starring Allu Arjun, it’s a cinematic powerhouse'
 image: /i/pushpa-the-rise-part-01.webp

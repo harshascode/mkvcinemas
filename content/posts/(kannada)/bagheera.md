@@ -1,6 +1,6 @@
 ---
 title: Bagheera
-date: '2024-11-03'
+date: '2025-07-20'
 draft: false
 summary: 'Bagheera – Experience an action-packed thriller with Srii Murali and Prakash Raj, directed by Dr. Suri. A captivating journey of justice awaits'
 image: /i/bagheera.webp

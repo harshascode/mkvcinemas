@@ -1,6 +1,6 @@
 ---
 title: Moana 2
-date: '2024-12-02'
+date: '2025-07-20'
 draft: true
 summary: 'Moana 2 is a thrilling sequel with stunning visuals, heartwarming music, and a bold new adventure.'
 image: /i/moana-2.webp

@@ -1,6 +1,6 @@
 ---
 title: Chhaava
-date: '2025-02-16'
+date: '2025-07-20'
 draft: false
 summary: 'Chhaava movie review: A historical drama about Maratha king Sambhaji, starring Vicky Kaushal. Cast, story, box office, and more in simple words.'
 image: /i/chhaava.webp

@@ -1,6 +1,6 @@
 ---
 title: Karataka Damanaka
-date: '2024-10-16'
+date: '2025-07-20'
 draft: false
 summary: 'Enjoy the masala entertainer Karataka Damanaka, featuring Shivarajkumar and Prabhu Deva'
 image: /i/karataka-damanaka.webp

@@ -1,6 +1,6 @@
 ---
 title: The Sabarmati Report
-date: '2024-11-14'
+date: '2025-07-20'
 draft: false
 summary: 'The Sabarmati Report is a gripping 2024 Hindi thriller about a journalist exposing the truth behind the Godhra train tragedy.'
 image: /i/the-sabarmati-report.webp

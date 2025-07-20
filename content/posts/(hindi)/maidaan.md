@@ -1,6 +1,6 @@
 ---
 title: Maidaan
-date: '2024-10-15'
+date: '2025-07-20'
 draft: false
 summary: 'Explore the inspiring story of Maidaan, featuring Ajay Devgn as Syed Abdul Rahim. This biographical sports drama highlights the golden era of Indian football.'
 image: /i/maidaan.webp

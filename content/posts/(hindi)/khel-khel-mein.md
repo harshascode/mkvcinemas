@@ -1,6 +1,6 @@
 ---
 title: Khel Khel Mein
-date: '2024-10-15'
+date: '2025-07-20'
 draft: false
 summary: 'Khel Khel Mein, a romantic-comedy film featuring Akshay Kumar and Taapsee Pannu. Read our review and find streaming info on mkvcinemas.'
 image: /i/khel-khel-mein.webp

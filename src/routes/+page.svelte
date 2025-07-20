@@ -33,7 +33,7 @@
 <!-- <Blogs title="Latest Posts" h2 {posts} search={false} count={15} /> -->
 
 <div class="mx-auto py-10">
-	<h2 class="text-center text-3xl font-bold mb-8">Mkvcinemas Telugu Movies 2024</h2>
+	<h2 class="text-center text-3xl font-bold mb-8">Mkvcinemas Telugu Movies 2025</h2>
 	<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 		<!-- Movie Card -->
 		<div

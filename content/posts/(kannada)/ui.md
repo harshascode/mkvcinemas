@@ -1,6 +1,6 @@
 ---
 title: UI
-date: '2024-12-20'
+date: '2025-07-20'
 draft: false
 summary: 'UI (2024): A dystopian sci-fi thriller by Upendra, exploring power struggles and societal issues. Bold, thought-provoking, and action-packed.'
 image: /i/ui.webp

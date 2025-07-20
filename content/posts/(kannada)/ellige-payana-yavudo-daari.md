@@ -1,6 +1,6 @@
 ---
 title: Ellige Payana Yavudo Daari
-date: '2024-10-31'
+date: '2025-07-20'
 draft: false
 summary: 'Ellige Payana Yavudo Daari – A suspenseful Kannada thriller about love, revenge, and psychology in a mountainous town.'
 image: /i/ellige-payana-yavudo-daari.webp

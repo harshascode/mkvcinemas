@@ -1,6 +1,6 @@
 ---
 title: Prasanna Vadanam
-date: '2024-10-12'
+date: '2025-07-20'
 draft: false
 summary: 'Prasanna Vadanam delivers a decent thriller experience, with standout performances by Suhas and Rashi Singh.'
 image: /i/prasanna-vadanam.webp

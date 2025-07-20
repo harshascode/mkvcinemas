@@ -1,6 +1,6 @@
 ---
 title: Maharaja
-date: '2024-10-12'
+date: '2025-07-20'
 draft: false
 summary: 'Maharaja is an essential addition to the action thriller genre, celebrating the power of storytelling.'
 image: /i/maharaja.webp
