@@ -60,10 +60,8 @@
 	.movi-name {
 		@apply text-sm font-semibold mb-2;
 	}
+
+	.movie-card {
+		@apply p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer;
+	}
 }
-
-/* @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Saira:wght@700&display=swap'); */
-/* @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&family=Saira:wght@700&display=swap'); */
-/* @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Saira:wght@700&display=swap'); */
-
-/* @import url('https://fonts.googleapis.com/css2?family=Saira:wght@700&display=swap'); */

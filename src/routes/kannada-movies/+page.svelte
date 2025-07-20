@@ -47,9 +47,7 @@
 		<h2 class="text-center text-3xl font-bold mb-8">Kannada Movies</h2>
 		<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 			<!-- Movie Card -->
-			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
+			<div class="movie-card">
 				<a href="/ui">
 					<img
 						src="/i/ui.webp"
@@ -63,9 +61,7 @@
 					<p class="year-btn">2024</p>
 				</a>
 			</div>
-			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
+			<div class="movie-card">
 				<a href="/kantara">
 					<img
 						src="/i/kantara.webp"
@@ -80,9 +76,7 @@
 				</a>
 			</div>
 
-			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
+			<div class="movie-card">
 				<a href="/bhairathi-ranagal">
 					<img
 						src="/i/bhairathi-ranagal.webp"
@@ -97,9 +91,7 @@
 				</a>
 			</div>
 
-			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
+			<div class="movie-card">
 				<a href="/shakhahaari">
 					<img
 						src="/i/shakhahaari.webp"
@@ -114,9 +106,7 @@
 				</a>
 			</div>
 
-			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
+			<div class="movie-card">
 				<a href="/bagheera">
 					<img
 						src="/i/bagheera.webp"
@@ -131,9 +121,7 @@
 				</a>
 			</div>
 
-			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
+			<div class="movie-card">
 				<a href="/martin">
 					<img
 						src="/i/martin.webp"
@@ -148,9 +136,7 @@
 				</a>
 			</div>
 
-			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
+			<div class="movie-card">
 				<a href="/pepe">
 					<img
 						src="/i/pepe.webp"
@@ -165,9 +151,7 @@
 				</a>
 			</div>
 
-			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
+			<div class="movie-card">
 				<a href="/blink">
 					<img
 						src="/i/blink.webp"
@@ -182,9 +166,7 @@
 				</a>
 			</div>
 
-			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
+			<div class="movie-card">
 				<a href="/karataka-damanaka">
 					<img
 						src="/i/karataka-damanaka.webp"
@@ -198,9 +180,7 @@
 					<p class="year-btn">2024</p>
 				</a>
 			</div>
-			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
+			<div class="movie-card">
 				<a href="/ellige-payana-yavudo-daari">
 					<img
 						src="/i/ellige-payana-yavudo-daari.webp"

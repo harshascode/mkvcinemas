@@ -47,9 +47,35 @@
 		<h2 class="text-center text-3xl font-bold mb-8">Bollywood Movies</h2>
 		<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 			<!-- Movie Card -->
-			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
+			<div class="movie-card">
+				<a href="/jurassic-world-rebirth">
+					<img
+						src="/i/jurassic-world-rebirth.webp"
+						alt="Jurassic World: Rebirth"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+						loading="lazy"
+					/>
+					<p class="movi-name">Jurassic World: Rebirth</p>
+					<p class="year-btn">2025</p>
+				</a>
+			</div>
+			<div class="movie-card">
+				<a href="/saiyaara">
+					<img
+						src="/i/saiyaara.webp"
+						alt="Saiyaara"
+						width="1200"
+						height="628"
+						class="rounded-sm mb-4"
+						loading="lazy"
+					/>
+					<p class="movi-name">Saiyaara</p>
+					<p class="year-btn">2025</p>
+				</a>
+			</div>
+			<div class="movie-card">
 				<a href="/chhaava">
 					<img
 						src="/i/chhaava.webp"
@@ -63,9 +89,7 @@
 					<p class="year-btn">2025</p>
 				</a>
 			</div>
-			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
+			<div class="movie-card">
 				<a href="/sky-force">
 					<img
 						src="/i/sky-force.webp"
@@ -79,9 +103,7 @@
 					<p class="year-btn">2025</p>
 				</a>
 			</div>
-			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
+			<div class="movie-card">
 				<a href="/12th-fail">
 					<img
 						src="/i/12th-fail.webp"
@@ -96,9 +118,7 @@
 				</a>
 			</div>
 
-			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
+			<div class="movie-card">
 				<a href="/stree-2">
 					<img
 						src="/i/stree-2.webp"
@@ -113,9 +133,7 @@
 				</a>
 			</div>
 
-			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
+			<div class="movie-card">
 				<a href="/khel-khel-mein">
 					<img
 						src="/i/khel-khel-mein.webp"
@@ -130,9 +148,7 @@
 				</a>
 			</div>
 
-			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
+			<div class="movie-card">
 				<a href="/bhool-bhulaiyaa-3">
 					<img
 						src="/i/bhool-bhulaiyaa-3.webp"
@@ -146,9 +162,7 @@
 					<p class="year-btn">2024</p>
 				</a>
 			</div>
-			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
+			<div class="movie-card">
 				<a href="/welcome-to-the-jungle">
 					<img
 						src="/i/welcome-to-the-jungle.webp"
@@ -162,9 +176,7 @@
 					<p class="year-btn">2024</p>
 				</a>
 			</div>
-			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
+			<div class="movie-card">
 				<a href="/vanvaas">
 					<img
 						src="/i/vanvaas.webp"
@@ -178,9 +190,7 @@
 					<p class="year-btn">2024</p>
 				</a>
 			</div>
-			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
+			<div class="movie-card">
 				<a href="/pushpa-the-rule-part-2">
 					<img
 						src="/i/pushpa-the-rule-part-2.webp"
@@ -194,9 +204,7 @@
 					<p class="year-btn">2024</p>
 				</a>
 			</div>
-			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
+			<div class="movie-card">
 				<a href="/the-sabarmati-report">
 					<img
 						src="/i/the-sabarmati-report.webp"
@@ -211,9 +219,7 @@
 				</a>
 			</div>
 
-			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
+			<div class="movie-card">
 				<a href="/bad-newz">
 					<img
 						src="/i/bad-newz.webp"
@@ -228,9 +234,7 @@
 				</a>
 			</div>
 
-			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
+			<div class="movie-card">
 				<a href="/sarfira">
 					<img
 						src="/i/sarfira.webp"
@@ -244,9 +248,7 @@
 					<p class="year-btn">2024</p>
 				</a>
 			</div>
-			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
+			<div class="movie-card">
 				<a href="/ulajh">
 					<img
 						src="/i/ulajh.webp"
@@ -260,9 +262,7 @@
 					<p class="year-btn">2024</p>
 				</a>
 			</div>
-			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
+			<div class="movie-card">
 				<a href="/maidaan">
 					<img
 						src="/i/maidaan.webp"
@@ -276,9 +276,7 @@
 					<p class="year-btn">2024</p>
 				</a>
 			</div>
-			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
+			<div class="movie-card">
 				<a href="/vedaa">
 					<img
 						src="/i/vedaa.webp"
@@ -292,9 +290,7 @@
 					<p class="year-btn">2024</p>
 				</a>
 			</div>
-			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
+			<div class="movie-card">
 				<a href="/singham-again">
 					<img
 						src="/i/singham-again.webp"
@@ -308,9 +304,7 @@
 					<p class="year-btn">2024</p>
 				</a>
 			</div>
-			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
+			<div class="movie-card">
 				<a href="/pushpa-the-rise-part-01">
 					<img
 						src="/i/pushpa-the-rise-part-01.webp"
@@ -324,9 +318,7 @@
 					<p class="year-btn">2024</p>
 				</a>
 			</div>
-			<div
-				class="p-0 w-full h-full m-auto rounded hover:scale-105 transition-transform mb-6 cursor-pointer"
-			>
+			<div class="movie-card">
 				<a href="/amaran">
 					<img
 						src="/i/amaran.webp"
