@@ -1,10 +1,19 @@
 <script>
+	// const freeOttLinks = [
+	// 	{ href: '/hindi-movies', src: '/img/hindi.svg', alt: 'hindi-movies' },
+	// 	{ href: '/telugu-movies', src: '/img/telugu.svg', alt: 'telugu-movies' },
+	// 	{ href: '/tamil-movies', src: '/img/tamil.svg', alt: 'tamil-movies' },
+	// 	{ href: '/kannada-movies', src: '/img/kannada.svg', alt: 'kannada-movies' },
+	// 	{ href: '/bookmarks-list', src: '/img/malayalam.svg', alt: 'malayalam-movies' },
+	// 	{ href: 'https://www.youtube.com', src: '/img/youtube.svg', alt: 'YouTube', target: '_blank' }
+	// ];
+
 	const freeOttLinks = [
-		{ href: '/hindi-movies', src: '/img/hindi.svg', alt: 'hindi-movies' },
-		{ href: '/telugu-movies', src: '/img/telugu.svg', alt: 'telugu-movies' },
-		{ href: '/tamil-movies', src: '/img/tamil.svg', alt: 'tamil-movies' },
-		{ href: '/kannada-movies', src: '/img/kannada.svg', alt: 'kannada-movies' },
-		{ href: '/bookmarks-list', src: '/img/malayalam.svg', alt: 'malayalam-movies' },
+		{ href: 'https://www.iradha.org/hindi-movies/', src: '/img/hindi.svg', alt: 'hindi-movies'},
+		{ href: 'https://www.iradha.org/telugu-movies', src: '/img/telugu.svg', alt: 'telugu-movies'},
+		{ href: 'https://www.iradha.org/tamil-movies', src: '/img/tamil.svg', alt: 'tamil-movies'},
+		{ href: 'https://www.iradha.org/kannada-movies/', src: '/img/kannada.svg', alt: 'kannada-movies'},
+		{ href: 'https://www.iradha.org/malayalam-movies', src: '/img/malayalam.svg', alt: 'malayalam-movies'},
 		{ href: 'https://www.youtube.com', src: '/img/youtube.svg', alt: 'YouTube', target: '_blank' }
 	];
 
@@ -56,7 +65,7 @@
 			<h2 class="text-xl font-semibold mb-4">Free OTT</h2>
 			<div class="grid grid-cols-3 sm:grid-cols-3 lg:grid-cols-6 gap-4">
 				{#each freeOttLinks as { href, src, alt }}
-					<a {href} class="h-full">
+					<a {href} target="_blank" rel="noopener noreferrer" class="h-full">
 						<div
 							class="flex items-center justify-center p-1 rounded bg-blue-200 cursor-pointer h-fit"
 						>
