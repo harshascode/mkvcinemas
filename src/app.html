@@ -19,7 +19,14 @@
 <body class="bg-white text-black antialiased dark:bg-black dark:text-white" data-sveltekit-prefetch>
 	<div style="display: contents">%sveltekit.body%</div>
 	<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
-	<script>window.OneSignalDeferred=window.OneSignalDeferred||[],OneSignalDeferred.push(async function(e){await e.init({appId:"c5e2ae59-ad8b-46e8-8750-efc14cef5ad0"})});</script>
+	<script>
+		window.OneSignalDeferred = window.OneSignalDeferred || [];
+		OneSignalDeferred.push(async function (OneSignal) {
+			await OneSignal.init({
+				appId: "c5e2ae59-ad8b-46e8-8750-efc14cef5ad0",
+			});
+		});
+	</script>
 </body>
 
 </html>
