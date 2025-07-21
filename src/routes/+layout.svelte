@@ -12,14 +12,7 @@
 	/** @type {Props} */
 	let { children } = $props();
 
-	// one signal code starts
-	import { onMount } from 'svelte';
-	import { initializeOneSignal } from '$lib/utils/onesignal.js';
-
-	onMount(() => {
-		initializeOneSignal();
-	});
-	// Ends here one signal code
+	
 </script>
 
 <div class="mx-auto max-w-7xl px-4 sm:px-6 xl:max-w-7xl xl:px-0">
