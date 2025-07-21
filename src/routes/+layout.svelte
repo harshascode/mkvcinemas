@@ -11,8 +11,6 @@
 
 	/** @type {Props} */
 	let { children } = $props();
-
-	
 </script>
 
 <div class="mx-auto max-w-7xl px-4 sm:px-6 xl:max-w-7xl xl:px-0">
@@ -45,4 +43,14 @@
 			referrerpolicy="no-referrer-when-downgrade"
 		/></noscript
 	> -->
+
+	<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+	<script>
+		window.OneSignalDeferred = window.OneSignalDeferred || [];
+		OneSignalDeferred.push(async function (OneSignal) {
+			await OneSignal.init({
+				appId: 'c5e2ae59-ad8b-46e8-8750-efc14cef5ad0'
+			});
+		});
+	</script>
 </div>
