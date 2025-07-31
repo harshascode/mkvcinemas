@@ -9,16 +9,16 @@
 	// ];
 
 	const freeOttLinks = [
-		{ href: 'https://www.iradha.org/hindi-movies/', src: '/img/hindi.svg', alt: 'hindi-movies' },
-		{ href: 'https://www.iradha.org/telugu-movies', src: '/img/telugu.svg', alt: 'telugu-movies' },
-		{ href: 'https://www.iradha.org/tamil-movies', src: '/img/tamil.svg', alt: 'tamil-movies' },
+		{ href: 'https://mkvcinemas.buzz/hindi-movies/', src: '/img/hindi.svg', alt: 'hindi-movies' },
+		{ href: 'https://mkvcinemas.buzz/telugu-movies', src: '/img/telugu.svg', alt: 'telugu-movies' },
+		{ href: 'https://mkvcinemas.buzz/tamil-movies', src: '/img/tamil.svg', alt: 'tamil-movies' },
 		{
-			href: 'https://www.iradha.org/kannada-movies/',
+			href: 'https://mkvcinemas.buzz/kannada-movies/',
 			src: '/img/kannada.svg',
 			alt: 'kannada-movies'
 		},
 		{
-			href: 'https://www.iradha.org/malayalam-movies',
+			href: 'https://mkvcinemas.buzz/malayalam-movies',
 			src: '/img/malayalam.svg',
 			alt: 'malayalam-movies'
 		},

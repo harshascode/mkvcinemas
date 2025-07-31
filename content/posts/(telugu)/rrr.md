@@ -34,7 +34,7 @@ RRR is a Indian historical action drama directed by S. S. Rajamouli. The film re
 | **Awards**                | Oscar for Best Original Song (Naatu Naatu)                    |
 | **Key Themes**            | Brotherhood, Freedom, Resilience                              |
 
-<a href="https://mkvcinemas.buzz/bookmarks-list">
+<a href="https://www.profitableratecpm.com/vbvpd9w3h?key=32fa8307e0db421fc9459d903b211dae">
   <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
 </a>
 

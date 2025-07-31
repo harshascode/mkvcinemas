@@ -33,7 +33,7 @@ Director Sandeep Sunkad makes a notable entry into the film industry with Shakha
 | **Audience**        | Suitable for older teens and adults; primarily appeals to fans of crime thrillers and Kannada cinema.                                  |
 | **Viewing Options** | Check local streaming services for availability; primarily released in Kannada.                                                        |
 
-<a href="https://mkvcinemas.buzz/bookmarks-list">
+<a href="https://www.profitableratecpm.com/vbvpd9w3h?key=32fa8307e0db421fc9459d903b211dae">
   <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
 </a>
 

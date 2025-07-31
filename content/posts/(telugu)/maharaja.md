@@ -37,7 +37,7 @@ Maharaja is a gripping Tamil action thriller that weaves a compelling narrative 
 | **Conclusion**            | A significant addition to the action thriller genre, celebrating storytelling that addresses global human experiences and societal issues.                     |
 | **Rating**                | Not explicitly mentioned; however, the film is described as a must-watch.                                                                                      |
 
-<a href="https://mkvcinemas.buzz/bookmarks-list">
+<a href="https://www.profitableratecpm.com/vbvpd9w3h?key=32fa8307e0db421fc9459d903b211dae">
   <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
 </a>
 

@@ -33,7 +33,7 @@ Directed by Nag Ashwin, the movie showcases a star-studded cast, including indus
 | **Box Office Collection** | ₹653.21 crore in India (₹770.78 crore gross), ₹283.89 crore internationally, total gross ₹1054.67 crore worldwide                                                                                                                   |
 | **Trailer**               | Teases epic scale with a blend of futuristic sci-fi and mythological roots, featuring action-packed sequences and striking visuals.                                                                                                 |
 
-<a href="https://mkvcinemas.buzz/bookmarks-list">
+<a href="https://www.profitableratecpm.com/vbvpd9w3h?key=32fa8307e0db421fc9459d903b211dae">
   <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
 </a>
 

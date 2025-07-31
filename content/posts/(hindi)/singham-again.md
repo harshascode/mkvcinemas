@@ -27,7 +27,7 @@ author: Harsh
 | Box Office   | ₹379 crore (US$45 million) worldwide                                                                       |
 | Censor Edits | 17 edits, including disclaimers and toned-down violence                                                    |
 
-<a href="https://mkvcinemas.buzz/bookmarks-list">
+<a href="https://www.profitableratecpm.com/vbvpd9w3h?key=32fa8307e0db421fc9459d903b211dae">
   <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
 </a>
 

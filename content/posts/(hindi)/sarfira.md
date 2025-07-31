@@ -28,7 +28,7 @@ your popcorn and get ready for an unforgettable ride!
 | **Production Companies** | 2D Entertainment, Abundantia Entertainment, Cape of Good Films |
 | **Music Composer**       | G. V. Prakash Kumar                                            |
 
-<a href="https://mkvcinemas.buzz/bookmarks-list">
+<a href="https://www.profitableratecpm.com/vbvpd9w3h?key=32fa8307e0db421fc9459d903b211dae">
   <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
 </a>
 

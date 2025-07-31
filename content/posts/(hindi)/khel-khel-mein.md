@@ -28,7 +28,7 @@ Khel Khel Mein is an romantic-comedy film directed by Mudassar Aziz, Known for b
 | **Editor**               | Ninad Khanolkar                                                                                 |
 | **Music Composers**      | Tanishk Bagchi, Rochak Kohli, Guru Randhawa, B Praak, Jassi Sidhu                               |
 
-<a href="https://mkvcinemas.buzz/bookmarks-list">
+<a href="https://www.profitableratecpm.com/vbvpd9w3h?key=32fa8307e0db421fc9459d903b211dae">
   <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
 </a>
 

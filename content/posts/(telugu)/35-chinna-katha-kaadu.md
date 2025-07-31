@@ -25,7 +25,7 @@ author: Harsh
 | **Production Companies** | S Originals, Suresh Productions, Waltair Productions                  |
 | **Genres**               | Drama, Family, Kids                                                   |
 
-<a href="https://mkvcinemas.buzz/bookmarks-list">
+<a href="https://www.profitableratecpm.com/vbvpd9w3h?key=32fa8307e0db421fc9459d903b211dae">
   <img src="/mkvcinemas-btn.webp" alt="Mkvcinemas Download" width="600" height="200" loading="lazy">
 </a>
 
